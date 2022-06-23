@@ -81,6 +81,7 @@ if company_selection != "Other" :
             c.markdown(f"##### {info.title}")
             c.caption(f"{info.description}")
             
+
     show_visuals()
 
 if search:
