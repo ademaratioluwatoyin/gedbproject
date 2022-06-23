@@ -3,6 +3,7 @@ from setup import PAYMENTS, SUB_INDUSTRIES
 import streamlit as st
 import pandas as pd
 from util import *
+from visuals import *
 
 # set page url, icon etc
 st.set_page_config(
@@ -79,11 +80,10 @@ if company_selection != "Other" :
         if info.type == metric_type : 
             c.markdown(f"##### {info.title}")
             c.caption(f"{info.description}")
-
-
+            
+    show_visuals()
 
 if search:
-
     search_cont = st.container()
     search_cont.subheader("Search Reference")
     # metrics = ', '.join(metrics) 
