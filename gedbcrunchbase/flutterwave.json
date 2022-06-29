@@ -1,0 +1,4636 @@
+[{
+  "properties": {
+    "facet_ids": [
+      "contact",
+      "siftery",
+      "investor",
+      "ipqwery",
+      "privco",
+      "aberdeen",
+      "semrush",
+      "company",
+      "rank",
+      "builtwith",
+      "key_event"
+    ],
+    "identifier": {
+      "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+      "value": "Flutterwave",
+      "image_id": "xn15of9frqzbdpi7fiqc",
+      "permalink": "flutterwave",
+      "entity_def_id": "organization"
+    },
+    "short_description": "Flutterwave is a fintech company that provides a payment infrastructure for global merchants and payment service providers.",
+    "is_locked": true,
+    "title": "Flutterwave"
+  },
+  "cards": {
+    "semrush_summary": {
+      "identifier": {
+        "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+        "value": "Flutterwave",
+        "image_id": "xn15of9frqzbdpi7fiqc",
+        "permalink": "flutterwave",
+        "entity_def_id": "organization"
+      },
+      "semrush_global_rank": 3129,
+      "semrush_visits_latest_month": 37777621
+    },
+    "company_about_fields1": {},
+    "current_advisors_image_list": [
+      {
+        "identifier": {
+          "uuid": "2fc941b7-712e-455f-ba19-4a7e3849ea5f",
+          "value": "Will Szczerbiak Board Observer @ Flutterwave",
+          "permalink": "will-szczerbiak-board-member-flutterwave--2fc941b7",
+          "entity_def_id": "job"
+        },
+        "person_identifier": {
+          "uuid": "3e3b5641-4445-60ff-ca81-fbcadca0b74e",
+          "value": "Will Szczerbiak",
+          "image_id": "v1440917439/chjzulff5q0frkevdxww.png",
+          "permalink": "will-szczerbiak",
+          "entity_def_id": "person"
+        },
+        "job_type": "board_member",
+        "started_on": {
+          "value": "2017-07-01",
+          "precision": "month"
+        }
+      },
+      {
+        "identifier": {
+          "uuid": "3172e024-9acd-4406-b998-b8fd3f64daaf",
+          "value": "Michael Walsh Board Observer @ Flutterwave",
+          "permalink": "michael-walsh-5-board-observer-flutterwave--3172e024",
+          "entity_def_id": "job"
+        },
+        "person_identifier": {
+          "uuid": "0eeabcc1-8421-8a21-70b3-5c6d39a3a0e6",
+          "value": "Michael Walsh",
+          "image_id": "v1419288685/eioqg8xu9cqcplnf8hir.png",
+          "permalink": "michael-walsh-5",
+          "entity_def_id": "person"
+        },
+        "job_type": "board_observer"
+      },
+      {
+        "identifier": {
+          "uuid": "4de00bd2-711a-492a-ba8c-0f90d5918dfe",
+          "value": "Ian Sigalow Board Observer @ Flutterwave",
+          "permalink": "ian-sigalow-board-member-flutterwave--4de00bd2",
+          "entity_def_id": "job"
+        },
+        "person_identifier": {
+          "uuid": "f70dcabb-e550-750c-f471-e2d00594ce60",
+          "value": "Ian Sigalow",
+          "image_id": "e4ml8sjqstzrgzmnzd07",
+          "permalink": "ian-sigalow",
+          "entity_def_id": "person"
+        },
+        "job_type": "board_member",
+        "started_on": {
+          "value": "2016-09-01",
+          "precision": "month"
+        }
+      },
+      {
+        "identifier": {
+          "uuid": "541420c8-31f9-42fc-9dc6-ea3ae9494a99",
+          "value": "Joe Saunders Board of Directors @ Flutterwave",
+          "permalink": "joe-saunders-2-board-member-flutterwave--541420c8",
+          "entity_def_id": "job"
+        },
+        "person_identifier": {
+          "uuid": "2d8d02ef-2e51-8fef-dc92-0a9cd46b31c4",
+          "value": "Joe Saunders",
+          "image_id": "v1422251357/sr0tcbh9j1pbg7n8emng.png",
+          "permalink": "joe-saunders-2",
+          "entity_def_id": "person"
+        },
+        "job_type": "board_member"
+      },
+      {
+        "identifier": {
+          "uuid": "a8c3867a-ffd0-4216-bbaa-b2438225b0c7",
+          "value": "Andrew Sugrue Board of Directors @ Flutterwave",
+          "permalink": "andrew-sugrue-board-member-flutterwave--a8c3867a",
+          "entity_def_id": "job"
+        },
+        "person_identifier": {
+          "uuid": "533f2e36-36d3-99ae-9eab-1dde75bb7488",
+          "value": "Andrew Sugrue",
+          "image_id": "v1500399278/w1kgiukhuqeld7jviqeh.png",
+          "permalink": "andrew-sugrue",
+          "entity_def_id": "person"
+        },
+        "job_type": "board_member",
+        "started_on": {
+          "value": "2021-02-01",
+          "precision": "month"
+        }
+      }
+    ],
+    "recommended_search": [
+      {
+        "org_num": 9975,
+        "queries": {
+          "person": [
+            {
+              "field_id": "location_identifiers",
+              "operator_id": "includes",
+              "values": [
+                "528f5e3c-90d1-1111-5d1c-2e4ff979d58e"
+              ],
+              "type": "predicate"
+            },
+            {
+              "field_id": "rank_person",
+              "operator_id": "lte",
+              "values": [
+                16000
+              ],
+              "type": "predicate"
+            },
+            {
+              "collection_id": "organization.has_primary_organization.forward",
+              "query": [
+                {
+                  "field_id": "facet_ids",
+                  "operator_id": "includes",
+                  "values": [
+                    "company"
+                  ],
+                  "type": "predicate"
+                },
+                {
+                  "field_id": "location_identifiers",
+                  "operator_id": "includes",
+                  "values": [
+                    "528f5e3c-90d1-1111-5d1c-2e4ff979d58e"
+                  ],
+                  "type": "predicate"
+                },
+                {
+                  "field_id": "operating_status",
+                  "operator_id": "eq",
+                  "values": [
+                    "active"
+                  ],
+                  "type": "predicate"
+                },
+                {
+                  "field_id": "rank_org",
+                  "operator_id": "lte",
+                  "values": [
+                    440000
+                  ],
+                  "type": "predicate"
+                }
+              ],
+              "type": "sub_query"
+            }
+          ],
+          "organization": [
+            {
+              "field_id": "facet_ids",
+              "operator_id": "includes",
+              "values": [
+                "company"
+              ],
+              "type": "predicate"
+            },
+            {
+              "field_id": "location_identifiers",
+              "operator_id": "includes",
+              "values": [
+                "528f5e3c-90d1-1111-5d1c-2e4ff979d58e"
+              ],
+              "type": "predicate"
+            },
+            {
+              "field_id": "operating_status",
+              "operator_id": "eq",
+              "values": [
+                "active"
+              ],
+              "type": "predicate"
+            },
+            {
+              "field_id": "rank_org",
+              "operator_id": "lte",
+              "values": [
+                440000
+              ],
+              "type": "predicate"
+            }
+          ],
+          "event": [
+            {
+              "field_id": "location_identifiers",
+              "operator_id": "includes",
+              "values": [
+                "528f5e3c-90d1-1111-5d1c-2e4ff979d58e"
+              ],
+              "type": "predicate"
+            },
+            {
+              "collection_id": "principal.has_event.forward",
+              "query": [
+                {
+                  "field_id": "facet_ids",
+                  "operator_id": "includes",
+                  "values": [
+                    "company"
+                  ],
+                  "type": "predicate"
+                },
+                {
+                  "field_id": "operating_status",
+                  "operator_id": "eq",
+                  "values": [
+                    "active"
+                  ],
+                  "type": "predicate"
+                }
+              ],
+              "type": "sub_query"
+            }
+          ]
+        },
+        "identifier": {
+          "permalink": "san-francisco-companies",
+          "image_id": "bhusvwtttjcsxhaq0kil",
+          "uuid": "0e44b359-2961-4be1-be0e-c717ec20a084",
+          "entity_def_id": "hub",
+          "value": "San Francisco Companies (Top 10K)"
+        },
+        "org_identifiers": [
+          {
+            "permalink": "coinbase",
+            "image_id": "bhusvwtttjcsxhaq0kil",
+            "uuid": "66e40cf4-9685-ff3b-b5a7-0d43cc45eefb",
+            "entity_def_id": "organization",
+            "value": "Coinbase"
+          },
+          {
+            "permalink": "twilio",
+            "image_id": "zy6ttel4bwjtojwcf3cu",
+            "uuid": "b2d5980b-bccb-a961-f0ac-6e4e46b30ede",
+            "entity_def_id": "organization",
+            "value": "Twilio"
+          },
+          {
+            "permalink": "twitter",
+            "image_id": "v1397180207/d242197edc3ff044620cf2d8ff39d6b3.jpg",
+            "uuid": "5da6106f-0d27-0d37-e9d7-dcfeccc1f709",
+            "entity_def_id": "organization",
+            "value": "Twitter"
+          },
+          {
+            "permalink": "homelight",
+            "image_id": "qjdbtr3w0x1uuify4jmf",
+            "uuid": "a008b54a-f85c-83e0-0e81-1e3cefddb0e8",
+            "entity_def_id": "organization",
+            "value": "HomeLight"
+          },
+          {
+            "permalink": "magic-eden",
+            "image_id": "isriu57fdrugvehi1liv",
+            "uuid": "e30743bd-8f8f-4f1c-967e-b8a34821ec93",
+            "entity_def_id": "organization",
+            "value": "Magic Eden"
+          },
+          {
+            "permalink": "grubmarket-inc",
+            "image_id": "v1470349005/hiwewatvc6jpsdhw3wcc.png",
+            "uuid": "54219e4d-1a16-d97e-9088-ac29cbcfa28f",
+            "entity_def_id": "organization",
+            "value": "GrubMarket"
+          },
+          {
+            "permalink": "zendesk",
+            "image_id": "v1479214482/dzu3jzthbfkiblk3lesv.png",
+            "uuid": "08188951-6e48-e08a-4569-f90436c594e3",
+            "entity_def_id": "organization",
+            "value": "Zendesk"
+          },
+          {
+            "permalink": "moengage",
+            "image_id": "ort63nmhwzjbj6kzwbva",
+            "uuid": "b068dc87-b99f-c22d-c1a2-87f944dbb1e5",
+            "entity_def_id": "organization",
+            "value": "MoEngage"
+          }
+        ],
+        "org_funding_total": {
+          "value_usd": 348236994136,
+          "currency": "USD",
+          "value": 348236994136
+        },
+        "org_num_investors": 43254
+      },
+      {
+        "org_num": 288,
+        "queries": {
+          "person": [
+            {
+              "collection_id": "organization.has_primary_organization.forward",
+              "query": [
+                {
+                  "collection_id": "principal.has_investor.forward",
+                  "query": [
+                    {
+                      "field_id": "identifier",
+                      "operator_id": "includes",
+                      "values": [
+                        "dcfb1ae3-35b1-0bf2-0b3d-595031ab4507"
+                      ],
+                      "type": "predicate"
+                    }
+                  ],
+                  "type": "sub_query"
+                }
+              ],
+              "type": "sub_query"
+            },
+            {
+              "field_id": "rank_person",
+              "operator_id": "lte",
+              "values": [
+                370000
+              ],
+              "type": "predicate"
+            }
+          ],
+          "organization": [
+            {
+              "collection_id": "principal.has_investor.forward",
+              "query": [
+                {
+                  "field_id": "identifier",
+                  "operator_id": "includes",
+                  "values": [
+                    "dcfb1ae3-35b1-0bf2-0b3d-595031ab4507"
+                  ],
+                  "type": "predicate"
+                }
+              ],
+              "type": "sub_query"
+            }
+          ],
+          "event": [
+            {
+              "collection_id": "principal.has_event.forward",
+              "query": [
+                {
+                  "field_id": "identifier",
+                  "operator_id": "includes",
+                  "values": [
+                    "dcfb1ae3-35b1-0bf2-0b3d-595031ab4507"
+                  ],
+                  "type": "predicate"
+                }
+              ],
+              "type": "sub_query"
+            }
+          ]
+        },
+        "identifier": {
+          "permalink": "dcvc-portfolio-companies",
+          "image_id": "jye7r4ijmt2jysjsak5g",
+          "uuid": "9913548d-30ab-48f8-94ac-ea6df38b721d",
+          "entity_def_id": "hub",
+          "value": "DCVC Portfolio Companies"
+        },
+        "org_identifiers": [
+          {
+            "permalink": "gro-intelligence",
+            "image_id": "k0ffdzojzsoonxmc1uob",
+            "uuid": "8bb75a65-0355-003b-5f58-2f437e83a55a",
+            "entity_def_id": "organization",
+            "value": "Gro Intelligence"
+          },
+          {
+            "permalink": "elasticsearch",
+            "image_id": "hpy3a57mkl0vfcrmdmj1",
+            "uuid": "e0d34498-56d2-ff04-5ff1-4775d10fcc09",
+            "entity_def_id": "organization",
+            "value": "Elastic"
+          },
+          {
+            "permalink": "amogy",
+            "image_id": "vaylz1wboadtlbfdixsb",
+            "uuid": "7f8329f6-953e-4f12-8d92-21218166d0e8",
+            "entity_def_id": "organization",
+            "value": "Amogy"
+          },
+          {
+            "permalink": "zoom-video-communications",
+            "image_id": "apw52xc7fdjxtfej0v9z",
+            "uuid": "f6bf2bde-5a18-5052-add2-72cdc202c15c",
+            "entity_def_id": "organization",
+            "value": "Zoom"
+          },
+          {
+            "permalink": "uber",
+            "image_id": "r3brbjf6y7thcnqhchq2",
+            "uuid": "1eb37109-3b93-01a9-177f-fee2cb1bfcdc",
+            "entity_def_id": "organization",
+            "value": "Uber"
+          },
+          {
+            "permalink": "biobot-analytics",
+            "image_id": "bycjcqjmy1c9qm2dfrf8",
+            "uuid": "0023fe17-81b4-43aa-bf7e-a1f54f87dd7d",
+            "entity_def_id": "organization",
+            "value": "Biobot Analytics"
+          },
+          {
+            "permalink": "planet-labs",
+            "image_id": "wee6ayju8g9ssuydsfgq",
+            "uuid": "f8efef84-b622-2ea1-f7b7-9250e22335f8",
+            "entity_def_id": "organization",
+            "value": "Planet"
+          },
+          {
+            "permalink": "starkware-industries-ltd",
+            "image_id": "wghqgdriobpgz4nq0q4x",
+            "uuid": "bceb5238-74d3-4577-b158-4df63b571fb3",
+            "entity_def_id": "organization",
+            "value": "StarkWare Industries"
+          }
+        ],
+        "org_funding_total": {
+          "value_usd": 58632383840,
+          "currency": "USD",
+          "value": 58632383840
+        },
+        "org_num_investors": 4446
+      },
+      {
+        "org_num": 117,
+        "queries": {
+          "person": [
+            {
+              "collection_id": "organization.has_primary_organization.forward",
+              "query": [
+                {
+                  "collection_id": "principal.has_investor.forward",
+                  "query": [
+                    {
+                      "field_id": "identifier",
+                      "operator_id": "includes",
+                      "values": [
+                        "2846ebaa-ca73-5673-83cb-f68f882cd824"
+                      ],
+                      "type": "predicate"
+                    }
+                  ],
+                  "type": "sub_query"
+                }
+              ],
+              "type": "sub_query"
+            }
+          ],
+          "organization": [
+            {
+              "collection_id": "principal.has_investor.forward",
+              "query": [
+                {
+                  "field_id": "identifier",
+                  "operator_id": "includes",
+                  "values": [
+                    "2846ebaa-ca73-5673-83cb-f68f882cd824"
+                  ],
+                  "type": "predicate"
+                }
+              ],
+              "type": "sub_query"
+            }
+          ],
+          "event": [
+            {
+              "collection_id": "principal.has_event.forward",
+              "query": [
+                {
+                  "field_id": "identifier",
+                  "operator_id": "includes",
+                  "values": [
+                    "2846ebaa-ca73-5673-83cb-f68f882cd824"
+                  ],
+                  "type": "predicate"
+                }
+              ],
+              "type": "sub_query"
+            }
+          ]
+        },
+        "identifier": {
+          "permalink": "google-launchpad-accelerator-portfolio-companies",
+          "image_id": "v1506429250/fcva3ntpwmulkz0itthx.png",
+          "uuid": "7ddba768-4d30-4560-9285-3f1045f73fa3",
+          "entity_def_id": "hub",
+          "value": "Google Launchpad Accelerator Portfolio Companies"
+        },
+        "org_identifiers": [
+          {
+            "permalink": "revelo",
+            "image_id": "osofofaoatsvwgqx4l5j",
+            "uuid": "4fe62bf8-7418-47fb-a744-ae4d3e70e83c",
+            "entity_def_id": "organization",
+            "value": "Revelo"
+          },
+          {
+            "permalink": "payclip",
+            "image_id": "rruman4strh3ycubzcht",
+            "uuid": "f0379bc7-9789-3667-366d-6d895597a3ac",
+            "entity_def_id": "organization",
+            "value": "Clip"
+          },
+          {
+            "permalink": "konfio",
+            "image_id": "avfxlvwaevxrqroa7oex",
+            "uuid": "469c75d6-f7a8-19e3-2369-7445b5c4454d",
+            "entity_def_id": "organization",
+            "value": "Konfio"
+          },
+          {
+            "permalink": "flutterwave",
+            "image_id": "xn15of9frqzbdpi7fiqc",
+            "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+            "entity_def_id": "organization",
+            "value": "Flutterwave"
+          },
+          {
+            "permalink": "quintoandar",
+            "image_id": "nlze58xvkgonqbni8wv0",
+            "uuid": "c4d0f908-7c8a-1185-346e-48ead800b54f",
+            "entity_def_id": "organization",
+            "value": "QuintoAndar"
+          },
+          {
+            "permalink": "coda-payments",
+            "image_id": "inwn8xcjsdty0on00lee",
+            "uuid": "b717e0c7-8a8f-28b7-9b1d-675c3bd20da6",
+            "entity_def_id": "organization",
+            "value": "Coda Payments"
+          },
+          {
+            "permalink": "twiga-foods",
+            "image_id": "r3k0skdkrzsg08wj7ozc",
+            "uuid": "2b05de18-efc2-6b42-4b7a-b4431e068c8d",
+            "entity_def_id": "organization",
+            "value": "Twiga Foods"
+          },
+          {
+            "permalink": "sharechat",
+            "image_id": "qzg7khabloppdr1updja",
+            "uuid": "07cbce77-8c93-4bec-25bf-183be2fdd925",
+            "entity_def_id": "organization",
+            "value": "ShareChat"
+          }
+        ],
+        "org_funding_total": {
+          "value_usd": 7998823060,
+          "currency": "USD",
+          "value": 7998823060
+        },
+        "org_num_investors": 963
+      },
+      {
+        "org_num": 4455,
+        "queries": {
+          "person": [
+            {
+              "field_id": "rank_person",
+              "operator_id": "lte",
+              "values": [
+                86000
+              ],
+              "type": "predicate"
+            },
+            {
+              "collection_id": "organization.has_primary_organization.forward",
+              "query": [
+                {
+                  "collection_id": "principal.has_investor.forward",
+                  "query": [
+                    {
+                      "field_id": "investor_type",
+                      "operator_id": "includes",
+                      "values": [
+                        "university_program"
+                      ],
+                      "type": "predicate"
+                    }
+                  ],
+                  "type": "sub_query"
+                },
+                {
+                  "field_id": "operating_status",
+                  "operator_id": "eq",
+                  "values": [
+                    "active"
+                  ],
+                  "type": "predicate"
+                }
+              ],
+              "type": "sub_query"
+            }
+          ],
+          "organization": [
+            {
+              "collection_id": "principal.has_investor.forward",
+              "query": [
+                {
+                  "field_id": "investor_type",
+                  "operator_id": "includes",
+                  "values": [
+                    "university_program"
+                  ],
+                  "type": "predicate"
+                }
+              ],
+              "type": "sub_query"
+            },
+            {
+              "field_id": "operating_status",
+              "operator_id": "eq",
+              "values": [
+                "active"
+              ],
+              "type": "predicate"
+            }
+          ],
+          "event": [
+            {
+              "collection_id": "principal.has_event.forward",
+              "query": [
+                {
+                  "collection_id": "principal.has_investor.forward",
+                  "query": [
+                    {
+                      "field_id": "investor_type",
+                      "operator_id": "includes",
+                      "values": [
+                        "university_program"
+                      ],
+                      "type": "predicate"
+                    }
+                  ],
+                  "type": "sub_query"
+                },
+                {
+                  "field_id": "operating_status",
+                  "operator_id": "eq",
+                  "values": [
+                    "active"
+                  ],
+                  "type": "predicate"
+                }
+              ],
+              "type": "sub_query"
+            }
+          ]
+        },
+        "identifier": {
+          "permalink": "university-program-funded-companies",
+          "image_id": "tcrphh7te1cjqvmuoust",
+          "uuid": "9e863683-afc5-405a-85d7-1774d5bf717a",
+          "entity_def_id": "hub",
+          "value": "University Program Funded Companies"
+        },
+        "org_identifiers": [
+          {
+            "permalink": "bristol-myers-squibb",
+            "image_id": "tcrphh7te1cjqvmuoust",
+            "uuid": "258972b9-2834-f6a7-7da6-08f51a8e5fbf",
+            "entity_def_id": "organization",
+            "value": "Bristol Myers Squibb"
+          },
+          {
+            "permalink": "ethos-life",
+            "image_id": "eeimxvbivqfvw4ceqcc5",
+            "uuid": "bd558c96-e6e9-12d6-3b74-77e1a55ebf09",
+            "entity_def_id": "organization",
+            "value": "Ethos"
+          },
+          {
+            "permalink": "esusu-financial-inc",
+            "image_id": "hmnstboig2uybweamlly",
+            "uuid": "78619c0c-964e-4170-b930-81531b1d3214",
+            "entity_def_id": "organization",
+            "value": "Esusu Financial"
+          },
+          {
+            "permalink": "delphia",
+            "image_id": "rb0yag6ozmufr9oqiyu5",
+            "uuid": "34d4124a-c6c1-45e5-8d79-a0511ccf5c8f",
+            "entity_def_id": "organization",
+            "value": "Delphia"
+          },
+          {
+            "permalink": "owkin-2",
+            "image_id": "fzts97qhvur4e4byc33e",
+            "uuid": "8382eda7-d0d2-9cbd-785d-5908fc4a37fb",
+            "entity_def_id": "organization",
+            "value": "Owkin"
+          },
+          {
+            "permalink": "bid-ops",
+            "image_id": "byjagwpx4zp4rxhtzj4t",
+            "uuid": "fff61295-ec75-4f76-9e5c-8942f5dcc290",
+            "entity_def_id": "organization",
+            "value": "Arkestro"
+          },
+          {
+            "permalink": "huspy",
+            "image_id": "lv9manhqmkbqgu4txues",
+            "uuid": "6635408f-a1bc-4192-9997-29b59e5202a7",
+            "entity_def_id": "organization",
+            "value": "Huspy"
+          },
+          {
+            "permalink": "onfido",
+            "image_id": "y3wigxuofzf5isylyegg",
+            "uuid": "f1b80af8-5b99-b05f-3a96-e7d33cd626e2",
+            "entity_def_id": "organization",
+            "value": "Onfido"
+          }
+        ],
+        "org_funding_total": {
+          "value_usd": 92171392690,
+          "currency": "USD",
+          "value": 92171392690
+        },
+        "org_num_investors": 24193
+      }
+    ],
+    "org_similarity_org_list": [
+      {
+        "identifier": {
+          "uuid": "73baaf02-04a9-47b3-936e-081905eabb1f",
+          "value": "AtoB",
+          "image_id": "poc0gofm8zvelrq8o7kh",
+          "permalink": "atob",
+          "entity_def_id": "organization"
+        }
+      },
+      {
+        "identifier": {
+          "uuid": "88ec8a6a-abe3-77f4-0336-552750fd1fbb",
+          "value": "PPRO",
+          "image_id": "ess3jzjsu0iayb7zqcti",
+          "permalink": "ppro-group",
+          "entity_def_id": "organization"
+        }
+      },
+      {
+        "identifier": {
+          "uuid": "75eb746b-b35e-b0cd-736c-1cfacf994bd8",
+          "value": "Citcon",
+          "image_id": "syus0fwb13ulixotfw7r",
+          "permalink": "citcon-2",
+          "entity_def_id": "organization"
+        }
+      },
+      {
+        "identifier": {
+          "uuid": "2f99323e-72cf-b5d9-d06c-700590ec039f",
+          "value": "Paystack",
+          "image_id": "v1482999816/uph74pwwijksr7hybwzj.png",
+          "permalink": "paystack",
+          "entity_def_id": "organization"
+        }
+      },
+      {
+        "identifier": {
+          "uuid": "4f1b0041-a529-57b4-3ef7-6eb37c46ab25",
+          "value": "PayTabs",
+          "image_id": "v1418193727/tjwzxrxyonk1tqm0wzcg.jpg",
+          "permalink": "paytabs",
+          "entity_def_id": "organization"
+        }
+      },
+      {
+        "identifier": {
+          "uuid": "fd27bf93-5149-4cb0-df09-a61bac046ee0",
+          "value": "Finja",
+          "image_id": "htgithe0h4saln4j7kcg",
+          "permalink": "finja",
+          "entity_def_id": "organization"
+        }
+      },
+      {
+        "identifier": {
+          "uuid": "f9463976-9e43-301e-cf97-515c1b5b9cbb",
+          "value": "Token",
+          "image_id": "quwmzccrnrjlzwaznmdt",
+          "permalink": "token-2",
+          "entity_def_id": "organization"
+        }
+      },
+      {
+        "identifier": {
+          "uuid": "32a1dc42-89ba-41b3-aa37-dac6d28b6642",
+          "value": "Rellevate",
+          "image_id": "t8iikvrfq8aene4jntqf",
+          "permalink": "rellevate",
+          "entity_def_id": "organization"
+        }
+      },
+      {
+        "identifier": {
+          "uuid": "ce4a839f-e336-897d-827b-ec36c0e719c2",
+          "value": "EBANX",
+          "image_id": "i1x5javk9guqbxi1l1o3",
+          "permalink": "ebanx",
+          "entity_def_id": "organization"
+        }
+      }
+    ],
+    "investors_summary": {
+      "identifier": {
+        "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+        "value": "Flutterwave",
+        "image_id": "xn15of9frqzbdpi7fiqc",
+        "permalink": "flutterwave",
+        "entity_def_id": "organization"
+      },
+      "num_investors": 49
+    },
+    "funds_list": [],
+    "key_employee_change_list": [
+      {
+        "identifier": {
+          "uuid": "2674d81a-f2c2-43f0-9d4f-fd4a8abae14f",
+          "entity_def_id": "key_employee_change"
+        },
+        "key_event_date": "2022-06-14",
+        "press_reference_link": {
+          "label": "Flutterwave Appoints Former American Express Executive, Oneal Bhambani as Chief Financial Officer",
+          "value": "https://www.prnewswire.com/news-releases/flutterwave-appoints-former-american-express-executive-oneal-bhambani-as-chief-financial-officer-301567837.html"
+        }
+      },
+      {
+        "identifier": {
+          "uuid": "c41441ef-4147-4851-846d-acddf09d59f2",
+          "entity_def_id": "key_employee_change"
+        },
+        "key_event_date": "2021-07-14",
+        "press_reference_link": {
+          "label": "Flutterwave Appoints Oluwabankole Falade As Chief Regulatory and Government Relations Officer",
+          "value": "https://techmoran.com/2021/07/14/flutterwave-appoints-oluwabankole-falade-as-chief-regulatory-and-government-relations-officer/"
+        }
+      }
+    ],
+    "alumni_image_list": [],
+    "frequently_asked_questions_total_funding": {
+      "funding_total": {
+        "value": 474530000,
+        "currency": "USD",
+        "value_usd": 474530000
+      },
+      "identifier": {
+        "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+        "value": "Flutterwave",
+        "image_id": "xn15of9frqzbdpi7fiqc",
+        "permalink": "flutterwave",
+        "entity_def_id": "organization"
+      }
+    },
+    "exits_summary": {
+      "identifier": {
+        "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+        "value": "Flutterwave",
+        "image_id": "xn15of9frqzbdpi7fiqc",
+        "permalink": "flutterwave",
+        "entity_def_id": "organization"
+      }
+    },
+    "bombora_surge_list": [],
+    "diversity_spotlight_investments_list": [],
+    "builtwith_tech_used_list": [
+      {
+        "identifier": {
+          "uuid": "983394a8-d4ee-4af3-89ba-ae3a204dc982",
+          "value": "Viewport Meta",
+          "entity_def_id": "builtwith_technology"
+        },
+        "technology_category": [
+          "mobile"
+        ],
+        "num_companies_using": 999976
+      },
+      {
+        "identifier": {
+          "uuid": "2f6cffdd-6438-400e-9512-692a21e184d8",
+          "value": "IPhone / Mobile Compatible",
+          "entity_def_id": "builtwith_technology"
+        },
+        "technology_category": [
+          "mobile"
+        ],
+        "num_companies_using": 989571
+      },
+      {
+        "identifier": {
+          "uuid": "ee6e401f-5d6b-4aee-a802-7abb05ddddc4",
+          "value": "LetsEncrypt",
+          "entity_def_id": "builtwith_technology"
+        },
+        "technology_category": [
+          "ssl"
+        ],
+        "num_companies_using": 575682
+      },
+      {
+        "identifier": {
+          "uuid": "75c3bada-5e60-4c4b-99c7-405cfd3f32cb",
+          "value": "Apple Mobile Web Clips Icon",
+          "entity_def_id": "builtwith_technology"
+        },
+        "technology_category": [
+          "mobile"
+        ],
+        "num_companies_using": 563120
+      },
+      {
+        "identifier": {
+          "uuid": "b13a21b9-6242-47c1-bd55-cf4bea7f4aa5",
+          "value": "Content Delivery Network",
+          "entity_def_id": "builtwith_technology"
+        },
+        "technology_category": [
+          "cdn"
+        ],
+        "num_companies_using": 492205
+      },
+      {
+        "identifier": {
+          "uuid": "b3102ade-bb6d-4ec5-aa20-90d871d20d2b",
+          "value": "Domain Not Resolving",
+          "entity_def_id": "builtwith_technology"
+        },
+        "technology_category": [
+          "hosting"
+        ],
+        "num_companies_using": 391024
+      },
+      {
+        "identifier": {
+          "uuid": "cf3e732d-2ada-4f4e-94af-faa2edb426d5",
+          "value": "IPv6",
+          "entity_def_id": "builtwith_technology"
+        },
+        "technology_category": [
+          "server"
+        ],
+        "num_companies_using": 303651
+      },
+      {
+        "identifier": {
+          "uuid": "c55bbd5a-53ad-4757-9666-49e429968c73",
+          "value": "Organization Schema",
+          "entity_def_id": "builtwith_technology"
+        },
+        "technology_category": [
+          "framework"
+        ],
+        "num_companies_using": 299617
+      },
+      {
+        "identifier": {
+          "uuid": "9827d75e-181d-4e8e-b4c1-bb5f0d48d1fa",
+          "value": "reCAPTCHA",
+          "entity_def_id": "builtwith_technology"
+        },
+        "technology_category": [
+          "widgets"
+        ],
+        "num_companies_using": 283268
+      },
+      {
+        "identifier": {
+          "uuid": "baaa871b-97c0-4d7e-8a9d-55ad80c638e0",
+          "value": "jsDelivr",
+          "entity_def_id": "builtwith_technology"
+        },
+        "technology_category": [
+          "cdn"
+        ],
+        "num_companies_using": 253848
+      }
+    ],
+    "funding_rounds_summary": {
+      "identifier": {
+        "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+        "value": "Flutterwave",
+        "image_id": "xn15of9frqzbdpi7fiqc",
+        "permalink": "flutterwave",
+        "entity_def_id": "organization"
+      },
+      "funding_total": {
+        "value": 474530000,
+        "currency": "USD",
+        "value_usd": 474530000
+      },
+      "num_funding_rounds": 11,
+      "last_funding_type": "series_d",
+      "last_funding_at": "2022-02-16"
+    },
+    "org_similarity_summary": {
+      "identifier": {
+        "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+        "value": "Flutterwave",
+        "image_id": "xn15of9frqzbdpi7fiqc",
+        "permalink": "flutterwave",
+        "entity_def_id": "organization"
+      }
+    },
+    "org_similarity_list": [
+      {
+        "target_num_contacts": 13,
+        "source": {
+          "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+          "value": "Flutterwave",
+          "image_id": "xn15of9frqzbdpi7fiqc",
+          "permalink": "flutterwave",
+          "entity_def_id": "organization"
+        },
+        "source_num_contacts": 24,
+        "identifier": {
+          "uuid": "2e53103c-64e5-4e46-81f4-f91f0914a762"
+        },
+        "source_locations": [
+          {
+            "uuid": "528f5e3c-90d1-1111-5d1c-2e4ff979d58e",
+            "value": "San Francisco",
+            "permalink": "san-francisco-california",
+            "entity_def_id": "location",
+            "location_type": "city"
+          },
+          {
+            "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+            "value": "California",
+            "permalink": "california-united-states",
+            "entity_def_id": "location",
+            "location_type": "region"
+          },
+          {
+            "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+            "value": "United States",
+            "permalink": "united-states",
+            "entity_def_id": "location",
+            "location_type": "country"
+          },
+          {
+            "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+            "value": "North America",
+            "permalink": "north-america",
+            "entity_def_id": "location",
+            "location_type": "continent"
+          }
+        ],
+        "uuid": "2e53103c-64e5-4e46-81f4-f91f0914a762",
+        "score": 0.9855255,
+        "target_locations": [
+          {
+            "uuid": "01272fa9-2531-61fb-0b1e-69fe0fa8a53c",
+            "value": "Stamford",
+            "permalink": "stamford-connecticut",
+            "entity_def_id": "location",
+            "location_type": "city"
+          },
+          {
+            "uuid": "53f97894-7e12-60e2-32c3-fdecbdb0dd8b",
+            "value": "Connecticut",
+            "permalink": "connecticut-united-states",
+            "entity_def_id": "location",
+            "location_type": "region"
+          },
+          {
+            "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+            "value": "United States",
+            "permalink": "united-states",
+            "entity_def_id": "location",
+            "location_type": "country"
+          },
+          {
+            "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+            "value": "North America",
+            "permalink": "north-america",
+            "entity_def_id": "location",
+            "location_type": "continent"
+          }
+        ],
+        "target_short_description": "Rellevate is a fintech company that provides innovative financial and payment services.",
+        "target_categories": [
+          {
+            "uuid": "2357ca1d-601d-eb18-c0f1-146d91d7aeae",
+            "value": "Consumer",
+            "permalink": "consumer",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services",
+            "permalink": "financial-services",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "e06799a9-f789-76e7-49a7-71ee980a70ec",
+            "value": "FinTech",
+            "permalink": "fintech-e067",
+            "entity_def_id": "category"
+          }
+        ],
+        "source_num_employees_enum": "c_00251_00500",
+        "target_location_groups": [
+          {
+            "uuid": "6c6b9ca5-966a-448b-8480-29b5a753f9ee",
+            "value": "East Coast",
+            "permalink": "east-coast-united-states",
+            "entity_def_id": "location",
+            "location_type": "group"
+          },
+          {
+            "uuid": "5fa63347-dbbc-4bc1-b18c-7732becd2d40",
+            "value": "New England",
+            "permalink": "new-england-united-states",
+            "entity_def_id": "location",
+            "location_type": "group"
+          },
+          {
+            "uuid": "75989641-ef66-456e-b7cd-dfa57b34e881",
+            "value": "Northeastern US",
+            "permalink": "northeastern-united-states",
+            "entity_def_id": "location",
+            "location_type": "group"
+          }
+        ],
+        "source_short_description": "Flutterwave is a fintech company that provides a payment infrastructure for global merchants and payment service providers.",
+        "target": {
+          "uuid": "32a1dc42-89ba-41b3-aa37-dac6d28b6642",
+          "value": "Rellevate",
+          "image_id": "t8iikvrfq8aene4jntqf",
+          "permalink": "rellevate",
+          "entity_def_id": "organization"
+        },
+        "source_categories": [
+          {
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services",
+            "permalink": "financial-services",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "e06799a9-f789-76e7-49a7-71ee980a70ec",
+            "value": "FinTech",
+            "permalink": "fintech-e067",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "f6195c47-1e3b-4cce-5409-6ed62f94d43c",
+            "value": "Payments",
+            "permalink": "payments",
+            "entity_def_id": "category"
+          }
+        ],
+        "source_location_groups": [
+          {
+            "uuid": "f79bcf34-5d9e-4a01-837e-f6012edd056c",
+            "value": "San Francisco Bay Area",
+            "permalink": "san-francisco-bay-area-california",
+            "entity_def_id": "location",
+            "location_type": "group"
+          },
+          {
+            "uuid": "cf97b169-46c9-493f-a20f-3fe590824934",
+            "value": "West Coast",
+            "permalink": "west-coast-united-states",
+            "entity_def_id": "location",
+            "location_type": "group"
+          },
+          {
+            "uuid": "f37257c7-3745-42a1-8e07-b7db80a362ac",
+            "value": "Western US",
+            "permalink": "western-united-states",
+            "entity_def_id": "location",
+            "location_type": "group"
+          }
+        ],
+        "target_num_employees_enum": "c_00011_00050",
+        "reasons": [
+          "category",
+          "description"
+        ]
+      },
+      {
+        "target_num_contacts": 28,
+        "source": {
+          "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+          "value": "Flutterwave",
+          "image_id": "xn15of9frqzbdpi7fiqc",
+          "permalink": "flutterwave",
+          "entity_def_id": "organization"
+        },
+        "source_num_contacts": 24,
+        "identifier": {
+          "uuid": "aaa09e3c-0e93-4953-a992-8bda64bc52fb"
+        },
+        "source_locations": [
+          {
+            "uuid": "528f5e3c-90d1-1111-5d1c-2e4ff979d58e",
+            "value": "San Francisco",
+            "permalink": "san-francisco-california",
+            "entity_def_id": "location",
+            "location_type": "city"
+          },
+          {
+            "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+            "value": "California",
+            "permalink": "california-united-states",
+            "entity_def_id": "location",
+            "location_type": "region"
+          },
+          {
+            "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+            "value": "United States",
+            "permalink": "united-states",
+            "entity_def_id": "location",
+            "location_type": "country"
+          },
+          {
+            "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+            "value": "North America",
+            "permalink": "north-america",
+            "entity_def_id": "location",
+            "location_type": "continent"
+          }
+        ],
+        "uuid": "aaa09e3c-0e93-4953-a992-8bda64bc52fb",
+        "score": 0.9824963,
+        "target_locations": [
+          {
+            "uuid": "aad17950-576b-8c44-8fd4-f44dbeb59220",
+            "value": "London",
+            "permalink": "london-england",
+            "entity_def_id": "location",
+            "location_type": "city"
+          },
+          {
+            "uuid": "79eb923b-9e93-e0db-2fe0-75f0c430c2cb",
+            "value": "England",
+            "permalink": "england-united-kingdom",
+            "entity_def_id": "location",
+            "location_type": "region"
+          },
+          {
+            "uuid": "a30e342c-1742-6b1c-66e9-461de680e54b",
+            "value": "United Kingdom",
+            "permalink": "united-kingdom",
+            "entity_def_id": "location",
+            "location_type": "country"
+          },
+          {
+            "uuid": "6106f5dc-823e-5da8-40d7-51612c0b2c4e",
+            "value": "Europe",
+            "permalink": "europe",
+            "entity_def_id": "location",
+            "location_type": "continent"
+          }
+        ],
+        "target_short_description": "Token is an open banking payments platform driving the shift from traditional payment methods to bank payments.",
+        "target_categories": [
+          {
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services",
+            "permalink": "financial-services",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "e06799a9-f789-76e7-49a7-71ee980a70ec",
+            "value": "FinTech",
+            "permalink": "fintech-e067",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "f6195c47-1e3b-4cce-5409-6ed62f94d43c",
+            "value": "Payments",
+            "permalink": "payments",
+            "entity_def_id": "category"
+          }
+        ],
+        "source_num_employees_enum": "c_00251_00500",
+        "source_short_description": "Flutterwave is a fintech company that provides a payment infrastructure for global merchants and payment service providers.",
+        "target": {
+          "uuid": "f9463976-9e43-301e-cf97-515c1b5b9cbb",
+          "value": "Token",
+          "image_id": "quwmzccrnrjlzwaznmdt",
+          "permalink": "token-2",
+          "entity_def_id": "organization"
+        },
+        "source_categories": [
+          {
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services",
+            "permalink": "financial-services",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "e06799a9-f789-76e7-49a7-71ee980a70ec",
+            "value": "FinTech",
+            "permalink": "fintech-e067",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "f6195c47-1e3b-4cce-5409-6ed62f94d43c",
+            "value": "Payments",
+            "permalink": "payments",
+            "entity_def_id": "category"
+          }
+        ],
+        "source_location_groups": [
+          {
+            "uuid": "f79bcf34-5d9e-4a01-837e-f6012edd056c",
+            "value": "San Francisco Bay Area",
+            "permalink": "san-francisco-bay-area-california",
+            "entity_def_id": "location",
+            "location_type": "group"
+          },
+          {
+            "uuid": "cf97b169-46c9-493f-a20f-3fe590824934",
+            "value": "West Coast",
+            "permalink": "west-coast-united-states",
+            "entity_def_id": "location",
+            "location_type": "group"
+          },
+          {
+            "uuid": "f37257c7-3745-42a1-8e07-b7db80a362ac",
+            "value": "Western US",
+            "permalink": "western-united-states",
+            "entity_def_id": "location",
+            "location_type": "group"
+          }
+        ],
+        "target_num_employees_enum": "c_00051_00100",
+        "reasons": [
+          "category"
+        ]
+      },
+      {
+        "target_num_contacts": 33,
+        "source": {
+          "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+          "value": "Flutterwave",
+          "image_id": "xn15of9frqzbdpi7fiqc",
+          "permalink": "flutterwave",
+          "entity_def_id": "organization"
+        },
+        "source_num_contacts": 24,
+        "identifier": {
+          "uuid": "0ccf8889-10ef-460a-a1ab-928a50f50287"
+        },
+        "source_locations": [
+          {
+            "uuid": "528f5e3c-90d1-1111-5d1c-2e4ff979d58e",
+            "value": "San Francisco",
+            "permalink": "san-francisco-california",
+            "entity_def_id": "location",
+            "location_type": "city"
+          },
+          {
+            "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+            "value": "California",
+            "permalink": "california-united-states",
+            "entity_def_id": "location",
+            "location_type": "region"
+          },
+          {
+            "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+            "value": "United States",
+            "permalink": "united-states",
+            "entity_def_id": "location",
+            "location_type": "country"
+          },
+          {
+            "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+            "value": "North America",
+            "permalink": "north-america",
+            "entity_def_id": "location",
+            "location_type": "continent"
+          }
+        ],
+        "uuid": "0ccf8889-10ef-460a-a1ab-928a50f50287",
+        "score": 0.97655475,
+        "target_locations": [
+          {
+            "uuid": "3fce50c4-f3f9-793d-2f50-3fc145585090",
+            "value": "Santa Clara",
+            "permalink": "santa-clara-california",
+            "entity_def_id": "location",
+            "location_type": "city"
+          },
+          {
+            "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+            "value": "California",
+            "permalink": "california-united-states",
+            "entity_def_id": "location",
+            "location_type": "region"
+          },
+          {
+            "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+            "value": "United States",
+            "permalink": "united-states",
+            "entity_def_id": "location",
+            "location_type": "country"
+          },
+          {
+            "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+            "value": "North America",
+            "permalink": "north-america",
+            "entity_def_id": "location",
+            "location_type": "continent"
+          }
+        ],
+        "target_short_description": "Citcon is a mobile payment network that enables global merchants to accept payments from consumers.",
+        "target_categories": [
+          {
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services",
+            "permalink": "financial-services",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "e06799a9-f789-76e7-49a7-71ee980a70ec",
+            "value": "FinTech",
+            "permalink": "fintech-e067",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "2795f8fd-4718-3f8f-7513-5391ab707c90",
+            "value": "Marketing",
+            "permalink": "marketing-2795",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "33cfeb88-f323-1b4f-8ecc-f3f876a5df05",
+            "value": "Mobile Payments",
+            "permalink": "mobile-payments",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "8672f521-ce9a-e851-adff-c35d2441a0ad",
+            "value": "Travel",
+            "permalink": "travel",
+            "entity_def_id": "category"
+          }
+        ],
+        "source_num_employees_enum": "c_00251_00500",
+        "target_location_groups": [
+          {
+            "uuid": "f79bcf34-5d9e-4a01-837e-f6012edd056c",
+            "value": "San Francisco Bay Area",
+            "permalink": "san-francisco-bay-area-california",
+            "entity_def_id": "location",
+            "location_type": "group"
+          },
+          {
+            "uuid": "625c1897-0157-4afb-bfb6-2585c562e720",
+            "value": "Silicon Valley",
+            "permalink": "silicon-valley-california",
+            "entity_def_id": "location",
+            "location_type": "group"
+          },
+          {
+            "uuid": "cf97b169-46c9-493f-a20f-3fe590824934",
+            "value": "West Coast",
+            "permalink": "west-coast-united-states",
+            "entity_def_id": "location",
+            "location_type": "group"
+          },
+          {
+            "uuid": "f37257c7-3745-42a1-8e07-b7db80a362ac",
+            "value": "Western US",
+            "permalink": "western-united-states",
+            "entity_def_id": "location",
+            "location_type": "group"
+          }
+        ],
+        "source_short_description": "Flutterwave is a fintech company that provides a payment infrastructure for global merchants and payment service providers.",
+        "target": {
+          "uuid": "75eb746b-b35e-b0cd-736c-1cfacf994bd8",
+          "value": "Citcon",
+          "image_id": "syus0fwb13ulixotfw7r",
+          "permalink": "citcon-2",
+          "entity_def_id": "organization"
+        },
+        "source_categories": [
+          {
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services",
+            "permalink": "financial-services",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "e06799a9-f789-76e7-49a7-71ee980a70ec",
+            "value": "FinTech",
+            "permalink": "fintech-e067",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "f6195c47-1e3b-4cce-5409-6ed62f94d43c",
+            "value": "Payments",
+            "permalink": "payments",
+            "entity_def_id": "category"
+          }
+        ],
+        "source_location_groups": [
+          {
+            "uuid": "f79bcf34-5d9e-4a01-837e-f6012edd056c",
+            "value": "San Francisco Bay Area",
+            "permalink": "san-francisco-bay-area-california",
+            "entity_def_id": "location",
+            "location_type": "group"
+          },
+          {
+            "uuid": "cf97b169-46c9-493f-a20f-3fe590824934",
+            "value": "West Coast",
+            "permalink": "west-coast-united-states",
+            "entity_def_id": "location",
+            "location_type": "group"
+          },
+          {
+            "uuid": "f37257c7-3745-42a1-8e07-b7db80a362ac",
+            "value": "Western US",
+            "permalink": "western-united-states",
+            "entity_def_id": "location",
+            "location_type": "group"
+          }
+        ],
+        "target_num_employees_enum": "c_00051_00100",
+        "reasons": [
+          "category",
+          "description"
+        ]
+      },
+      {
+        "target_num_contacts": 35,
+        "source": {
+          "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+          "value": "Flutterwave",
+          "image_id": "xn15of9frqzbdpi7fiqc",
+          "permalink": "flutterwave",
+          "entity_def_id": "organization"
+        },
+        "source_num_contacts": 24,
+        "identifier": {
+          "uuid": "67a02ce5-16cc-4a2a-9255-7a173372fbec"
+        },
+        "source_locations": [
+          {
+            "uuid": "528f5e3c-90d1-1111-5d1c-2e4ff979d58e",
+            "value": "San Francisco",
+            "permalink": "san-francisco-california",
+            "entity_def_id": "location",
+            "location_type": "city"
+          },
+          {
+            "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+            "value": "California",
+            "permalink": "california-united-states",
+            "entity_def_id": "location",
+            "location_type": "region"
+          },
+          {
+            "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+            "value": "United States",
+            "permalink": "united-states",
+            "entity_def_id": "location",
+            "location_type": "country"
+          },
+          {
+            "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+            "value": "North America",
+            "permalink": "north-america",
+            "entity_def_id": "location",
+            "location_type": "continent"
+          }
+        ],
+        "uuid": "67a02ce5-16cc-4a2a-9255-7a173372fbec",
+        "score": 0.9760963,
+        "target_locations": [
+          {
+            "uuid": "aad17950-576b-8c44-8fd4-f44dbeb59220",
+            "value": "London",
+            "permalink": "london-england",
+            "entity_def_id": "location",
+            "location_type": "city"
+          },
+          {
+            "uuid": "79eb923b-9e93-e0db-2fe0-75f0c430c2cb",
+            "value": "England",
+            "permalink": "england-united-kingdom",
+            "entity_def_id": "location",
+            "location_type": "region"
+          },
+          {
+            "uuid": "a30e342c-1742-6b1c-66e9-461de680e54b",
+            "value": "United Kingdom",
+            "permalink": "united-kingdom",
+            "entity_def_id": "location",
+            "location_type": "country"
+          },
+          {
+            "uuid": "6106f5dc-823e-5da8-40d7-51612c0b2c4e",
+            "value": "Europe",
+            "permalink": "europe",
+            "entity_def_id": "location",
+            "location_type": "continent"
+          }
+        ],
+        "target_short_description": "PPRO is the top global provider of local payments infrastructure, powering growth for payment service providers.",
+        "target_categories": [
+          {
+            "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+            "value": "Finance",
+            "permalink": "finance",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services",
+            "permalink": "financial-services",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "e06799a9-f789-76e7-49a7-71ee980a70ec",
+            "value": "FinTech",
+            "permalink": "fintech-e067",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "f6195c47-1e3b-4cce-5409-6ed62f94d43c",
+            "value": "Payments",
+            "permalink": "payments",
+            "entity_def_id": "category"
+          }
+        ],
+        "source_num_employees_enum": "c_00251_00500",
+        "source_short_description": "Flutterwave is a fintech company that provides a payment infrastructure for global merchants and payment service providers.",
+        "target": {
+          "uuid": "88ec8a6a-abe3-77f4-0336-552750fd1fbb",
+          "value": "PPRO",
+          "image_id": "ess3jzjsu0iayb7zqcti",
+          "permalink": "ppro-group",
+          "entity_def_id": "organization"
+        },
+        "source_categories": [
+          {
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services",
+            "permalink": "financial-services",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "e06799a9-f789-76e7-49a7-71ee980a70ec",
+            "value": "FinTech",
+            "permalink": "fintech-e067",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "f6195c47-1e3b-4cce-5409-6ed62f94d43c",
+            "value": "Payments",
+            "permalink": "payments",
+            "entity_def_id": "category"
+          }
+        ],
+        "source_location_groups": [
+          {
+            "uuid": "f79bcf34-5d9e-4a01-837e-f6012edd056c",
+            "value": "San Francisco Bay Area",
+            "permalink": "san-francisco-bay-area-california",
+            "entity_def_id": "location",
+            "location_type": "group"
+          },
+          {
+            "uuid": "cf97b169-46c9-493f-a20f-3fe590824934",
+            "value": "West Coast",
+            "permalink": "west-coast-united-states",
+            "entity_def_id": "location",
+            "location_type": "group"
+          },
+          {
+            "uuid": "f37257c7-3745-42a1-8e07-b7db80a362ac",
+            "value": "Western US",
+            "permalink": "western-united-states",
+            "entity_def_id": "location",
+            "location_type": "group"
+          }
+        ],
+        "target_num_employees_enum": "c_00251_00500",
+        "reasons": [
+          "category",
+          "num_employees"
+        ]
+      },
+      {
+        "target_num_contacts": 6,
+        "source": {
+          "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+          "value": "Flutterwave",
+          "image_id": "xn15of9frqzbdpi7fiqc",
+          "permalink": "flutterwave",
+          "entity_def_id": "organization"
+        },
+        "source_num_contacts": 24,
+        "identifier": {
+          "uuid": "fbf51a6f-f2b0-4b8c-ac0f-ef3d2c616e5f"
+        },
+        "source_locations": [
+          {
+            "uuid": "528f5e3c-90d1-1111-5d1c-2e4ff979d58e",
+            "value": "San Francisco",
+            "permalink": "san-francisco-california",
+            "entity_def_id": "location",
+            "location_type": "city"
+          },
+          {
+            "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+            "value": "California",
+            "permalink": "california-united-states",
+            "entity_def_id": "location",
+            "location_type": "region"
+          },
+          {
+            "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+            "value": "United States",
+            "permalink": "united-states",
+            "entity_def_id": "location",
+            "location_type": "country"
+          },
+          {
+            "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+            "value": "North America",
+            "permalink": "north-america",
+            "entity_def_id": "location",
+            "location_type": "continent"
+          }
+        ],
+        "uuid": "fbf51a6f-f2b0-4b8c-ac0f-ef3d2c616e5f",
+        "score": 0.9740373,
+        "target_locations": [
+          {
+            "uuid": "2d54f0a3-137e-323a-0ce6-916148a0bfd4",
+            "value": "Lahore",
+            "permalink": "lahore-punjab",
+            "entity_def_id": "location",
+            "location_type": "city"
+          },
+          {
+            "uuid": "a2cc30a0-2c36-24a4-3564-d31962e92587",
+            "value": "Punjab",
+            "permalink": "punjab-pakistan",
+            "entity_def_id": "location",
+            "location_type": "region"
+          },
+          {
+            "uuid": "ea487e37-15cf-a2f7-3ea6-77f44bf0f977",
+            "value": "Pakistan",
+            "permalink": "pakistan",
+            "entity_def_id": "location",
+            "location_type": "country"
+          },
+          {
+            "uuid": "b41404d2-8ecc-caf5-1268-8fdd3afe73ee",
+            "value": "Asia",
+            "permalink": "asia",
+            "entity_def_id": "location",
+            "location_type": "continent"
+          }
+        ],
+        "target_short_description": "Finja is a financial services platform that offers payments, lending, and collection services to professionals and SMEs.",
+        "target_categories": [
+          {
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services",
+            "permalink": "financial-services",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "e06799a9-f789-76e7-49a7-71ee980a70ec",
+            "value": "FinTech",
+            "permalink": "fintech-e067",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "83bd19b9-d944-aab6-8da7-9552a453ed93",
+            "value": "Lending",
+            "permalink": "lending",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "33cfeb88-f323-1b4f-8ecc-f3f876a5df05",
+            "value": "Mobile Payments",
+            "permalink": "mobile-payments",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "f6195c47-1e3b-4cce-5409-6ed62f94d43c",
+            "value": "Payments",
+            "permalink": "payments",
+            "entity_def_id": "category"
+          }
+        ],
+        "source_num_employees_enum": "c_00251_00500",
+        "target_location_groups": [
+          {
+            "uuid": "2d80faa6-8493-4565-887f-f18b0b9f7d03",
+            "value": "Asia-Pacific (APAC)",
+            "permalink": "asia-pacific",
+            "entity_def_id": "location",
+            "location_type": "group"
+          }
+        ],
+        "source_short_description": "Flutterwave is a fintech company that provides a payment infrastructure for global merchants and payment service providers.",
+        "target": {
+          "uuid": "fd27bf93-5149-4cb0-df09-a61bac046ee0",
+          "value": "Finja",
+          "image_id": "htgithe0h4saln4j7kcg",
+          "permalink": "finja",
+          "entity_def_id": "organization"
+        },
+        "source_categories": [
+          {
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services",
+            "permalink": "financial-services",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "e06799a9-f789-76e7-49a7-71ee980a70ec",
+            "value": "FinTech",
+            "permalink": "fintech-e067",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "f6195c47-1e3b-4cce-5409-6ed62f94d43c",
+            "value": "Payments",
+            "permalink": "payments",
+            "entity_def_id": "category"
+          }
+        ],
+        "source_location_groups": [
+          {
+            "uuid": "f79bcf34-5d9e-4a01-837e-f6012edd056c",
+            "value": "San Francisco Bay Area",
+            "permalink": "san-francisco-bay-area-california",
+            "entity_def_id": "location",
+            "location_type": "group"
+          },
+          {
+            "uuid": "cf97b169-46c9-493f-a20f-3fe590824934",
+            "value": "West Coast",
+            "permalink": "west-coast-united-states",
+            "entity_def_id": "location",
+            "location_type": "group"
+          },
+          {
+            "uuid": "f37257c7-3745-42a1-8e07-b7db80a362ac",
+            "value": "Western US",
+            "permalink": "western-united-states",
+            "entity_def_id": "location",
+            "location_type": "group"
+          }
+        ],
+        "target_num_employees_enum": "c_00101_00250",
+        "reasons": [
+          "category"
+        ]
+      },
+      {
+        "target_num_contacts": 18,
+        "source": {
+          "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+          "value": "Flutterwave",
+          "image_id": "xn15of9frqzbdpi7fiqc",
+          "permalink": "flutterwave",
+          "entity_def_id": "organization"
+        },
+        "source_num_contacts": 24,
+        "identifier": {
+          "uuid": "f9836eb3-833e-4d69-b833-b42fa316bc76"
+        },
+        "source_locations": [
+          {
+            "uuid": "528f5e3c-90d1-1111-5d1c-2e4ff979d58e",
+            "value": "San Francisco",
+            "permalink": "san-francisco-california",
+            "entity_def_id": "location",
+            "location_type": "city"
+          },
+          {
+            "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+            "value": "California",
+            "permalink": "california-united-states",
+            "entity_def_id": "location",
+            "location_type": "region"
+          },
+          {
+            "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+            "value": "United States",
+            "permalink": "united-states",
+            "entity_def_id": "location",
+            "location_type": "country"
+          },
+          {
+            "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+            "value": "North America",
+            "permalink": "north-america",
+            "entity_def_id": "location",
+            "location_type": "continent"
+          }
+        ],
+        "uuid": "f9836eb3-833e-4d69-b833-b42fa316bc76",
+        "score": 0.9739504,
+        "target_locations": [
+          {
+            "uuid": "9f9f3949-ceae-a0b8-b3e5-3d0846fe7ce2",
+            "value": "Al Khobar",
+            "permalink": "al-khobar-ash-sharqiyah",
+            "entity_def_id": "location",
+            "location_type": "city"
+          },
+          {
+            "uuid": "e475e8b6-4b5b-79a8-9dbb-f6566b068e1b",
+            "value": "Ash Sharqiyah",
+            "permalink": "ash-sharqiyah-saudi-arabia",
+            "entity_def_id": "location",
+            "location_type": "region"
+          },
+          {
+            "uuid": "2c205931-d55b-569b-0fdf-957f2f062bf3",
+            "value": "Saudi Arabia",
+            "permalink": "saudi-arabia",
+            "entity_def_id": "location",
+            "location_type": "country"
+          },
+          {
+            "uuid": "b41404d2-8ecc-caf5-1268-8fdd3afe73ee",
+            "value": "Asia",
+            "permalink": "asia",
+            "entity_def_id": "location",
+            "location_type": "continent"
+          }
+        ],
+        "target_short_description": "World's simple and trusted payments since 2014. PayTabs is an award winning, global, B2B online payments Solution Provider.",
+        "target_categories": [
+          {
+            "uuid": "275ddcbc-27de-ff4f-4e50-6dc26ebf9570",
+            "value": "E-Commerce",
+            "permalink": "e-commerce-275d",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services",
+            "permalink": "financial-services",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "e06799a9-f789-76e7-49a7-71ee980a70ec",
+            "value": "FinTech",
+            "permalink": "fintech-e067",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "33cfeb88-f323-1b4f-8ecc-f3f876a5df05",
+            "value": "Mobile Payments",
+            "permalink": "mobile-payments",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "f6195c47-1e3b-4cce-5409-6ed62f94d43c",
+            "value": "Payments",
+            "permalink": "payments",
+            "entity_def_id": "category"
+          }
+        ],
+        "source_num_employees_enum": "c_00251_00500",
+        "target_location_groups": [
+          {
+            "uuid": "c4365698-c7c5-44b0-b33a-7d13900e5be2",
+            "value": "Gulf Cooperation Council (GCC)",
+            "permalink": "gulf-cooperation-council",
+            "entity_def_id": "location",
+            "location_type": "group"
+          }
+        ],
+        "source_short_description": "Flutterwave is a fintech company that provides a payment infrastructure for global merchants and payment service providers.",
+        "target": {
+          "uuid": "4f1b0041-a529-57b4-3ef7-6eb37c46ab25",
+          "value": "PayTabs",
+          "image_id": "v1418193727/tjwzxrxyonk1tqm0wzcg.jpg",
+          "permalink": "paytabs",
+          "entity_def_id": "organization"
+        },
+        "source_categories": [
+          {
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services",
+            "permalink": "financial-services",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "e06799a9-f789-76e7-49a7-71ee980a70ec",
+            "value": "FinTech",
+            "permalink": "fintech-e067",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "f6195c47-1e3b-4cce-5409-6ed62f94d43c",
+            "value": "Payments",
+            "permalink": "payments",
+            "entity_def_id": "category"
+          }
+        ],
+        "source_location_groups": [
+          {
+            "uuid": "f79bcf34-5d9e-4a01-837e-f6012edd056c",
+            "value": "San Francisco Bay Area",
+            "permalink": "san-francisco-bay-area-california",
+            "entity_def_id": "location",
+            "location_type": "group"
+          },
+          {
+            "uuid": "cf97b169-46c9-493f-a20f-3fe590824934",
+            "value": "West Coast",
+            "permalink": "west-coast-united-states",
+            "entity_def_id": "location",
+            "location_type": "group"
+          },
+          {
+            "uuid": "f37257c7-3745-42a1-8e07-b7db80a362ac",
+            "value": "Western US",
+            "permalink": "western-united-states",
+            "entity_def_id": "location",
+            "location_type": "group"
+          }
+        ],
+        "target_num_employees_enum": "c_00051_00100",
+        "reasons": [
+          "category"
+        ]
+      },
+      {
+        "target_num_contacts": 186,
+        "source": {
+          "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+          "value": "Flutterwave",
+          "image_id": "xn15of9frqzbdpi7fiqc",
+          "permalink": "flutterwave",
+          "entity_def_id": "organization"
+        },
+        "source_num_contacts": 24,
+        "identifier": {
+          "uuid": "8fa80fb7-1738-4005-9714-9b50964424a7"
+        },
+        "source_locations": [
+          {
+            "uuid": "528f5e3c-90d1-1111-5d1c-2e4ff979d58e",
+            "value": "San Francisco",
+            "permalink": "san-francisco-california",
+            "entity_def_id": "location",
+            "location_type": "city"
+          },
+          {
+            "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+            "value": "California",
+            "permalink": "california-united-states",
+            "entity_def_id": "location",
+            "location_type": "region"
+          },
+          {
+            "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+            "value": "United States",
+            "permalink": "united-states",
+            "entity_def_id": "location",
+            "location_type": "country"
+          },
+          {
+            "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+            "value": "North America",
+            "permalink": "north-america",
+            "entity_def_id": "location",
+            "location_type": "continent"
+          }
+        ],
+        "uuid": "8fa80fb7-1738-4005-9714-9b50964424a7",
+        "score": 0.973859,
+        "target_locations": [
+          {
+            "uuid": "0f8bef19-2540-2cc7-88eb-4a3ecce6906f",
+            "value": "Curitiba",
+            "permalink": "curitiba-parana",
+            "entity_def_id": "location",
+            "location_type": "city"
+          },
+          {
+            "uuid": "a55ff0ff-7144-8e9f-4b9e-6a175209663b",
+            "value": "Parana",
+            "permalink": "parana-brazil",
+            "entity_def_id": "location",
+            "location_type": "region"
+          },
+          {
+            "uuid": "8eb58540-ecb9-b5bb-fae5-3ff82665c717",
+            "value": "Brazil",
+            "permalink": "brazil",
+            "entity_def_id": "location",
+            "location_type": "country"
+          },
+          {
+            "uuid": "dc5ba49f-731c-c510-b669-6a1641aee660",
+            "value": "South America",
+            "permalink": "south-america",
+            "entity_def_id": "location",
+            "location_type": "continent"
+          }
+        ],
+        "target_short_description": "EBANX is an integrated financial services company offering an end-to-end payment solution across the entire e-commerce transaction flow.",
+        "target_categories": [
+          {
+            "uuid": "275ddcbc-27de-ff4f-4e50-6dc26ebf9570",
+            "value": "E-Commerce",
+            "permalink": "e-commerce-275d",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services",
+            "permalink": "financial-services",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "e06799a9-f789-76e7-49a7-71ee980a70ec",
+            "value": "FinTech",
+            "permalink": "fintech-e067",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "f6195c47-1e3b-4cce-5409-6ed62f94d43c",
+            "value": "Payments",
+            "permalink": "payments",
+            "entity_def_id": "category"
+          }
+        ],
+        "source_num_employees_enum": "c_00251_00500",
+        "target_location_groups": [
+          {
+            "uuid": "dc8ffe02-9def-4cb3-a14c-5d37458b1507",
+            "value": "Latin America",
+            "permalink": "latin-america",
+            "entity_def_id": "location",
+            "location_type": "group"
+          }
+        ],
+        "source_short_description": "Flutterwave is a fintech company that provides a payment infrastructure for global merchants and payment service providers.",
+        "target": {
+          "uuid": "ce4a839f-e336-897d-827b-ec36c0e719c2",
+          "value": "EBANX",
+          "image_id": "i1x5javk9guqbxi1l1o3",
+          "permalink": "ebanx",
+          "entity_def_id": "organization"
+        },
+        "source_categories": [
+          {
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services",
+            "permalink": "financial-services",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "e06799a9-f789-76e7-49a7-71ee980a70ec",
+            "value": "FinTech",
+            "permalink": "fintech-e067",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "f6195c47-1e3b-4cce-5409-6ed62f94d43c",
+            "value": "Payments",
+            "permalink": "payments",
+            "entity_def_id": "category"
+          }
+        ],
+        "source_location_groups": [
+          {
+            "uuid": "f79bcf34-5d9e-4a01-837e-f6012edd056c",
+            "value": "San Francisco Bay Area",
+            "permalink": "san-francisco-bay-area-california",
+            "entity_def_id": "location",
+            "location_type": "group"
+          },
+          {
+            "uuid": "cf97b169-46c9-493f-a20f-3fe590824934",
+            "value": "West Coast",
+            "permalink": "west-coast-united-states",
+            "entity_def_id": "location",
+            "location_type": "group"
+          },
+          {
+            "uuid": "f37257c7-3745-42a1-8e07-b7db80a362ac",
+            "value": "Western US",
+            "permalink": "western-united-states",
+            "entity_def_id": "location",
+            "location_type": "group"
+          }
+        ],
+        "target_num_employees_enum": "c_00501_01000",
+        "reasons": [
+          "category"
+        ]
+      },
+      {
+        "target_num_contacts": 26,
+        "source": {
+          "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+          "value": "Flutterwave",
+          "image_id": "xn15of9frqzbdpi7fiqc",
+          "permalink": "flutterwave",
+          "entity_def_id": "organization"
+        },
+        "source_num_contacts": 24,
+        "identifier": {
+          "uuid": "8f8caf37-99ae-4c82-a2d9-f742b1ee0946"
+        },
+        "source_locations": [
+          {
+            "uuid": "528f5e3c-90d1-1111-5d1c-2e4ff979d58e",
+            "value": "San Francisco",
+            "permalink": "san-francisco-california",
+            "entity_def_id": "location",
+            "location_type": "city"
+          },
+          {
+            "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+            "value": "California",
+            "permalink": "california-united-states",
+            "entity_def_id": "location",
+            "location_type": "region"
+          },
+          {
+            "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+            "value": "United States",
+            "permalink": "united-states",
+            "entity_def_id": "location",
+            "location_type": "country"
+          },
+          {
+            "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+            "value": "North America",
+            "permalink": "north-america",
+            "entity_def_id": "location",
+            "location_type": "continent"
+          }
+        ],
+        "uuid": "8f8caf37-99ae-4c82-a2d9-f742b1ee0946",
+        "score": 0.9737662,
+        "target_locations": [
+          {
+            "uuid": "eee1ad9c-46bc-7479-51d9-b1289b10f829",
+            "value": "Ikeja",
+            "permalink": "ikeja-lagos",
+            "entity_def_id": "location",
+            "location_type": "city"
+          },
+          {
+            "uuid": "02eda330-e464-10bd-0bbb-53eb9167f714",
+            "value": "Lagos",
+            "permalink": "lagos-nigeria",
+            "entity_def_id": "location",
+            "location_type": "region"
+          },
+          {
+            "uuid": "4abbf906-6e8c-0c01-e56b-0e41d56bbfca",
+            "value": "Nigeria",
+            "permalink": "nigeria",
+            "entity_def_id": "location",
+            "location_type": "country"
+          },
+          {
+            "uuid": "5b194c3b-3018-b47d-f611-ab142cdfd74c",
+            "value": "Africa",
+            "permalink": "africa",
+            "entity_def_id": "location",
+            "location_type": "continent"
+          }
+        ],
+        "target_short_description": "Paystack lets businesses accept payments via credit card, debit card, money transfer and mobile money on their websites or mobile apps.",
+        "target_categories": [
+          {
+            "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+            "value": "Finance",
+            "permalink": "finance",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services",
+            "permalink": "financial-services",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "e06799a9-f789-76e7-49a7-71ee980a70ec",
+            "value": "FinTech",
+            "permalink": "fintech-e067",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "2772a539-e636-09dc-30dc-b1a7deb98d0e",
+            "value": "Internet",
+            "permalink": "internet",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "f6195c47-1e3b-4cce-5409-6ed62f94d43c",
+            "value": "Payments",
+            "permalink": "payments",
+            "entity_def_id": "category"
+          }
+        ],
+        "source_num_employees_enum": "c_00251_00500",
+        "source_short_description": "Flutterwave is a fintech company that provides a payment infrastructure for global merchants and payment service providers.",
+        "target": {
+          "uuid": "2f99323e-72cf-b5d9-d06c-700590ec039f",
+          "value": "Paystack",
+          "image_id": "v1482999816/uph74pwwijksr7hybwzj.png",
+          "permalink": "paystack",
+          "entity_def_id": "organization"
+        },
+        "source_categories": [
+          {
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services",
+            "permalink": "financial-services",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "e06799a9-f789-76e7-49a7-71ee980a70ec",
+            "value": "FinTech",
+            "permalink": "fintech-e067",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "f6195c47-1e3b-4cce-5409-6ed62f94d43c",
+            "value": "Payments",
+            "permalink": "payments",
+            "entity_def_id": "category"
+          }
+        ],
+        "source_location_groups": [
+          {
+            "uuid": "f79bcf34-5d9e-4a01-837e-f6012edd056c",
+            "value": "San Francisco Bay Area",
+            "permalink": "san-francisco-bay-area-california",
+            "entity_def_id": "location",
+            "location_type": "group"
+          },
+          {
+            "uuid": "cf97b169-46c9-493f-a20f-3fe590824934",
+            "value": "West Coast",
+            "permalink": "west-coast-united-states",
+            "entity_def_id": "location",
+            "location_type": "group"
+          },
+          {
+            "uuid": "f37257c7-3745-42a1-8e07-b7db80a362ac",
+            "value": "Western US",
+            "permalink": "western-united-states",
+            "entity_def_id": "location",
+            "location_type": "group"
+          }
+        ],
+        "target_num_employees_enum": "c_00101_00250",
+        "reasons": [
+          "category"
+        ]
+      },
+      {
+        "source": {
+          "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+          "value": "Flutterwave",
+          "image_id": "xn15of9frqzbdpi7fiqc",
+          "permalink": "flutterwave",
+          "entity_def_id": "organization"
+        },
+        "source_num_contacts": 24,
+        "identifier": {
+          "uuid": "8d77b285-8a91-4d8f-9d11-4b411c3a6920"
+        },
+        "source_locations": [
+          {
+            "uuid": "528f5e3c-90d1-1111-5d1c-2e4ff979d58e",
+            "value": "San Francisco",
+            "permalink": "san-francisco-california",
+            "entity_def_id": "location",
+            "location_type": "city"
+          },
+          {
+            "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+            "value": "California",
+            "permalink": "california-united-states",
+            "entity_def_id": "location",
+            "location_type": "region"
+          },
+          {
+            "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+            "value": "United States",
+            "permalink": "united-states",
+            "entity_def_id": "location",
+            "location_type": "country"
+          },
+          {
+            "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+            "value": "North America",
+            "permalink": "north-america",
+            "entity_def_id": "location",
+            "location_type": "continent"
+          }
+        ],
+        "uuid": "8d77b285-8a91-4d8f-9d11-4b411c3a6920",
+        "score": 0.94016075,
+        "target_locations": [
+          {
+            "uuid": "528f5e3c-90d1-1111-5d1c-2e4ff979d58e",
+            "value": "San Francisco",
+            "permalink": "san-francisco-california",
+            "entity_def_id": "location",
+            "location_type": "city"
+          },
+          {
+            "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+            "value": "California",
+            "permalink": "california-united-states",
+            "entity_def_id": "location",
+            "location_type": "region"
+          },
+          {
+            "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+            "value": "United States",
+            "permalink": "united-states",
+            "entity_def_id": "location",
+            "location_type": "country"
+          },
+          {
+            "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+            "value": "North America",
+            "permalink": "north-america",
+            "entity_def_id": "location",
+            "location_type": "continent"
+          }
+        ],
+        "target_short_description": "AtoB is a technology company building payments infrastructure for the transportation industry.",
+        "target_categories": [
+          {
+            "uuid": "e06799a9-f789-76e7-49a7-71ee980a70ec",
+            "value": "FinTech",
+            "permalink": "fintech-e067",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "f6195c47-1e3b-4cce-5409-6ed62f94d43c",
+            "value": "Payments",
+            "permalink": "payments",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "e391c491-c09d-a04e-b5b6-57aa8b8d0fc6",
+            "value": "Sustainability",
+            "permalink": "sustainability-e391",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "95642ff0-23e9-79a3-612b-50de99f06305",
+            "value": "Transportation",
+            "permalink": "transportation",
+            "entity_def_id": "category"
+          }
+        ],
+        "source_num_employees_enum": "c_00251_00500",
+        "target_location_groups": [
+          {
+            "uuid": "f79bcf34-5d9e-4a01-837e-f6012edd056c",
+            "value": "San Francisco Bay Area",
+            "permalink": "san-francisco-bay-area-california",
+            "entity_def_id": "location",
+            "location_type": "group"
+          },
+          {
+            "uuid": "cf97b169-46c9-493f-a20f-3fe590824934",
+            "value": "West Coast",
+            "permalink": "west-coast-united-states",
+            "entity_def_id": "location",
+            "location_type": "group"
+          },
+          {
+            "uuid": "f37257c7-3745-42a1-8e07-b7db80a362ac",
+            "value": "Western US",
+            "permalink": "western-united-states",
+            "entity_def_id": "location",
+            "location_type": "group"
+          }
+        ],
+        "source_short_description": "Flutterwave is a fintech company that provides a payment infrastructure for global merchants and payment service providers.",
+        "target": {
+          "uuid": "73baaf02-04a9-47b3-936e-081905eabb1f",
+          "value": "AtoB",
+          "image_id": "poc0gofm8zvelrq8o7kh",
+          "permalink": "atob",
+          "entity_def_id": "organization"
+        },
+        "source_categories": [
+          {
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services",
+            "permalink": "financial-services",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "e06799a9-f789-76e7-49a7-71ee980a70ec",
+            "value": "FinTech",
+            "permalink": "fintech-e067",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "f6195c47-1e3b-4cce-5409-6ed62f94d43c",
+            "value": "Payments",
+            "permalink": "payments",
+            "entity_def_id": "category"
+          }
+        ],
+        "source_location_groups": [
+          {
+            "uuid": "f79bcf34-5d9e-4a01-837e-f6012edd056c",
+            "value": "San Francisco Bay Area",
+            "permalink": "san-francisco-bay-area-california",
+            "entity_def_id": "location",
+            "location_type": "group"
+          },
+          {
+            "uuid": "cf97b169-46c9-493f-a20f-3fe590824934",
+            "value": "West Coast",
+            "permalink": "west-coast-united-states",
+            "entity_def_id": "location",
+            "location_type": "group"
+          },
+          {
+            "uuid": "f37257c7-3745-42a1-8e07-b7db80a362ac",
+            "value": "Western US",
+            "permalink": "western-united-states",
+            "entity_def_id": "location",
+            "location_type": "group"
+          }
+        ],
+        "target_num_employees_enum": "c_00051_00100",
+        "reasons": [
+          "category"
+        ]
+      }
+    ],
+    "acquisitions_summary": {
+      "identifier": {
+        "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+        "value": "Flutterwave",
+        "image_id": "xn15of9frqzbdpi7fiqc",
+        "permalink": "flutterwave",
+        "entity_def_id": "organization"
+      },
+      "num_acquisitions": 1
+    },
+    "advisors_summary": {
+      "identifier": {
+        "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+        "value": "Flutterwave",
+        "image_id": "xn15of9frqzbdpi7fiqc",
+        "permalink": "flutterwave",
+        "entity_def_id": "organization"
+      },
+      "num_current_advisor_positions": 5
+    },
+    "acquisitions_list": [
+      {
+        "acquiree_identifier": {
+          "role": "acquiree",
+          "uuid": "19c38ddd-4667-46cd-8097-06ba632a2f4f",
+          "value": "Disha",
+          "image_id": "ritp6keeseosuvvnzsiw",
+          "permalink": "disha",
+          "entity_def_id": "organization"
+        },
+        "announced_on": {
+          "value": "2021-11-10",
+          "precision": "day"
+        },
+        "identifier": {
+          "uuid": "a6c2c9eb-9d0e-4978-9e54-48cfb5e32699",
+          "value": "Disha acquired by Flutterwave",
+          "image_id": "ritp6keeseosuvvnzsiw",
+          "permalink": "flutterwave-acquires-disha--a6c2c9eb",
+          "entity_def_id": "acquisition"
+        }
+      }
+    ],
+    "alumni_headline": {},
+    "exits_headline": {},
+    "investments_summary": {
+      "identifier": {
+        "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+        "value": "Flutterwave",
+        "image_id": "xn15of9frqzbdpi7fiqc",
+        "permalink": "flutterwave",
+        "entity_def_id": "organization"
+      },
+      "num_investments": 1
+    },
+    "acquired_by_fields": {},
+    "sub_organizations_headline": {
+      "num_sub_organizations": 1
+    },
+    "layoff_list": [],
+    "overview_school_fields": {},
+    "bombora_summary": {
+      "identifier": {
+        "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+        "value": "Flutterwave",
+        "image_id": "xn15of9frqzbdpi7fiqc",
+        "permalink": "flutterwave",
+        "entity_def_id": "organization"
+      }
+    },
+    "semrush_rank_headline": {
+      "semrush_visits_latest_month": 37777621,
+      "semrush_visits_mom_pct": 40.41529173417996
+    },
+    "frequently_asked_questions_latest_funding_round": {
+      "identifier": {
+        "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+        "value": "Flutterwave",
+        "image_id": "xn15of9frqzbdpi7fiqc",
+        "permalink": "flutterwave",
+        "entity_def_id": "organization"
+      },
+      "last_funding_at": "2022-02-16",
+      "last_funding_type": "series_d",
+      "num_funding_rounds": 11
+    },
+    "contacts": {
+      "num_contact_emails": 26,
+      "num_contacts": 24
+    },
+    "alumni_summary": {
+      "identifier": {
+        "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+        "value": "Flutterwave",
+        "image_id": "xn15of9frqzbdpi7fiqc",
+        "permalink": "flutterwave",
+        "entity_def_id": "organization"
+      }
+    },
+    "apptopia_summary": {
+      "identifier": {
+        "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+        "value": "Flutterwave",
+        "image_id": "xn15of9frqzbdpi7fiqc",
+        "permalink": "flutterwave",
+        "entity_def_id": "organization"
+      }
+    },
+    "diversity_spotlight_investments_summary": {
+      "identifier": {
+        "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+        "value": "Flutterwave",
+        "image_id": "xn15of9frqzbdpi7fiqc",
+        "permalink": "flutterwave",
+        "entity_def_id": "organization"
+      }
+    },
+    "contact_fields": {
+      "contact_email": "hi@flutterwavego.com"
+    },
+    "social_fields": {
+      "facebook": {
+        "value": "https://www.facebook.com/theFlutterwave"
+      },
+      "linkedin": {
+        "value": "https://www.linkedin.com/company/flutterwave"
+      },
+      "twitter": {
+        "value": "https://www.twitter.com/theflutterwave"
+      }
+    },
+    "investments_headline": {
+      "num_investments": 1
+    },
+    "sub_organizations_summary": {
+      "identifier": {
+        "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+        "value": "Flutterwave",
+        "image_id": "xn15of9frqzbdpi7fiqc",
+        "permalink": "flutterwave",
+        "entity_def_id": "organization"
+      },
+      "num_sub_organizations": 1
+    },
+    "overview_description": {
+      "description": "Flutterwave provides a payment service for global merchants and payment service providers.\n\nIt provides technology, infrastructure, and services to enable global merchants, payment service providers, and helps banks and businesses build secure and seamless payment solutions for their customers by smoothening the exchange of funds.\n\nThe company was founded in 2016 by Iyinoluwa Aboyeji and Olugbenga Agboola and is headquartered in San Francisco, California."
+    },
+    "current_employees_featured_order_field": [
+      {
+        "person_identifier": {
+          "uuid": "54988fc7-aa29-48be-9ca6-dd239d51a448",
+          "value": "Olugbenga Agboola",
+          "image_id": "lrwjjc91pjjvkuogpeuw",
+          "permalink": "olugbenga-agboola",
+          "entity_def_id": "person"
+        },
+        "identifier": {
+          "uuid": "8ebf195a-959d-4ebe-998d-e0b622e9930b",
+          "value": "Olugbenga Agboola Founder & Chief Executive Officer @ Flutterwave",
+          "permalink": "olugbenga-agboola-executive-flutterwave--8ebf195a",
+          "entity_def_id": "job"
+        },
+        "started_on": {
+          "value": "2018-10-01",
+          "precision": "month"
+        },
+        "employee_featured_order": 0,
+        "title": "Founder & Chief Executive Officer"
+      },
+      {
+        "person_identifier": {
+          "uuid": "9cdbf02f-fb20-ef95-e019-252fa881ff34",
+          "value": "Jimmy Ku",
+          "image_id": "v1397186271/2fac41343cdec47853399db88cd3fabd.jpg",
+          "permalink": "jimmy-ku",
+          "entity_def_id": "person"
+        },
+        "identifier": {
+          "uuid": "00a625e0-63e1-40bf-8f8f-b1c40fe1d929",
+          "value": "Jimmy Ku Head of Growth - Developed Markets @ Flutterwave",
+          "permalink": "jimmy-ku-executive-flutterwave--00a625e0",
+          "entity_def_id": "job"
+        },
+        "started_on": {
+          "value": "2022-02-01",
+          "precision": "month"
+        },
+        "title": "Head of Growth - Developed Markets"
+      },
+      {
+        "person_identifier": {
+          "uuid": "75a4717f-b133-42b6-b6fa-d27f7138bdbd",
+          "value": "Nielsimms Sangho",
+          "image_id": "nxnygp7gk0teinenvq4c",
+          "permalink": "nielsimms-sangho",
+          "entity_def_id": "person"
+        },
+        "identifier": {
+          "uuid": "1de7a2dc-08b9-44ae-b006-4b3c39e806c7",
+          "value": "Nielsimms Sangho Country Lead, Uganda @ Flutterwave",
+          "permalink": "nielsimms-sangho-employee-flutterwave--1de7a2dc",
+          "entity_def_id": "job"
+        },
+        "started_on": {
+          "value": "2019-02-01",
+          "precision": "day"
+        },
+        "title": "Country Lead, Uganda"
+      },
+      {
+        "person_identifier": {
+          "uuid": "380c52e1-aba7-4e86-ad75-94da0130cd5c",
+          "value": "Bode Abifarin",
+          "image_id": "eya4jviln6kxbdi10f7n",
+          "permalink": "bode-abifarin",
+          "entity_def_id": "person"
+        },
+        "identifier": {
+          "uuid": "3ea04e70-d837-403f-905c-d684b8ad203b",
+          "value": "Bode Abifarin Chief Operating Officer @ Flutterwave",
+          "permalink": "bode-abifarin-executive-flutterwave--3ea04e70",
+          "entity_def_id": "job"
+        },
+        "started_on": {
+          "value": "2018-10-01",
+          "precision": "month"
+        },
+        "title": "Chief Operating Officer"
+      },
+      {
+        "person_identifier": {
+          "uuid": "9cdbf02f-fb20-ef95-e019-252fa881ff34",
+          "value": "Jimmy Ku",
+          "image_id": "v1397186271/2fac41343cdec47853399db88cd3fabd.jpg",
+          "permalink": "jimmy-ku",
+          "entity_def_id": "person"
+        },
+        "identifier": {
+          "uuid": "40e2c658-763b-4aea-97b6-e73da5a21e29",
+          "value": "Jimmy Ku Head of US Growth @ Flutterwave",
+          "permalink": "jimmy-ku-employee-flutterwave--40e2c658",
+          "entity_def_id": "job"
+        },
+        "title": "Head of US Growth"
+      },
+      {
+        "person_identifier": {
+          "uuid": "b1f59192-5693-4a37-b2ee-5e2b46d13f8b",
+          "value": "Opeyemi Fowler",
+          "image_id": "dsnfbtst6poobsucqukr",
+          "permalink": "opeyemi-fowler",
+          "entity_def_id": "person"
+        },
+        "identifier": {
+          "uuid": "66fc50d9-3ea9-488c-8541-9f0e48b46932",
+          "value": "Opeyemi Fowler Head of Growth, Nigeria @ Flutterwave",
+          "permalink": "opeyemi-fowler-executive-flutterwave--66fc50d9",
+          "entity_def_id": "job"
+        },
+        "started_on": {
+          "value": "2019-01-01",
+          "precision": "month"
+        },
+        "title": "Head of Growth, Nigeria"
+      },
+      {
+        "person_identifier": {
+          "uuid": "4314a07e-623b-486e-bd24-2c49f6fb035b",
+          "value": "Rufus Oyemade",
+          "image_id": "imwzdfheuq7k2ierpbsw",
+          "permalink": "rufus-oyemade",
+          "entity_def_id": "person"
+        },
+        "identifier": {
+          "uuid": "6aba6cdd-ffa5-4b07-8d95-c66b7ae711dd",
+          "value": "Rufus Oyemade Senior Software Engineer @ Flutterwave",
+          "permalink": "rufus-oyemade-employee-flutterwave--6aba6cdd",
+          "entity_def_id": "job"
+        },
+        "started_on": {
+          "value": "2021-08-01",
+          "precision": "month"
+        },
+        "title": "Senior Software Engineer"
+      },
+      {
+        "person_identifier": {
+          "uuid": "08497280-361a-1d44-50d0-ed37d68671c4",
+          "value": "Usman Abiola",
+          "image_id": "v1501505993/brtrifqcckk1nhnuf8fl.png",
+          "permalink": "usman-abiola",
+          "entity_def_id": "person"
+        },
+        "identifier": {
+          "uuid": "7304b811-2db6-677d-3836-79bf80882be5",
+          "value": "Usman Abiola User Experience Designer @ Flutterwave",
+          "permalink": "usman-abiola-employee-flutterwave--7304b811",
+          "entity_def_id": "job"
+        },
+        "title": "User Experience Designer"
+      },
+      {
+        "person_identifier": {
+          "uuid": "208bf2aa-06b6-4515-bb4d-c1857005b58d",
+          "value": "Mo Bammeke",
+          "image_id": "ee0oxuqnf0y7znwoshr5",
+          "permalink": "mo-bammeke-b58d",
+          "entity_def_id": "person"
+        },
+        "identifier": {
+          "uuid": "a8d9e665-41eb-4b45-b930-979ea8b44ca2",
+          "value": "Mo Bammeke Chief Compliance Officer @ Flutterwave",
+          "permalink": "mo-bammeke-b58d-executive-flutterwave--a8d9e665",
+          "entity_def_id": "job"
+        },
+        "started_on": {
+          "value": "2019-01-01",
+          "precision": "year"
+        },
+        "title": "Chief Compliance Officer"
+      },
+      {
+        "person_identifier": {
+          "uuid": "6ecf4454-f1b9-47ae-beb7-271a6ff9d9f1",
+          "value": "Oluwabankole Falade",
+          "image_id": "gwlm3frk2nqpbp1454nf",
+          "permalink": "oluwabankole-falade-d9f1",
+          "entity_def_id": "person"
+        },
+        "identifier": {
+          "uuid": "b4375fb1-913c-432d-9a36-4420e6a1919e",
+          "value": "Oluwabankole Falade Chief Regulatory & Government Relations Officer @ Flutterwave",
+          "permalink": "oluwabankole-falade-d9f1-executive-flutterwave--b4375fb1",
+          "entity_def_id": "job"
+        },
+        "started_on": {
+          "value": "2021-06-01",
+          "precision": "month"
+        },
+        "title": "Chief Regulatory & Government Relations Officer"
+      }
+    ],
+    "company_about_fields2": {
+      "website": {
+        "value": "https://www.flutterwave.com"
+      },
+      "ipo_status": "private",
+      "num_employees_enum": "c_00251_00500",
+      "last_funding_type": "series_d",
+      "location_identifiers": [
+        {
+          "uuid": "528f5e3c-90d1-1111-5d1c-2e4ff979d58e",
+          "value": "San Francisco",
+          "permalink": "san-francisco-california",
+          "entity_def_id": "location",
+          "location_type": "city"
+        },
+        {
+          "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+          "value": "California",
+          "permalink": "california-united-states",
+          "entity_def_id": "location",
+          "location_type": "region"
+        },
+        {
+          "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+          "value": "United States",
+          "permalink": "united-states",
+          "entity_def_id": "location",
+          "location_type": "country"
+        },
+        {
+          "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+          "value": "North America",
+          "permalink": "north-america",
+          "entity_def_id": "location",
+          "location_type": "continent"
+        }
+      ],
+      "rank_org_company": 1153
+    },
+    "sub_organizations_image_list": [
+      {
+        "identifier": {
+          "uuid": "12b142a3-0f23-42eb-853c-fe76758c1123",
+          "value": "Flutterwave owns GetBarter",
+          "permalink": "flutterwave-owns-getbarter--12b142a3",
+          "entity_def_id": "ownership"
+        },
+        "ownee_identifier": {
+          "uuid": "3b71b972-bbbf-4bb8-853d-70425caee82d",
+          "value": "GetBarter",
+          "image_id": "n8kedv8c66xickg4zfee",
+          "permalink": "getbarter",
+          "entity_def_id": "organization"
+        },
+        "ownership_type": "division"
+      }
+    ],
+    "frequently_asked_questions_headquarters_location": {
+      "identifier": {
+        "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+        "value": "Flutterwave",
+        "image_id": "xn15of9frqzbdpi7fiqc",
+        "permalink": "flutterwave",
+        "entity_def_id": "organization"
+      },
+      "location_identifiers": [
+        {
+          "uuid": "528f5e3c-90d1-1111-5d1c-2e4ff979d58e",
+          "value": "San Francisco",
+          "permalink": "san-francisco-california",
+          "entity_def_id": "location",
+          "location_type": "city"
+        },
+        {
+          "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+          "value": "California",
+          "permalink": "california-united-states",
+          "entity_def_id": "location",
+          "location_type": "region"
+        },
+        {
+          "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+          "value": "United States",
+          "permalink": "united-states",
+          "entity_def_id": "location",
+          "location_type": "country"
+        },
+        {
+          "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+          "value": "North America",
+          "permalink": "north-america",
+          "entity_def_id": "location",
+          "location_type": "continent"
+        }
+      ]
+    },
+    "investors_headline": {
+      "num_investors": 49,
+      "num_lead_investors": 8
+    },
+    "ipo_summary": {
+      "identifier": {
+        "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+        "value": "Flutterwave",
+        "image_id": "xn15of9frqzbdpi7fiqc",
+        "permalink": "flutterwave",
+        "entity_def_id": "organization"
+      }
+    },
+    "ipqwery_summary": {
+      "identifier": {
+        "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+        "value": "Flutterwave",
+        "image_id": "xn15of9frqzbdpi7fiqc",
+        "permalink": "flutterwave",
+        "entity_def_id": "organization"
+      },
+      "ipqwery_num_patent_granted": 0,
+      "ipqwery_num_trademark_registered": 0,
+      "ipqwery_popular_trademark_class": "c9"
+    },
+    "siftery_product_list": [
+      {
+        "product_identifier": {
+          "uuid": "44fbb3b4-e7da-4a08-b981-83f46b8b2f01",
+          "value": "HTML5",
+          "image_id": "siftery/siftery_logo_prNc7nA_qm8_k5",
+          "entity_def_id": "siftery_product"
+        },
+        "identifier": {
+          "uuid": "ad765566-0cfb-44c9-a5b9-13c2429a8506"
+        },
+        "uuid": "ad765566-0cfb-44c9-a5b9-13c2429a8506",
+        "product_num_customers": 382762,
+        "status": "not_using"
+      },
+      {
+        "product_identifier": {
+          "uuid": "77840218-830a-466c-a035-7c3c7676ebd9",
+          "value": "Google Analytics",
+          "image_id": "siftery/siftery_logo_prchiZeMpgVrUy",
+          "entity_def_id": "siftery_product"
+        },
+        "identifier": {
+          "uuid": "3da0e386-46d3-464f-b6e5-1170f6f0bd78"
+        },
+        "uuid": "3da0e386-46d3-464f-b6e5-1170f6f0bd78",
+        "product_num_customers": 323423,
+        "status": "using"
+      },
+      {
+        "product_identifier": {
+          "uuid": "805f03a3-ee62-4c9e-8457-1a5f564b8239",
+          "value": "jQuery",
+          "image_id": "siftery/siftery_logo_prViuoE4t3fDhh",
+          "entity_def_id": "siftery_product"
+        },
+        "identifier": {
+          "uuid": "2a3be428-ff69-424f-8196-a7340485586e"
+        },
+        "uuid": "2a3be428-ff69-424f-8196-a7340485586e",
+        "product_num_customers": 322391,
+        "status": "not_using"
+      },
+      {
+        "product_identifier": {
+          "uuid": "d50e90bf-6165-4df9-aa0d-c87ef00f9002",
+          "value": "Google Fonts",
+          "image_id": "siftery/siftery_logo_preFJ8BUpXArcN",
+          "entity_def_id": "siftery_product"
+        },
+        "identifier": {
+          "uuid": "94151756-89b7-4cc7-8c06-8130877248de"
+        },
+        "uuid": "94151756-89b7-4cc7-8c06-8130877248de",
+        "product_num_customers": 294264,
+        "status": "using"
+      },
+      {
+        "product_identifier": {
+          "uuid": "344a4034-da0b-4918-9c6b-11fd9b1e48b8",
+          "value": "Vimeo",
+          "image_id": "siftery/siftery_logo_prTux9uLV9SFjw",
+          "entity_def_id": "siftery_product"
+        },
+        "identifier": {
+          "uuid": "cf4a32fb-15f6-4ff5-9ac7-d07f228c3d2d"
+        },
+        "uuid": "cf4a32fb-15f6-4ff5-9ac7-d07f228c3d2d",
+        "product_num_customers": 264570,
+        "status": "using"
+      },
+      {
+        "product_identifier": {
+          "uuid": "74cd291b-ac7e-45f7-b4c8-ebef4606fca5",
+          "value": "Wordpress",
+          "entity_def_id": "siftery_product"
+        },
+        "identifier": {
+          "uuid": "5b92551e-bbfc-4138-93cd-db6cf52ee034"
+        },
+        "uuid": "5b92551e-bbfc-4138-93cd-db6cf52ee034",
+        "product_num_customers": 242140,
+        "status": "not_using"
+      },
+      {
+        "product_identifier": {
+          "uuid": "028b4d09-aae9-4895-8634-0961ab7fe255",
+          "value": "Google Tag Manager",
+          "image_id": "siftery/siftery_logo_prUAreEBebQ9vF",
+          "entity_def_id": "siftery_product"
+        },
+        "identifier": {
+          "uuid": "9349fd75-1055-4196-9025-9da5b9a46974"
+        },
+        "uuid": "9349fd75-1055-4196-9025-9da5b9a46974",
+        "product_num_customers": 175033,
+        "status": "using"
+      },
+      {
+        "product_identifier": {
+          "uuid": "a4cae353-b206-4eb3-8719-e8713534dd72",
+          "value": "Google Workspace",
+          "image_id": "siftery/siftery_logo_prle2szvkL3j4g",
+          "entity_def_id": "siftery_product"
+        },
+        "identifier": {
+          "uuid": "d17fe408-e3f5-464e-a1b5-9f95a2fe01b9"
+        },
+        "uuid": "d17fe408-e3f5-464e-a1b5-9f95a2fe01b9",
+        "product_num_customers": 159951,
+        "status": "using"
+      },
+      {
+        "product_identifier": {
+          "uuid": "642db865-5851-4236-b4bb-ae8aae4dedc7",
+          "value": "reCAPTCHA",
+          "image_id": "siftery/siftery_logo_prltuXs3lLpZtZ",
+          "entity_def_id": "siftery_product"
+        },
+        "identifier": {
+          "uuid": "f956cc30-38ff-4eed-a92f-01e4bb818f29"
+        },
+        "uuid": "f956cc30-38ff-4eed-a92f-01e4bb818f29",
+        "product_num_customers": 157065,
+        "status": "using"
+      },
+      {
+        "product_identifier": {
+          "uuid": "89cec21b-759d-48a8-aa73-74132e1a6fd0",
+          "value": "Apache Server",
+          "image_id": "siftery/siftery_logo_prvrxOhb1ru2BC",
+          "entity_def_id": "siftery_product"
+        },
+        "identifier": {
+          "uuid": "2eeec51a-6f92-4564-8822-9fc0145a354f"
+        },
+        "uuid": "2eeec51a-6f92-4564-8822-9fc0145a354f",
+        "product_num_customers": 146449,
+        "status": "not_using"
+      }
+    ],
+    "overview_fields_extended": {
+      "location_group_identifiers": [
+        {
+          "uuid": "f79bcf34-5d9e-4a01-837e-f6012edd056c",
+          "value": "San Francisco Bay Area",
+          "permalink": "san-francisco-bay-area-california",
+          "entity_def_id": "location",
+          "location_type": "group"
+        },
+        {
+          "uuid": "cf97b169-46c9-493f-a20f-3fe590824934",
+          "value": "West Coast",
+          "permalink": "west-coast-united-states",
+          "entity_def_id": "location",
+          "location_type": "group"
+        },
+        {
+          "uuid": "f37257c7-3745-42a1-8e07-b7db80a362ac",
+          "value": "Western US",
+          "permalink": "western-united-states",
+          "entity_def_id": "location",
+          "location_type": "group"
+        }
+      ],
+      "founded_on": {
+        "value": "2016-01-01",
+        "precision": "year"
+      },
+      "diversity_spotlights": [
+        {
+          "uuid": "21c8920b-a65a-4513-9898-17d36efa93de",
+          "value": "Black / African American Founded",
+          "permalink": "black-or-african-american-founded",
+          "entity_def_id": "diversity_spotlight"
+        },
+        {
+          "uuid": "a2f3d37e-1e76-4cac-99d1-8372e8d9560e",
+          "value": "Black / African American Led",
+          "permalink": "black-or-african-american-led",
+          "entity_def_id": "diversity_spotlight"
+        }
+      ],
+      "founder_identifiers": [
+        {
+          "uuid": "38081ca7-e633-ff80-ccfa-6faa96f16bfa",
+          "value": "Iyinoluwa Aboyeji",
+          "image_id": "egmc1uliwmkuz2epho10",
+          "permalink": "iyinoluwa-aboyeji",
+          "entity_def_id": "person"
+        },
+        {
+          "uuid": "54988fc7-aa29-48be-9ca6-dd239d51a448",
+          "value": "Olugbenga Agboola",
+          "image_id": "lrwjjc91pjjvkuogpeuw",
+          "permalink": "olugbenga-agboola",
+          "entity_def_id": "person"
+        }
+      ],
+      "operating_status": "active",
+      "hub_tags": [
+        "pledge_one_percent",
+        "unicorn"
+      ],
+      "last_funding_type": "series_d",
+      "categories": [
+        {
+          "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+          "value": "Financial Services",
+          "permalink": "financial-services",
+          "entity_def_id": "category"
+        },
+        {
+          "uuid": "e06799a9-f789-76e7-49a7-71ee980a70ec",
+          "value": "FinTech",
+          "permalink": "fintech-e067",
+          "entity_def_id": "category"
+        },
+        {
+          "uuid": "f6195c47-1e3b-4cce-5409-6ed62f94d43c",
+          "value": "Payments",
+          "permalink": "payments",
+          "entity_def_id": "category"
+        }
+      ],
+      "legal_name": "Flutterwave Inc."
+    },
+    "bombora_attribution": {},
+    "semrush_location_list": [
+      {
+        "identifier": {
+          "uuid": "a1c23ff7-427a-4e50-9d8e-b12c00b06ef7"
+        },
+        "visits_mom_pct": 219.458482770582,
+        "uuid": "a1c23ff7-427a-4e50-9d8e-b12c00b06ef7",
+        "rank": 10,
+        "rank_mom_pct": -0.956896551724138,
+        "location_identifiers": [
+          {
+            "uuid": "67bf069c-7236-7383-25bc-35dc341ab5cc",
+            "value": "Cameroon",
+            "permalink": "cameroon",
+            "entity_def_id": "location"
+          },
+          {
+            "uuid": "5b194c3b-3018-b47d-f611-ab142cdfd74c",
+            "value": "Africa",
+            "permalink": "africa",
+            "entity_def_id": "location"
+          }
+        ],
+        "visits_pct": 0.942107947983278
+      },
+      {
+        "identifier": {
+          "uuid": "aabdfaec-cd47-4ee5-97bd-63818bb0e7a4"
+        },
+        "visits_mom_pct": 3378.53369272237,
+        "uuid": "aabdfaec-cd47-4ee5-97bd-63818bb0e7a4",
+        "rank": 3029,
+        "rank_mom_pct": -0.994531494008836,
+        "location_identifiers": [
+          {
+            "uuid": "f134827e-36a1-fd31-a82f-950489e103ef",
+            "value": "France",
+            "permalink": "france",
+            "entity_def_id": "location"
+          },
+          {
+            "uuid": "6106f5dc-823e-5da8-40d7-51612c0b2c4e",
+            "value": "Europe",
+            "permalink": "europe",
+            "entity_def_id": "location"
+          }
+        ],
+        "visits_pct": 0.0331891465584876
+      },
+      {
+        "identifier": {
+          "uuid": "82dd0c66-2939-442d-b509-45a3eeeb912a"
+        },
+        "visits_mom_pct": 188.70578778135,
+        "uuid": "82dd0c66-2939-442d-b509-45a3eeeb912a",
+        "rank": 2032,
+        "rank_mom_pct": -0.961768579492004,
+        "location_identifiers": [
+          {
+            "uuid": "078d9679-a862-02a2-57c8-8337e9a1eec8",
+            "value": "Switzerland",
+            "permalink": "switzerland",
+            "entity_def_id": "location"
+          },
+          {
+            "uuid": "6106f5dc-823e-5da8-40d7-51612c0b2c4e",
+            "value": "Europe",
+            "permalink": "europe",
+            "entity_def_id": "location"
+          }
+        ],
+        "visits_pct": 0.00937038888711388
+      },
+      {
+        "identifier": {
+          "uuid": "726a5341-609a-4c8a-94ef-4f741fa4e773"
+        },
+        "visits_mom_pct": -0.512158772221823,
+        "uuid": "726a5341-609a-4c8a-94ef-4f741fa4e773",
+        "rank": 1403,
+        "rank_mom_pct": 0.572869955156951,
+        "location_identifiers": [
+          {
+            "uuid": "4abbf906-6e8c-0c01-e56b-0e41d56bbfca",
+            "value": "Nigeria",
+            "permalink": "nigeria",
+            "entity_def_id": "location"
+          },
+          {
+            "uuid": "5b194c3b-3018-b47d-f611-ab142cdfd74c",
+            "value": "Africa",
+            "permalink": "africa",
+            "entity_def_id": "location"
+          }
+        ],
+        "visits_pct": 0.00593539227893678
+      },
+      {
+        "identifier": {
+          "uuid": "03b5b922-96a0-47f0-9890-25c317b0e4cd"
+        },
+        "visits_mom_pct": 0.482785542274662,
+        "uuid": "03b5b922-96a0-47f0-9890-25c317b0e4cd",
+        "rank": 122255,
+        "rank_mom_pct": -0.290580336677673,
+        "location_identifiers": [
+          {
+            "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+            "value": "United States",
+            "permalink": "united-states",
+            "entity_def_id": "location"
+          },
+          {
+            "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+            "value": "North America",
+            "permalink": "north-america",
+            "entity_def_id": "location"
+          }
+        ],
+        "visits_pct": 0.00356946775446765
+      }
+    ],
+    "overview_investor_fields": {},
+    "investors_list": [
+      {
+        "identifier": {
+          "uuid": "034ec0f4-0ac2-4ac0-862a-0ef5e8bf55b1",
+          "value": "Avenir Growth Capital investment in Series D - Flutterwave",
+          "permalink": "avenir-growth-capital-invested-in-flutterwave-series-d--9f592fb5--034ec0f4",
+          "entity_def_id": "investment"
+        },
+        "partner_identifiers": [
+          {
+            "uuid": "36cac16e-c945-a08a-a2e2-151aafef98bb",
+            "value": "Jamie Reynolds",
+            "image_id": "v1500399535/tbtdyvtam5ttk3i5oa7a.png",
+            "permalink": "jamie-reynolds-2",
+            "entity_def_id": "person"
+          }
+        ],
+        "funding_round_identifier": {
+          "uuid": "9f592fb5-465e-4a98-9f63-c27f83c294d7",
+          "value": "Series D - Flutterwave",
+          "image_id": "xn15of9frqzbdpi7fiqc",
+          "permalink": "flutterwave-series-d--9f592fb5",
+          "entity_def_id": "funding_round"
+        },
+        "investor_identifier": {
+          "uuid": "5affee57-2a04-2493-d4f6-0217375f7b5e",
+          "value": "Avenir Growth Capital",
+          "image_id": "v1500398949/s5w1t9kbftwm1pfkvnnm.png",
+          "permalink": "avenir-growth-capital",
+          "entity_def_id": "organization"
+        }
+      },
+      {
+        "is_lead_investor": true,
+        "identifier": {
+          "uuid": "4ab39e2f-1f49-40ac-87f6-500aa7831fc5",
+          "value": "B Capital Group investment in Series D - Flutterwave",
+          "permalink": "b-capital-group-invested-in-flutterwave-series-d--9f592fb5--4ab39e2f",
+          "entity_def_id": "investment"
+        },
+        "partner_identifiers": [
+          {
+            "uuid": "4e4e7065-258b-4f27-8260-4567082c074d",
+            "value": "Matt Levinson",
+            "image_id": "rldrrt8ircdtotiv9agz",
+            "permalink": "matt-levinson-074d",
+            "entity_def_id": "person"
+          }
+        ],
+        "funding_round_identifier": {
+          "uuid": "9f592fb5-465e-4a98-9f63-c27f83c294d7",
+          "value": "Series D - Flutterwave",
+          "image_id": "xn15of9frqzbdpi7fiqc",
+          "permalink": "flutterwave-series-d--9f592fb5",
+          "entity_def_id": "funding_round"
+        },
+        "investor_identifier": {
+          "uuid": "d09c4574-bf6e-93b5-d42c-6fbd8a6f78d4",
+          "value": "B Capital Group",
+          "image_id": "v1469755141/wvwexa8go8tgyr3i6vqc.jpg",
+          "permalink": "b-capital-group",
+          "entity_def_id": "organization"
+        }
+      },
+      {
+        "identifier": {
+          "uuid": "882dd678-74ef-47b5-b1df-cfbe14eab338",
+          "value": "Green Visor Capital investment in Series D - Flutterwave",
+          "permalink": "green-visor-capital-invested-in-flutterwave-series-d--9f592fb5--882dd678",
+          "entity_def_id": "investment"
+        },
+        "partner_identifiers": [
+          {
+            "uuid": "2d8d02ef-2e51-8fef-dc92-0a9cd46b31c4",
+            "value": "Joe Saunders",
+            "image_id": "v1422251357/sr0tcbh9j1pbg7n8emng.png",
+            "permalink": "joe-saunders-2",
+            "entity_def_id": "person"
+          },
+          {
+            "uuid": "1180f51a-d526-0bf1-0da3-69366949c73d",
+            "value": "Simon Yoo",
+            "image_id": "v1438366973/rw2oadyq3mzxkh0liqjb.jpg",
+            "permalink": "simon-yoo",
+            "entity_def_id": "person"
+          }
+        ],
+        "funding_round_identifier": {
+          "uuid": "9f592fb5-465e-4a98-9f63-c27f83c294d7",
+          "value": "Series D - Flutterwave",
+          "image_id": "xn15of9frqzbdpi7fiqc",
+          "permalink": "flutterwave-series-d--9f592fb5",
+          "entity_def_id": "funding_round"
+        },
+        "investor_identifier": {
+          "uuid": "331def91-66cb-fa5f-3109-b203c5e25b35",
+          "value": "Green Visor Capital",
+          "image_id": "v1397749341/5301857a771cf0e4462a0e2fde1bb959.png",
+          "permalink": "green-visor-capital",
+          "entity_def_id": "organization"
+        }
+      },
+      {
+        "identifier": {
+          "uuid": "96d382e0-a392-4538-9138-5f40745b4094",
+          "value": "Glynn Capital Management investment in Series D - Flutterwave",
+          "permalink": "glynn-capital-management-invested-in-flutterwave-series-d--9f592fb5--96d382e0",
+          "entity_def_id": "investment"
+        },
+        "partner_identifiers": [
+          {
+            "uuid": "57a448b0-fc0c-48bd-c9fc-6699bda42ef8",
+            "value": "David Glynn",
+            "image_id": "pdovpfhoxwftqa75narl",
+            "permalink": "david-glynn",
+            "entity_def_id": "person"
+          }
+        ],
+        "funding_round_identifier": {
+          "uuid": "9f592fb5-465e-4a98-9f63-c27f83c294d7",
+          "value": "Series D - Flutterwave",
+          "image_id": "xn15of9frqzbdpi7fiqc",
+          "permalink": "flutterwave-series-d--9f592fb5",
+          "entity_def_id": "funding_round"
+        },
+        "investor_identifier": {
+          "uuid": "e2661cb5-5142-527e-0e0d-39372a0a1142",
+          "value": "Glynn Capital Management",
+          "image_id": "v1490375768/unjtqi6gkpuqrvi9omyv.png",
+          "permalink": "glynn-capital-management",
+          "entity_def_id": "organization"
+        }
+      },
+      {
+        "identifier": {
+          "uuid": "a8a0fd0a-d9db-4fda-b348-d2a939025aa9",
+          "value": "Alta Park Capital investment in Series D - Flutterwave",
+          "permalink": "alta-park-capital-lp-invested-in-flutterwave-series-d--9f592fb5--a8a0fd0a",
+          "entity_def_id": "investment"
+        },
+        "funding_round_identifier": {
+          "uuid": "9f592fb5-465e-4a98-9f63-c27f83c294d7",
+          "value": "Series D - Flutterwave",
+          "image_id": "xn15of9frqzbdpi7fiqc",
+          "permalink": "flutterwave-series-d--9f592fb5",
+          "entity_def_id": "funding_round"
+        },
+        "investor_identifier": {
+          "uuid": "c9ff78c2-b577-41b4-bbcb-ed25d50fb246",
+          "value": "Alta Park Capital",
+          "image_id": "gitoqtqho5ogb6vnpwsq",
+          "permalink": "alta-park-capital-lp",
+          "entity_def_id": "organization"
+        }
+      },
+      {
+        "identifier": {
+          "uuid": "b848104e-3243-485d-92f3-d1c7d3f00540",
+          "value": "Tiger Global Management investment in Series D - Flutterwave",
+          "permalink": "tiger-global-invested-in-flutterwave-series-d--9f592fb5--b848104e",
+          "entity_def_id": "investment"
+        },
+        "partner_identifiers": [
+          {
+            "uuid": "808bb83a-b2b3-ea7f-7777-80e967c701fb",
+            "value": "Scott Shleifer",
+            "image_id": "v1472079339/pgr2lah7z804ikg0dosl.jpg",
+            "permalink": "scott-shleifer",
+            "entity_def_id": "person"
+          }
+        ],
+        "funding_round_identifier": {
+          "uuid": "9f592fb5-465e-4a98-9f63-c27f83c294d7",
+          "value": "Series D - Flutterwave",
+          "image_id": "xn15of9frqzbdpi7fiqc",
+          "permalink": "flutterwave-series-d--9f592fb5",
+          "entity_def_id": "funding_round"
+        },
+        "investor_identifier": {
+          "uuid": "d3184029-74d8-7e6c-717b-84ac89d0a837",
+          "value": "Tiger Global Management",
+          "image_id": "v1501869984/iqg002dxllmybdktw14t.png",
+          "permalink": "tiger-global",
+          "entity_def_id": "organization"
+        }
+      },
+      {
+        "identifier": {
+          "uuid": "d326683f-9f09-4547-8dce-4d0a5dc1b40c",
+          "value": "Salesforce Ventures investment in Series D - Flutterwave",
+          "permalink": "salesforce-ventures-invested-in-flutterwave-series-d--9f592fb5--d326683f",
+          "entity_def_id": "investment"
+        },
+        "funding_round_identifier": {
+          "uuid": "9f592fb5-465e-4a98-9f63-c27f83c294d7",
+          "value": "Series D - Flutterwave",
+          "image_id": "xn15of9frqzbdpi7fiqc",
+          "permalink": "flutterwave-series-d--9f592fb5",
+          "entity_def_id": "funding_round"
+        },
+        "investor_identifier": {
+          "uuid": "982a5418-5d06-aca1-726e-c55bd12d1bf2",
+          "value": "Salesforce Ventures",
+          "image_id": "v1421288803/xyiimrm08sdkclll5sew.png",
+          "permalink": "salesforce-ventures",
+          "entity_def_id": "organization"
+        }
+      },
+      {
+        "identifier": {
+          "uuid": "e50e9d38-fd38-4780-aca7-911ed3fb2e7a",
+          "value": "Whale Rock Capital Management investment in Series D - Flutterwave",
+          "permalink": "whale-rock-capital-management-invested-in-flutterwave-series-d--9f592fb5--e50e9d38",
+          "entity_def_id": "investment"
+        },
+        "funding_round_identifier": {
+          "uuid": "9f592fb5-465e-4a98-9f63-c27f83c294d7",
+          "value": "Series D - Flutterwave",
+          "image_id": "xn15of9frqzbdpi7fiqc",
+          "permalink": "flutterwave-series-d--9f592fb5",
+          "entity_def_id": "funding_round"
+        },
+        "investor_identifier": {
+          "uuid": "d93ea67d-3787-4079-b7fb-9a9238640318",
+          "value": "Whale Rock Capital Management",
+          "image_id": "dmie9yldgjhxkty2etu4",
+          "permalink": "whale-rock-capital-management",
+          "entity_def_id": "organization"
+        }
+      },
+      {
+        "identifier": {
+          "uuid": "ff7387e7-cfd5-44b1-b551-cb2c68d7c6c6",
+          "value": "Lux Capital investment in Series D - Flutterwave",
+          "permalink": "lux-capital-invested-in-flutterwave-series-d--9f592fb5--ff7387e7",
+          "entity_def_id": "investment"
+        },
+        "funding_round_identifier": {
+          "uuid": "9f592fb5-465e-4a98-9f63-c27f83c294d7",
+          "value": "Series D - Flutterwave",
+          "image_id": "xn15of9frqzbdpi7fiqc",
+          "permalink": "flutterwave-series-d--9f592fb5",
+          "entity_def_id": "funding_round"
+        },
+        "investor_identifier": {
+          "uuid": "c40189cd-74f7-6f4a-884b-e8d2e2862d86",
+          "value": "Lux Capital",
+          "image_id": "v1462413868/x9fp5t2qhgtpr2xrihuu.png",
+          "permalink": "lux-capital",
+          "entity_def_id": "organization"
+        }
+      },
+      {
+        "identifier": {
+          "uuid": "079caf53-2b4b-468e-98a3-cb0b43b710be",
+          "value": "Ethos VC investment in Series C - Flutterwave",
+          "permalink": "ethos-vc-invested-in-flutterwave-series-c--12bb5861--079caf53",
+          "entity_def_id": "investment"
+        },
+        "funding_round_identifier": {
+          "uuid": "12bb5861-4c91-47aa-b912-c64fbca2dbc5",
+          "value": "Series C - Flutterwave",
+          "image_id": "xn15of9frqzbdpi7fiqc",
+          "permalink": "flutterwave-series-c--12bb5861",
+          "entity_def_id": "funding_round"
+        },
+        "investor_identifier": {
+          "uuid": "63763ee1-46b9-477a-97a7-457c23a23565",
+          "value": "Ethos VC",
+          "image_id": "qjkpmpa28cp7cmqzvr7x",
+          "permalink": "ethos-vc",
+          "entity_def_id": "organization"
+        }
+      }
+    ],
+    "siftery_summary": {
+      "identifier": {
+        "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+        "value": "Flutterwave",
+        "image_id": "xn15of9frqzbdpi7fiqc",
+        "permalink": "flutterwave",
+        "entity_def_id": "organization"
+      },
+      "siftery_num_products": 30
+    },
+    "acquired_by_summary": {
+      "identifier": {
+        "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+        "value": "Flutterwave",
+        "image_id": "xn15of9frqzbdpi7fiqc",
+        "permalink": "flutterwave",
+        "entity_def_id": "organization"
+      }
+    },
+    "ipo_fields": {},
+    "apptopia_app_overview_list_public": [],
+    "trading_view": {},
+    "news_headline": {
+      "num_articles": 140
+    },
+    "current_employees_image_list": [
+      {
+        "identifier": {
+          "uuid": "8ebf195a-959d-4ebe-998d-e0b622e9930b",
+          "value": "Olugbenga Agboola Founder & Chief Executive Officer @ Flutterwave",
+          "permalink": "olugbenga-agboola-executive-flutterwave--8ebf195a",
+          "entity_def_id": "job"
+        },
+        "person_identifier": {
+          "uuid": "54988fc7-aa29-48be-9ca6-dd239d51a448",
+          "value": "Olugbenga Agboola",
+          "image_id": "lrwjjc91pjjvkuogpeuw",
+          "permalink": "olugbenga-agboola",
+          "entity_def_id": "person"
+        },
+        "title": "Founder & Chief Executive Officer"
+      },
+      {
+        "identifier": {
+          "uuid": "00a625e0-63e1-40bf-8f8f-b1c40fe1d929",
+          "value": "Jimmy Ku Head of Growth - Developed Markets @ Flutterwave",
+          "permalink": "jimmy-ku-executive-flutterwave--00a625e0",
+          "entity_def_id": "job"
+        },
+        "person_identifier": {
+          "uuid": "9cdbf02f-fb20-ef95-e019-252fa881ff34",
+          "value": "Jimmy Ku",
+          "image_id": "v1397186271/2fac41343cdec47853399db88cd3fabd.jpg",
+          "permalink": "jimmy-ku",
+          "entity_def_id": "person"
+        },
+        "title": "Head of Growth - Developed Markets"
+      },
+      {
+        "identifier": {
+          "uuid": "1de7a2dc-08b9-44ae-b006-4b3c39e806c7",
+          "value": "Nielsimms Sangho Country Lead, Uganda @ Flutterwave",
+          "permalink": "nielsimms-sangho-employee-flutterwave--1de7a2dc",
+          "entity_def_id": "job"
+        },
+        "person_identifier": {
+          "uuid": "75a4717f-b133-42b6-b6fa-d27f7138bdbd",
+          "value": "Nielsimms Sangho",
+          "image_id": "nxnygp7gk0teinenvq4c",
+          "permalink": "nielsimms-sangho",
+          "entity_def_id": "person"
+        },
+        "title": "Country Lead, Uganda"
+      },
+      {
+        "identifier": {
+          "uuid": "3ea04e70-d837-403f-905c-d684b8ad203b",
+          "value": "Bode Abifarin Chief Operating Officer @ Flutterwave",
+          "permalink": "bode-abifarin-executive-flutterwave--3ea04e70",
+          "entity_def_id": "job"
+        },
+        "person_identifier": {
+          "uuid": "380c52e1-aba7-4e86-ad75-94da0130cd5c",
+          "value": "Bode Abifarin",
+          "image_id": "eya4jviln6kxbdi10f7n",
+          "permalink": "bode-abifarin",
+          "entity_def_id": "person"
+        },
+        "title": "Chief Operating Officer"
+      },
+      {
+        "identifier": {
+          "uuid": "40e2c658-763b-4aea-97b6-e73da5a21e29",
+          "value": "Jimmy Ku Head of US Growth @ Flutterwave",
+          "permalink": "jimmy-ku-employee-flutterwave--40e2c658",
+          "entity_def_id": "job"
+        },
+        "person_identifier": {
+          "uuid": "9cdbf02f-fb20-ef95-e019-252fa881ff34",
+          "value": "Jimmy Ku",
+          "image_id": "v1397186271/2fac41343cdec47853399db88cd3fabd.jpg",
+          "permalink": "jimmy-ku",
+          "entity_def_id": "person"
+        },
+        "title": "Head of US Growth"
+      },
+      {
+        "identifier": {
+          "uuid": "66fc50d9-3ea9-488c-8541-9f0e48b46932",
+          "value": "Opeyemi Fowler Head of Growth, Nigeria @ Flutterwave",
+          "permalink": "opeyemi-fowler-executive-flutterwave--66fc50d9",
+          "entity_def_id": "job"
+        },
+        "person_identifier": {
+          "uuid": "b1f59192-5693-4a37-b2ee-5e2b46d13f8b",
+          "value": "Opeyemi Fowler",
+          "image_id": "dsnfbtst6poobsucqukr",
+          "permalink": "opeyemi-fowler",
+          "entity_def_id": "person"
+        },
+        "title": "Head of Growth, Nigeria"
+      },
+      {
+        "identifier": {
+          "uuid": "6aba6cdd-ffa5-4b07-8d95-c66b7ae711dd",
+          "value": "Rufus Oyemade Senior Software Engineer @ Flutterwave",
+          "permalink": "rufus-oyemade-employee-flutterwave--6aba6cdd",
+          "entity_def_id": "job"
+        },
+        "person_identifier": {
+          "uuid": "4314a07e-623b-486e-bd24-2c49f6fb035b",
+          "value": "Rufus Oyemade",
+          "image_id": "imwzdfheuq7k2ierpbsw",
+          "permalink": "rufus-oyemade",
+          "entity_def_id": "person"
+        },
+        "title": "Senior Software Engineer"
+      },
+      {
+        "identifier": {
+          "uuid": "7304b811-2db6-677d-3836-79bf80882be5",
+          "value": "Usman Abiola User Experience Designer @ Flutterwave",
+          "permalink": "usman-abiola-employee-flutterwave--7304b811",
+          "entity_def_id": "job"
+        },
+        "person_identifier": {
+          "uuid": "08497280-361a-1d44-50d0-ed37d68671c4",
+          "value": "Usman Abiola",
+          "image_id": "v1501505993/brtrifqcckk1nhnuf8fl.png",
+          "permalink": "usman-abiola",
+          "entity_def_id": "person"
+        },
+        "title": "User Experience Designer"
+      }
+    ],
+    "privco_summary_public": {
+      "identifier": {
+        "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+        "value": "Flutterwave",
+        "image_id": "xn15of9frqzbdpi7fiqc",
+        "permalink": "flutterwave",
+        "entity_def_id": "organization"
+      },
+      "privco_valuation_range": "v_01000000",
+      "privco_valuation_timestamp": "2022-02-16"
+    },
+    "event_appearances_summary": {
+      "identifier": {
+        "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+        "value": "Flutterwave",
+        "image_id": "xn15of9frqzbdpi7fiqc",
+        "permalink": "flutterwave",
+        "entity_def_id": "organization"
+      },
+      "num_event_appearances": 2
+    },
+    "diversity_spotlight_investments_headline": {},
+    "frequently_asked_questions_investors": {
+      "identifier": {
+        "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+        "value": "Flutterwave",
+        "image_id": "xn15of9frqzbdpi7fiqc",
+        "permalink": "flutterwave",
+        "entity_def_id": "organization"
+      },
+      "num_investors": 49
+    },
+    "funding_rounds_list": [
+      {
+        "identifier": {
+          "uuid": "9f592fb5-465e-4a98-9f63-c27f83c294d7",
+          "value": "Series D - Flutterwave",
+          "image_id": "xn15of9frqzbdpi7fiqc",
+          "permalink": "flutterwave-series-d--9f592fb5",
+          "entity_def_id": "funding_round"
+        },
+        "announced_on": "2022-02-16",
+        "money_raised": {
+          "value": 250000000,
+          "currency": "USD",
+          "value_usd": 250000000
+        },
+        "num_investors": 9,
+        "lead_investor_identifiers": [
+          {
+            "uuid": "d09c4574-bf6e-93b5-d42c-6fbd8a6f78d4",
+            "value": "B Capital Group",
+            "image_id": "v1469755141/wvwexa8go8tgyr3i6vqc.jpg",
+            "permalink": "b-capital-group",
+            "entity_def_id": "organization"
+          }
+        ]
+      },
+      {
+        "identifier": {
+          "uuid": "12bb5861-4c91-47aa-b912-c64fbca2dbc5",
+          "value": "Series C - Flutterwave",
+          "image_id": "xn15of9frqzbdpi7fiqc",
+          "permalink": "flutterwave-series-c--12bb5861",
+          "entity_def_id": "funding_round"
+        },
+        "announced_on": "2021-03-09",
+        "money_raised": {
+          "value": 170000000,
+          "currency": "USD",
+          "value_usd": 170000000
+        },
+        "num_investors": 12,
+        "lead_investor_identifiers": [
+          {
+            "uuid": "5affee57-2a04-2493-d4f6-0217375f7b5e",
+            "value": "Avenir Growth Capital",
+            "image_id": "v1500398949/s5w1t9kbftwm1pfkvnnm.png",
+            "permalink": "avenir-growth-capital",
+            "entity_def_id": "organization"
+          },
+          {
+            "uuid": "d3184029-74d8-7e6c-717b-84ac89d0a837",
+            "value": "Tiger Global Management",
+            "image_id": "v1501869984/iqg002dxllmybdktw14t.png",
+            "permalink": "tiger-global",
+            "entity_def_id": "organization"
+          }
+        ]
+      },
+      {
+        "identifier": {
+          "uuid": "9e9cccdb-ccdd-4c9b-9964-0502afbd252c",
+          "value": "Series B - Flutterwave",
+          "image_id": "xn15of9frqzbdpi7fiqc",
+          "permalink": "flutterwave-series-b--9e9cccdb",
+          "entity_def_id": "funding_round"
+        },
+        "announced_on": "2020-01-21",
+        "money_raised": {
+          "value": 35000000,
+          "currency": "USD",
+          "value_usd": 35000000
+        },
+        "num_investors": 14,
+        "lead_investor_identifiers": [
+          {
+            "uuid": "9dd7066b-069a-9dd9-c211-06db31253bd0",
+            "value": "Greycroft",
+            "image_id": "wxrxxrmmf18zwtiifhbi",
+            "permalink": "greycroft",
+            "entity_def_id": "organization"
+          },
+          {
+            "uuid": "62426ec0-be52-3f79-8adb-405de209755d",
+            "value": "Headline",
+            "image_id": "jpmy9nnrraooecexqtrr",
+            "permalink": "headlinevc",
+            "entity_def_id": "organization"
+          }
+        ]
+      },
+      {
+        "identifier": {
+          "uuid": "a758259e-a2d9-424d-b0c0-a95f89b136cd",
+          "value": "Series A - Flutterwave",
+          "image_id": "xn15of9frqzbdpi7fiqc",
+          "permalink": "flutterwave-series-a--a758259e",
+          "entity_def_id": "funding_round"
+        },
+        "announced_on": "2018-10-15",
+        "money_raised": {
+          "value": 9200000,
+          "currency": "USD",
+          "value_usd": 9200000
+        },
+        "num_investors": 6
+      },
+      {
+        "identifier": {
+          "uuid": "9a62cba1-d800-441c-b594-d715324bd7ed",
+          "value": "Series A - Flutterwave",
+          "image_id": "xn15of9frqzbdpi7fiqc",
+          "permalink": "flutterwave-series-a--9a62cba1",
+          "entity_def_id": "funding_round"
+        },
+        "announced_on": "2017-07-31",
+        "money_raised": {
+          "value": 10000000,
+          "currency": "USD",
+          "value_usd": 10000000
+        },
+        "num_investors": 8,
+        "lead_investor_identifiers": [
+          {
+            "uuid": "331def91-66cb-fa5f-3109-b203c5e25b35",
+            "value": "Green Visor Capital",
+            "image_id": "v1397749341/5301857a771cf0e4462a0e2fde1bb959.png",
+            "permalink": "green-visor-capital",
+            "entity_def_id": "organization"
+          },
+          {
+            "uuid": "9dd7066b-069a-9dd9-c211-06db31253bd0",
+            "value": "Greycroft",
+            "image_id": "wxrxxrmmf18zwtiifhbi",
+            "permalink": "greycroft",
+            "entity_def_id": "organization"
+          }
+        ]
+      },
+      {
+        "identifier": {
+          "uuid": "14c783dd-4839-4de5-aa40-f2e89d868d2c",
+          "value": "Non Equity Assistance - Flutterwave",
+          "image_id": "xn15of9frqzbdpi7fiqc",
+          "permalink": "flutterwave-non-equity-assistance--14c783dd",
+          "entity_def_id": "funding_round"
+        },
+        "announced_on": "2017-05-23",
+        "money_raised": {
+          "value": 50000,
+          "currency": "USD",
+          "value_usd": 50000
+        },
+        "num_investors": 1,
+        "lead_investor_identifiers": [
+          {
+            "uuid": "2846ebaa-ca73-5673-83cb-f68f882cd824",
+            "value": "Google Launchpad Accelerator",
+            "image_id": "v1506429250/fcva3ntpwmulkz0itthx.png",
+            "permalink": "launchpad-accelerator",
+            "entity_def_id": "organization"
+          }
+        ]
+      },
+      {
+        "identifier": {
+          "uuid": "7a870492-a7a4-49de-a04a-49ee7c96f0a4",
+          "value": "Seed Round - Flutterwave",
+          "image_id": "xn15of9frqzbdpi7fiqc",
+          "permalink": "flutterwave-seed--7a870492",
+          "entity_def_id": "funding_round"
+        },
+        "announced_on": "2016-09-17",
+        "num_investors": 8
+      },
+      {
+        "identifier": {
+          "uuid": "5ccd5499-91c3-f64f-27f1-2ae46f36f9e6",
+          "value": "Seed Round - Flutterwave",
+          "image_id": "xn15of9frqzbdpi7fiqc",
+          "permalink": "flutterwave-seed--5ccd5499",
+          "entity_def_id": "funding_round"
+        },
+        "announced_on": "2016-08-15",
+        "money_raised": {
+          "value": 230000,
+          "currency": "USD",
+          "value_usd": 230000
+        },
+        "num_investors": 13,
+        "lead_investor_identifiers": [
+          {
+            "uuid": "73633ee4-ea65-2967-6c5d-9b5fec7d2d5e",
+            "value": "Y Combinator",
+            "image_id": "v1482160613/skm38vnvyl0wpgfyz98v.png",
+            "permalink": "y-combinator",
+            "entity_def_id": "organization"
+          }
+        ]
+      },
+      {
+        "identifier": {
+          "uuid": "7a090cd5-3c43-4242-bf3c-5554cd75eafb",
+          "value": "Pre Seed Round - Flutterwave",
+          "image_id": "xn15of9frqzbdpi7fiqc",
+          "permalink": "flutterwave-pre-seed--7a090cd5",
+          "entity_def_id": "funding_round"
+        },
+        "announced_on": "2016-06-12",
+        "num_investors": 1
+      },
+      {
+        "identifier": {
+          "uuid": "fa0edbe0-d13f-471b-a787-040c8945e3a6",
+          "value": "Angel Round - Flutterwave",
+          "image_id": "xn15of9frqzbdpi7fiqc",
+          "permalink": "flutterwave-angel--fa0edbe0",
+          "entity_def_id": "funding_round"
+        },
+        "announced_on": "2016-05-13",
+        "num_investors": 1
+      }
+    ],
+    "technology_highlights": {
+      "builtwith_num_technologies_used": 98,
+      "semrush_visits_latest_month": 37777621,
+      "semrush_visits_mom_pct": 40.41529173417996,
+      "siftery_num_products": 30
+    },
+    "funding_rounds_headline": {
+      "funding_total": {
+        "value": 474530000,
+        "currency": "USD",
+        "value_usd": 474530000
+      },
+      "num_funding_rounds": 11
+    },
+    "investments_list": [
+      {
+        "identifier": {
+          "uuid": "03c0fdb4-5ac5-4764-9ec2-9bcf2ddff997",
+          "value": "Flutterwave investment in Seed Round - CINETPAY",
+          "permalink": "flutterwave-invested-in-cinetpay-seed--f2656e39--03c0fdb4",
+          "entity_def_id": "investment"
+        },
+        "announced_on": "2021-12-08",
+        "organization_identifier": {
+          "uuid": "fef6caa5-8db7-4a88-826b-dc03fff2a4f6",
+          "value": "CINETPAY",
+          "image_id": "zgxnqz5bdz6litf9afdr",
+          "permalink": "cinetpay",
+          "entity_def_id": "organization"
+        },
+        "funding_round_identifier": {
+          "uuid": "f2656e39-31c0-490c-8040-6c8c018d5702",
+          "value": "Seed Round - CINETPAY",
+          "image_id": "zgxnqz5bdz6litf9afdr",
+          "permalink": "cinetpay-seed--f2656e39",
+          "entity_def_id": "funding_round"
+        },
+        "funding_round_money_raised": {
+          "value": 2400000,
+          "currency": "USD",
+          "value_usd": 2400000
+        }
+      }
+    ],
+    "exits_image_list": [],
+    "funds_headline": {},
+    "people_highlights": {
+      "num_contacts": 24,
+      "num_current_advisor_positions": 5,
+      "num_current_positions": 13
+    },
+    "current_employees_headline": {
+      "num_current_positions": 13
+    },
+    "semrush_attribution": {
+      "semrush_last_updated": "2022-06-10"
+    },
+    "event_appearances_list": [
+      {
+        "identifier": {
+          "uuid": "2efe0a07-456d-4d43-a4bc-eee132d362f6",
+          "value": "Money 20/20 USA 2021's sponsor - Flutterwave",
+          "permalink": "flutterwave-sponsor-money-20-20-usa-2021--2efe0a07",
+          "entity_def_id": "event_appearance"
+        },
+        "event_identifier": {
+          "uuid": "9f21ec7b-b4c8-477c-8667-fe6d4700a360",
+          "value": "Money 20/20 USA 2021",
+          "image_id": "ldeorzo0nwmeauyclwwg",
+          "permalink": "money-20-20-usa-2021",
+          "entity_def_id": "event"
+        },
+        "appearance_type": "sponsor",
+        "event_starts_on": "2021-10-24"
+      },
+      {
+        "identifier": {
+          "uuid": "e189e028-583b-4a7c-a584-3b4dfd2cd927",
+          "value": "Y Combinator Summer 2016 Demo Day's exhibitor - Flutterwave",
+          "permalink": "flutterwave-exhibitor-y-combinator-summer-2016-demo-day--e189e028",
+          "entity_def_id": "event_appearance"
+        },
+        "event_identifier": {
+          "uuid": "56e31f22-b8a8-4a7f-8ad6-5850a1285df4",
+          "value": "Y Combinator Summer 2016 Demo Day",
+          "image_id": "h524yg4ztmxrj86h1j35",
+          "permalink": "y-combinator-summer-2016-demo-day",
+          "entity_def_id": "event"
+        },
+        "appearance_type": "exhibitor",
+        "event_starts_on": "2016-08-22"
+      }
+    ],
+    "current_employees_summary": {
+      "identifier": {
+        "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+        "value": "Flutterwave",
+        "image_id": "xn15of9frqzbdpi7fiqc",
+        "permalink": "flutterwave",
+        "entity_def_id": "organization"
+      },
+      "num_current_positions": 13
+    },
+    "funds_summary": {
+      "identifier": {
+        "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+        "value": "Flutterwave",
+        "image_id": "xn15of9frqzbdpi7fiqc",
+        "permalink": "flutterwave",
+        "entity_def_id": "organization"
+      }
+    },
+    "aberdeen_summary": {
+      "aberdeen_site_it_spend": {
+        "value": 54739,
+        "currency": "USD",
+        "value_usd": 54739
+      },
+      "identifier": {
+        "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+        "value": "Flutterwave",
+        "image_id": "xn15of9frqzbdpi7fiqc",
+        "permalink": "flutterwave",
+        "entity_def_id": "organization"
+      }
+    },
+    "overview_timeline": {
+      "count": 153,
+      "entities": [
+        {
+          "uuid": "07669303-131f-4a7f-a01f-cff9add393a1",
+          "properties": {
+            "identifier": {
+              "entity_def_id": "press_reference",
+              "uuid": "07669303-131f-4a7f-a01f-cff9add393a1",
+              "value": "Flutterwave Appoints Former American Express Executive, Oneal Bhambani as Chief Financial Officer"
+            },
+            "activity_properties": {
+              "author": "Flutterwave",
+              "url": {
+                "value": "https://www.prnewswire.com/news-releases/flutterwave-appoints-former-american-express-executive-oneal-bhambani-as-chief-financial-officer-301567837.html"
+              },
+              "publisher": "PR Newswire",
+              "thumbnail_url": "https://mma.prnewswire.com/media/1839704/Flutterwave_Oneal_Bhambani_CFO.jpg?w=500",
+              "title": "Flutterwave Appoints Former American Express Executive, Oneal Bhambani as Chief Financial Officer"
+            },
+            "activity_date": "2022-06-14",
+            "entity_def_id": "press_reference",
+            "activity_entities": [
+              {
+                "permalink": "flutterwave",
+                "image_id": "xn15of9frqzbdpi7fiqc",
+                "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+                "entity_def_id": "organization",
+                "value": "Flutterwave"
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "7443aa5f-0bf5-4f1f-95a4-d4b97aa105c9",
+          "properties": {
+            "identifier": {
+              "entity_def_id": "press_reference",
+              "uuid": "7443aa5f-0bf5-4f1f-95a4-d4b97aa105c9",
+              "value": "Nigeria’s Flutterwave Appoints New CFO"
+            },
+            "activity_properties": {
+              "author": "Luis Monzon",
+              "url": {
+                "value": "https://www.itnewsafrica.com/2022/06/nigerias-flutterwave-appoints-new-cfo/"
+              },
+              "publisher": "IT News Africa",
+              "thumbnail_url": "https://www.itnewsafrica.com/wp-content/uploads/2022/06/Oneal-Bhambani.jpg",
+              "title": "Nigeria’s Flutterwave Appoints New CFO"
+            },
+            "activity_date": "2022-06-14",
+            "entity_def_id": "press_reference",
+            "activity_entities": [
+              {
+                "permalink": "flutterwave",
+                "image_id": "xn15of9frqzbdpi7fiqc",
+                "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+                "entity_def_id": "organization",
+                "value": "Flutterwave"
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "ca23542a-0827-4f71-986f-a8feca33350e",
+          "properties": {
+            "identifier": {
+              "entity_def_id": "press_reference",
+              "uuid": "ca23542a-0827-4f71-986f-a8feca33350e",
+              "value": "Flutterwave names former AmEx exec Oneal Bhambani CFO"
+            },
+            "activity_properties": {
+              "publisher": "Finextra",
+              "title": "Flutterwave names former AmEx exec Oneal Bhambani CFO",
+              "url": {
+                "value": "https://www.finextra.com/pressarticle/92995/flutterwave-names-former-amex-exec-oneal-bhambani-cfo"
+              }
+            },
+            "activity_date": "2022-06-14",
+            "entity_def_id": "press_reference",
+            "activity_entities": [
+              {
+                "permalink": "flutterwave",
+                "image_id": "xn15of9frqzbdpi7fiqc",
+                "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+                "entity_def_id": "organization",
+                "value": "Flutterwave"
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "ebf61059-69d7-4903-b30a-711d0cb0e34b",
+          "properties": {
+            "identifier": {
+              "entity_def_id": "press_reference",
+              "uuid": "ebf61059-69d7-4903-b30a-711d0cb0e34b",
+              "value": "Why I decided to investigate Flutterwave dealings – David Hundeyin"
+            },
+            "activity_properties": {
+              "author": "Zainab Iwayemi",
+              "url": {
+                "value": "https://nairametrics.com/2022/04/24/david-hundeyin-said-he-would-soon-retire-from-journalism/"
+              },
+              "publisher": "Nairametrics",
+              "thumbnail_url": "https://i.ibb.co/qnJCHL3/Affiliate-banners-for-Nigeria-Redesign.gif",
+              "title": "Why I decided to investigate Flutterwave dealings – David Hundeyin"
+            },
+            "activity_date": "2022-04-24",
+            "entity_def_id": "press_reference",
+            "activity_entities": [
+              {
+                "permalink": "flutterwave",
+                "image_id": "xn15of9frqzbdpi7fiqc",
+                "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+                "entity_def_id": "organization",
+                "value": "Flutterwave"
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "ccdd7ca1-cfed-44d6-89a9-7f75c4c9ad96",
+          "properties": {
+            "identifier": {
+              "entity_def_id": "press_reference",
+              "uuid": "ccdd7ca1-cfed-44d6-89a9-7f75c4c9ad96",
+              "value": "More allegations against Flutterwave as CEO, Board, and investors turn a blind eye"
+            },
+            "activity_properties": {
+              "publisher": "iAfrikan.com",
+              "title": "More allegations against Flutterwave as CEO, Board, and investors turn a blind eye",
+              "thumbnail_url": "https://www.iafrikan.com/content/images/2022/04/Flutterwave-BoD--1-.png",
+              "url": {
+                "value": "https://www.iafrikan.com/more-allegations-against-flutterwave-as-ceo-board-and-investors-remain-quite/"
+              }
+            },
+            "activity_date": "2022-04-22",
+            "entity_def_id": "press_reference",
+            "activity_entities": [
+              {
+                "permalink": "flutterwave",
+                "image_id": "xn15of9frqzbdpi7fiqc",
+                "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+                "entity_def_id": "organization",
+                "value": "Flutterwave"
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "1f800cd9-0075-479b-af66-b4c6e521d4a4",
+          "properties": {
+            "identifier": {
+              "entity_def_id": "press_reference",
+              "uuid": "1f800cd9-0075-479b-af66-b4c6e521d4a4",
+              "value": "Flutterwave CEO addresses alleged misconduct claims in email to employees – TechCrunch"
+            },
+            "activity_properties": {
+              "publisher": "Startup Around",
+              "title": "Flutterwave CEO addresses alleged misconduct claims in email to employees – TechCrunch",
+              "thumbnail_url": "https://techcrunch.com/wp-content/uploads/2022/04/PhotoPictureResizer_220420_054817334_crop_1848x1534-1024x850-1.jpg?w=482",
+              "url": {
+                "value": "https://startuparound.com/read/1650434348.165382/Flutterwave-CEO-addresses-alleged-misconduct-claims-in-email-to-employees---TechCrunch"
+              }
+            },
+            "activity_date": "2022-04-20",
+            "entity_def_id": "press_reference",
+            "activity_entities": [
+              {
+                "permalink": "flutterwave",
+                "image_id": "xn15of9frqzbdpi7fiqc",
+                "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+                "entity_def_id": "organization",
+                "value": "Flutterwave"
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "2aa6a78a-d76f-4a17-9c2a-14fc3c5d8328",
+          "properties": {
+            "identifier": {
+              "entity_def_id": "press_reference",
+              "uuid": "2aa6a78a-d76f-4a17-9c2a-14fc3c5d8328",
+              "value": "Flutterwave and its CEO are under fire"
+            },
+            "activity_properties": {
+              "author": "Ciku Kimeria",
+              "url": {
+                "value": "https://nytv.to/Dngpy"
+              },
+              "publisher": "Quartz",
+              "thumbnail_url": "https://cms.qz.com/wp-content/uploads/2022/04/2014-03-24T120000Z_1661533284_GM1EA3N14P301_RTRMADP_3_NIGERIA-e1649687024737.jpg?quality=75&strip=all&w=2200&h=1242",
+              "title": "Flutterwave and its CEO are under fire"
+            },
+            "activity_date": "2022-04-17",
+            "entity_def_id": "press_reference",
+            "activity_entities": [
+              {
+                "permalink": "flutterwave",
+                "image_id": "xn15of9frqzbdpi7fiqc",
+                "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+                "entity_def_id": "organization",
+                "value": "Flutterwave"
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "8bb86f46-1320-4ae9-9467-cbc427c39019",
+          "properties": {
+            "identifier": {
+              "entity_def_id": "press_reference",
+              "uuid": "8bb86f46-1320-4ae9-9467-cbc427c39019",
+              "value": "Investors say Flutterwave’s governance issues demand an intervention"
+            },
+            "activity_properties": {
+              "author": "Alexander Onukwue",
+              "url": {
+                "value": "https://nytv.to/wBkZB"
+              },
+              "publisher": "Quartz",
+              "thumbnail_url": "https://cms.qz.com/wp-content/uploads/2022/04/2016-06-20T120000Z_917386386_S1AETKYCSOAA_RTRMADP_3_NIGERIA-CURRENCY-e1649932912136.jpg?quality=75&strip=all&w=2200&h=1242",
+              "title": "Investors say Flutterwave’s governance issues demand an intervention"
+            },
+            "activity_date": "2022-04-14",
+            "entity_def_id": "press_reference",
+            "activity_entities": [
+              {
+                "permalink": "flutterwave",
+                "image_id": "xn15of9frqzbdpi7fiqc",
+                "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+                "entity_def_id": "organization",
+                "value": "Flutterwave"
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "98d5dd2e-c28b-4ba1-b85a-26aeec7d0cec",
+          "properties": {
+            "identifier": {
+              "entity_def_id": "press_reference",
+              "uuid": "98d5dd2e-c28b-4ba1-b85a-26aeec7d0cec",
+              "value": "Is Flutterwave’s CEO guilty of insider trading or not?"
+            },
+            "activity_properties": {
+              "author": "Victoria Fakiya",
+              "url": {
+                "value": "https://ift.tt/QyZBGE8"
+              },
+              "publisher": "Techpoint Africa",
+              "thumbnail_url": "https://techpoint.africa/wp-content/uploads/2022/04/Umba-team.webp",
+              "title": "Is Flutterwave’s CEO guilty of insider trading or not?"
+            },
+            "activity_date": "2022-04-14",
+            "entity_def_id": "press_reference",
+            "activity_entities": [
+              {
+                "permalink": "flutterwave",
+                "image_id": "xn15of9frqzbdpi7fiqc",
+                "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+                "entity_def_id": "organization",
+                "value": "Flutterwave"
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "263622da-19a9-483d-9a0f-bf0574c2c011",
+          "properties": {
+            "identifier": {
+              "entity_def_id": "press_reference",
+              "uuid": "263622da-19a9-483d-9a0f-bf0574c2c011",
+              "value": "Fact Check: Is there any truth to some of the allegations against Flutterwave Founder, Olugbenga Agboola?"
+            },
+            "activity_properties": {
+              "author": "Ogheneruemu Oneyibo",
+              "url": {
+                "value": "https://bit.ly/3KNWsMI"
+              },
+              "publisher": "Techpoint Africa",
+              "thumbnail_url": "https://techpoint.africa/wp-content/uploads/2022/04/stock-screenshot-392x682.webp",
+              "title": "Fact Check: Is there any truth to some of the allegations against Flutterwave Founder, Olugbenga Agboola?"
+            },
+            "activity_date": "2022-04-13",
+            "entity_def_id": "press_reference",
+            "activity_entities": [
+              {
+                "permalink": "flutterwave",
+                "image_id": "xn15of9frqzbdpi7fiqc",
+                "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+                "entity_def_id": "organization",
+                "value": "Flutterwave"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "company_financials_highlights": {
+      "num_investments": 1,
+      "num_investors": 49,
+      "num_lead_investors": 8,
+      "funding_total": {
+        "value": 474530000,
+        "currency": "USD",
+        "value_usd": 474530000
+      },
+      "num_funding_rounds": 11
+    },
+    "overview_company_fields": {
+      "company_type": "for_profit"
+    },
+    "acquisitions_headline": {
+      "num_acquisitions": 1
+    },
+    "builtwith_summary": {
+      "builtwith_num_technologies_used": 98,
+      "identifier": {
+        "uuid": "08fb213a-b9df-8412-840b-a2db3e49ec0f",
+        "value": "Flutterwave",
+        "image_id": "xn15of9frqzbdpi7fiqc",
+        "permalink": "flutterwave",
+        "entity_def_id": "organization"
+      }
+    },
+    "advisors_headline": {
+      "num_current_advisor_positions": 5
+    },
+    "about_short_description": {
+      "short_description": "Flutterwave is a fintech company that provides a payment infrastructure for global merchants and payment service providers."
+    },
+    "contacts_summary": {
+      "lookup": [
+        {
+          "name": "Mo Bammeke",
+          "identifier": {
+            "uuid": "1b1e4c71-5595-4ebc-b403-f9397a483c26",
+            "value": "Mo Bammeke",
+            "entity_def_id": "contact"
+          },
+          "linkedin": "mo-bammeke-93288529",
+          "job_levels": [
+            "l_500_exec"
+          ],
+          "job_titles": [
+            {
+              "uuid": "3c0d3c39-a68b-39b8-953c-773b587f8867",
+              "value": "CCO",
+              "permalink": "cco",
+              "entity_def_id": "job_title"
+            }
+          ],
+          "job_departments": [
+            "operations"
+          ],
+          "num_emails": 1
+        }
+      ],
+      "properties": {
+        "num_contact_emails": 26,
+        "num_contacts": 24
+      },
+      "data": [
+        {
+          "name": "Mo Bammeke",
+          "identifier": {
+            "uuid": "1b1e4c71-5595-4ebc-b403-f9397a483c26",
+            "value": "Mo Bammeke",
+            "entity_def_id": "contact"
+          },
+          "linkedin": "mo-bammeke-93288529",
+          "job_levels": [
+            "l_500_exec"
+          ],
+          "job_titles": [
+            {
+              "uuid": "3c0d3c39-a68b-39b8-953c-773b587f8867",
+              "value": "CCO",
+              "permalink": "cco",
+              "entity_def_id": "job_title"
+            }
+          ],
+          "job_departments": [
+            "operations"
+          ],
+          "num_emails": 1
+        }
+      ]
+    },
+    "event_appearances_headline": {
+      "num_event_appearances": 2
+    },
+    "apptopia_app_headline": {},
+    "company_overview_highlights": {
+      "num_org_similarities": 9,
+      "num_current_positions": 13,
+      "num_investments": 1,
+      "num_investors": 49,
+      "num_acquisitions": 1,
+      "num_contacts": 24,
+      "funding_total": {
+        "value": 474530000,
+        "currency": "USD",
+        "value_usd": 474530000
+      }
+    }
+  }
+}]
