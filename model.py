@@ -21,3 +21,4 @@ class Company :
         for inf in info : 
             self.infos.append((inf))
     
+    

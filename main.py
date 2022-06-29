@@ -52,7 +52,9 @@ if company_selection == "Other" :
 
 metric_type = st.sidebar.selectbox("Select  Metrics Type", ("Quantitative", "Qualitative"))
 
-show_viz = st.sidebar.checkbox("Show visualizations")
+show_viz = False
+if metric_type == "Quantitative" :
+    show_viz = st.sidebar.checkbox("Show visualizations")
 st.sidebar.empty()
 # if metric_type == "Quantitative" : 
 #     metrics = st.sidebar.multiselect("Select  Quantitative Metrics", ("Revenue", "Traction", "Market size", "Growth", "Funding", "Volume", "Competition", "Sales"))
@@ -80,8 +82,9 @@ if company_selection != "Other" :
         if info.type == metric_type : 
             c.markdown(f"##### {info.title}")
             c.caption(f"{info.description}")
-            
-    show_visuals()
+
+    if metric_type == "Quantitative" and show_viz :  
+        show_visuals()
 
 if search:
     search_cont = st.container()
