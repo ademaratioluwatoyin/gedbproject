@@ -1,0 +1,2919 @@
+[{
+  "properties": {
+    "title": "Piggyvest",
+    "short_description": "Piggyvest is a platform that helps individuals and businesses manage their finances effectively.",
+    "identifier": {
+      "uuid": "1b86bbf7-e33b-9d0f-4819-102c4b1a7b54",
+      "value": "Piggyvest",
+      "image_id": "dom16mbowz9tquw3ures",
+      "permalink": "piggybank.ng",
+      "entity_def_id": "organization"
+    },
+    "facet_ids": [
+      "contact",
+      "siftery",
+      "semrush",
+      "company",
+      "rank",
+      "builtwith"
+    ]
+  },
+  "cards": {
+    "semrush_summary": {
+      "identifier": {
+        "uuid": "1b86bbf7-e33b-9d0f-4819-102c4b1a7b54",
+        "value": "Piggyvest",
+        "image_id": "dom16mbowz9tquw3ures",
+        "permalink": "piggybank.ng",
+        "entity_def_id": "organization"
+      },
+      "semrush_global_rank": 430793,
+      "semrush_visits_latest_month": 119503
+    },
+    "company_about_fields1": {},
+    "current_advisors_image_list": [],
+    "recommended_search": [
+      {
+        "org_num": 9972,
+        "queries": {
+          "person": [
+            {
+              "field_id": "rank_person",
+              "operator_id": "lte",
+              "values": [
+                40000
+              ],
+              "type": "predicate"
+            },
+            {
+              "collection_id": "organization.has_primary_organization.forward",
+              "query": [
+                {
+                  "field_id": "facet_ids",
+                  "operator_id": "includes",
+                  "values": [
+                    "company"
+                  ],
+                  "type": "predicate"
+                },
+                {
+                  "field_id": "categories",
+                  "operator_id": "includes",
+                  "values": [
+                    "68250c3a-6cf5-86fb-281e-9072ae2d4fe8"
+                  ],
+                  "type": "predicate"
+                },
+                {
+                  "field_id": "operating_status",
+                  "operator_id": "eq",
+                  "values": [
+                    "active"
+                  ],
+                  "type": "predicate"
+                },
+                {
+                  "field_id": "rank_org",
+                  "operator_id": "lte",
+                  "values": [
+                    590000
+                  ],
+                  "type": "predicate"
+                }
+              ],
+              "type": "sub_query"
+            }
+          ],
+          "organization": [
+            {
+              "field_id": "facet_ids",
+              "operator_id": "includes",
+              "values": [
+                "company"
+              ],
+              "type": "predicate"
+            },
+            {
+              "field_id": "categories",
+              "operator_id": "includes",
+              "values": [
+                "68250c3a-6cf5-86fb-281e-9072ae2d4fe8"
+              ],
+              "type": "predicate"
+            },
+            {
+              "field_id": "operating_status",
+              "operator_id": "eq",
+              "values": [
+                "active"
+              ],
+              "type": "predicate"
+            },
+            {
+              "field_id": "rank_org",
+              "operator_id": "lte",
+              "values": [
+                590000
+              ],
+              "type": "predicate"
+            }
+          ],
+          "event": [
+            {
+              "field_id": "categories",
+              "operator_id": "includes",
+              "values": [
+                "68250c3a-6cf5-86fb-281e-9072ae2d4fe8"
+              ],
+              "type": "predicate"
+            },
+            {
+              "collection_id": "principal.has_event.forward",
+              "query": [
+                {
+                  "field_id": "facet_ids",
+                  "operator_id": "includes",
+                  "values": [
+                    "company"
+                  ],
+                  "type": "predicate"
+                },
+                {
+                  "field_id": "operating_status",
+                  "operator_id": "eq",
+                  "values": [
+                    "active"
+                  ],
+                  "type": "predicate"
+                }
+              ],
+              "type": "sub_query"
+            }
+          ]
+        },
+        "identifier": {
+          "permalink": "banking-companies",
+          "image_id": "mabbnmxvz8gsralvcmab",
+          "uuid": "af99caed-a02e-4d29-9ab5-25aa96487d3d",
+          "entity_def_id": "hub",
+          "value": "Banking Companies (Top 10K)"
+        },
+        "org_identifiers": [
+          {
+            "permalink": "juni",
+            "image_id": "mabbnmxvz8gsralvcmab",
+            "uuid": "01595539-a54a-4042-a5d1-98132866bd0c",
+            "entity_def_id": "organization",
+            "value": "Juni"
+          },
+          {
+            "permalink": "stashfin",
+            "image_id": "fwbgpokgyxgopaeiym6q",
+            "uuid": "4b8909ac-275a-3826-3465-a0d27894e937",
+            "entity_def_id": "organization",
+            "value": "Stashfin"
+          },
+          {
+            "permalink": "canadian-imperial-bank-of-commerce",
+            "image_id": "v1397178552/5d2713ab13cb2d03b5a3f0ee711a4b07.gif",
+            "uuid": "e99cfc71-8c9d-e5e6-0593-cb82ed79df33",
+            "entity_def_id": "organization",
+            "value": "CIBC"
+          },
+          {
+            "permalink": "prime-trust",
+            "image_id": "h9rzzpf3ke7xhe4alikg",
+            "uuid": "b0dd8d9f-a93d-4431-86b1-332b2d37a3be",
+            "entity_def_id": "organization",
+            "value": "Prime Trust"
+          },
+          {
+            "permalink": "backbase",
+            "image_id": "v1480853298/ghq7zjyjd32vtyplw6cw.png",
+            "uuid": "cff6b726-ef7d-d951-e1ef-ceeab984395d",
+            "entity_def_id": "organization",
+            "value": "Backbase"
+          },
+          {
+            "permalink": "allica-bank",
+            "image_id": "npycmi6wmy23vgau1d7z",
+            "uuid": "f636050d-b648-47de-8d67-5da984c462d6",
+            "entity_def_id": "organization",
+            "value": "Allica Bank"
+          },
+          {
+            "permalink": "brex",
+            "image_id": "fgf9c7ccdiy5ivcg6nhf",
+            "uuid": "3f86f3a9-9e59-4933-88a5-1f6b9a719d18",
+            "entity_def_id": "organization",
+            "value": "Brex"
+          },
+          {
+            "permalink": "bud",
+            "image_id": "qxmopb0mj5kfufqotclf",
+            "uuid": "3dade874-474a-c719-13ec-3a5fe97752ff",
+            "entity_def_id": "organization",
+            "value": "Bud"
+          }
+        ],
+        "org_funding_total": {
+          "value_usd": 233238327595,
+          "currency": "USD",
+          "value": 233238327595
+        },
+        "org_num_investors": 7631
+      },
+      {
+        "org_num": 607,
+        "queries": {
+          "person": [
+            {
+              "field_id": "location_identifiers",
+              "operator_id": "includes",
+              "values": [
+                "5b194c3b-3018-b47d-f611-ab142cdfd74c"
+              ],
+              "type": "predicate"
+            },
+            {
+              "collection_id": "organization.has_primary_organization.forward",
+              "query": [
+                {
+                  "field_id": "facet_ids",
+                  "operator_id": "includes",
+                  "values": [
+                    "company"
+                  ],
+                  "type": "predicate"
+                },
+                {
+                  "field_id": "location_identifiers",
+                  "operator_id": "includes",
+                  "values": [
+                    "5b194c3b-3018-b47d-f611-ab142cdfd74c"
+                  ],
+                  "type": "predicate"
+                },
+                {
+                  "field_id": "categories",
+                  "operator_id": "includes",
+                  "values": [
+                    "68250c3a-6cf5-86fb-281e-9072ae2d4fe8"
+                  ],
+                  "type": "predicate"
+                },
+                {
+                  "field_id": "operating_status",
+                  "operator_id": "eq",
+                  "values": [
+                    "active"
+                  ],
+                  "type": "predicate"
+                }
+              ],
+              "type": "sub_query"
+            }
+          ],
+          "organization": [
+            {
+              "field_id": "facet_ids",
+              "operator_id": "includes",
+              "values": [
+                "company"
+              ],
+              "type": "predicate"
+            },
+            {
+              "field_id": "location_identifiers",
+              "operator_id": "includes",
+              "values": [
+                "5b194c3b-3018-b47d-f611-ab142cdfd74c"
+              ],
+              "type": "predicate"
+            },
+            {
+              "field_id": "categories",
+              "operator_id": "includes",
+              "values": [
+                "68250c3a-6cf5-86fb-281e-9072ae2d4fe8"
+              ],
+              "type": "predicate"
+            },
+            {
+              "field_id": "operating_status",
+              "operator_id": "eq",
+              "values": [
+                "active"
+              ],
+              "type": "predicate"
+            }
+          ],
+          "event": [
+            {
+              "field_id": "location_identifiers",
+              "operator_id": "includes",
+              "values": [
+                "5b194c3b-3018-b47d-f611-ab142cdfd74c"
+              ],
+              "type": "predicate"
+            },
+            {
+              "field_id": "categories",
+              "operator_id": "includes",
+              "values": [
+                "68250c3a-6cf5-86fb-281e-9072ae2d4fe8"
+              ],
+              "type": "predicate"
+            },
+            {
+              "collection_id": "principal.has_event.forward",
+              "query": [
+                {
+                  "field_id": "facet_ids",
+                  "operator_id": "includes",
+                  "values": [
+                    "company"
+                  ],
+                  "type": "predicate"
+                },
+                {
+                  "field_id": "operating_status",
+                  "operator_id": "eq",
+                  "values": [
+                    "active"
+                  ],
+                  "type": "predicate"
+                }
+              ],
+              "type": "sub_query"
+            }
+          ]
+        },
+        "identifier": {
+          "permalink": "africa-banking-companies",
+          "image_id": "qnalsqqdgb8duubqr9ym",
+          "uuid": "1c90a188-c3b2-431a-8e80-56ccb391066a",
+          "entity_def_id": "hub",
+          "value": "Africa Banking Companies"
+        },
+        "org_identifiers": [
+          {
+            "permalink": "mnt-halan",
+            "image_id": "qnalsqqdgb8duubqr9ym",
+            "uuid": "806457ef-11f6-43c5-8b00-01b69550f974",
+            "entity_def_id": "organization",
+            "value": "MNT-Halan"
+          },
+          {
+            "permalink": "access-bank",
+            "image_id": "fhqgp5idxm0gdqvvcvba",
+            "uuid": "e8661ad5-6f26-d406-370e-4f06a8880686",
+            "entity_def_id": "organization",
+            "value": "Access Bank"
+          },
+          {
+            "permalink": "investec",
+            "image_id": "v1397178502/959ffd0be9e4e7347bdf27de0d60647b.png",
+            "uuid": "a900d938-3275-9c89-882b-27ca054d031a",
+            "entity_def_id": "organization",
+            "value": "Investec"
+          },
+          {
+            "permalink": "tyme",
+            "image_id": "xgjqaih4l4yupsxvg1hx",
+            "uuid": "48b0f43e-9fe9-ae15-522f-5de06b84c347",
+            "entity_def_id": "organization",
+            "value": "TymeBank"
+          },
+          {
+            "permalink": "fawry",
+            "image_id": "v1500919602/g0niuhakbs3bpjtqdg6b.png",
+            "uuid": "ce880098-bba6-daf2-2a6a-6cf7e618dfd9",
+            "entity_def_id": "organization",
+            "value": "Fawry"
+          },
+          {
+            "permalink": "kudi",
+            "image_id": "fucv1d6os0rg2qbnetx2",
+            "uuid": "89d1edc9-4d8a-68cd-3d29-18a7a3543d4e",
+            "entity_def_id": "organization",
+            "value": "Kudi"
+          },
+          {
+            "permalink": "african-development-bank",
+            "image_id": "v1412837232/et4oxfcswm1f1hzo2bm6.jpg",
+            "uuid": "d85bbe29-d925-648e-5057-63e9a32a9f41",
+            "entity_def_id": "organization",
+            "value": "African Development Bank"
+          },
+          {
+            "permalink": "teamapt",
+            "image_id": "dmlqswapqzglwbyemz9r",
+            "uuid": "bf9e34e8-b002-4265-8614-8a68677e1e50",
+            "entity_def_id": "organization",
+            "value": "TeamApt"
+          }
+        ],
+        "org_funding_total": {
+          "value_usd": 7510025392,
+          "currency": "USD",
+          "value": 7510025392
+        },
+        "org_num_investors": 297
+      },
+      {
+        "org_num": 186,
+        "queries": {
+          "person": [
+            {
+              "field_id": "location_identifiers",
+              "operator_id": "includes",
+              "values": [
+                "5b194c3b-3018-b47d-f611-ab142cdfd74c"
+              ],
+              "type": "predicate"
+            },
+            {
+              "collection_id": "organization.has_primary_organization.forward",
+              "query": [
+                {
+                  "field_id": "funding_stage",
+                  "operator_id": "includes",
+                  "values": [
+                    "seed",
+                    "early_stage_venture",
+                    "late_stage_venture"
+                  ],
+                  "type": "predicate"
+                },
+                {
+                  "field_id": "location_identifiers",
+                  "operator_id": "includes",
+                  "values": [
+                    "5b194c3b-3018-b47d-f611-ab142cdfd74c"
+                  ],
+                  "type": "predicate"
+                },
+                {
+                  "field_id": "founded_on",
+                  "operator_id": "between",
+                  "values": [
+                    "2016-01-01",
+                    "2016-12-31"
+                  ],
+                  "type": "predicate"
+                },
+                {
+                  "field_id": "operating_status",
+                  "operator_id": "eq",
+                  "values": [
+                    "active"
+                  ],
+                  "type": "predicate"
+                }
+              ],
+              "type": "sub_query"
+            }
+          ],
+          "organization": [
+            {
+              "field_id": "funding_stage",
+              "operator_id": "includes",
+              "values": [
+                "seed",
+                "early_stage_venture",
+                "late_stage_venture"
+              ],
+              "type": "predicate"
+            },
+            {
+              "field_id": "location_identifiers",
+              "operator_id": "includes",
+              "values": [
+                "5b194c3b-3018-b47d-f611-ab142cdfd74c"
+              ],
+              "type": "predicate"
+            },
+            {
+              "field_id": "founded_on",
+              "operator_id": "between",
+              "values": [
+                "2016-01-01",
+                "2016-12-31"
+              ],
+              "type": "predicate"
+            },
+            {
+              "field_id": "operating_status",
+              "operator_id": "eq",
+              "values": [
+                "active"
+              ],
+              "type": "predicate"
+            }
+          ],
+          "event": [
+            {
+              "field_id": "location_identifiers",
+              "operator_id": "includes",
+              "values": [
+                "5b194c3b-3018-b47d-f611-ab142cdfd74c"
+              ],
+              "type": "predicate"
+            },
+            {
+              "collection_id": "principal.has_event.forward",
+              "query": [
+                {
+                  "field_id": "funding_stage",
+                  "operator_id": "includes",
+                  "values": [
+                    "seed",
+                    "early_stage_venture",
+                    "late_stage_venture"
+                  ],
+                  "type": "predicate"
+                },
+                {
+                  "field_id": "founded_on",
+                  "operator_id": "between",
+                  "values": [
+                    "2016-01-01",
+                    "2016-12-31"
+                  ],
+                  "type": "predicate"
+                },
+                {
+                  "field_id": "operating_status",
+                  "operator_id": "eq",
+                  "values": [
+                    "active"
+                  ],
+                  "type": "predicate"
+                }
+              ],
+              "type": "sub_query"
+            }
+          ]
+        },
+        "identifier": {
+          "permalink": "africa-startups-founded-in-2016",
+          "image_id": "v1492515765/iyljgdd0atchjlmykaa8.png",
+          "uuid": "60888a23-aa59-4344-8af3-c462e74fa2f5",
+          "entity_def_id": "hub",
+          "value": "Africa Startups Founded in 2016"
+        },
+        "org_identifiers": [
+          {
+            "permalink": "apollo-agriculture",
+            "image_id": "v1492515765/iyljgdd0atchjlmykaa8.png",
+            "uuid": "108c9a39-cacc-e876-f84d-13e4b2978826",
+            "entity_def_id": "organization",
+            "value": "Apollo Agriculture"
+          },
+          {
+            "permalink": "yassir",
+            "image_id": "ppzb0jghrasb67k3pu8z",
+            "uuid": "b01a9c91-e915-4737-86b6-e34adf12283d",
+            "entity_def_id": "organization",
+            "value": "Yassir"
+          },
+          {
+            "permalink": "tradedepot",
+            "image_id": "qql1svezqfrezbphewhm",
+            "uuid": "5740fc4f-0af7-4289-947f-f41c9d841c38",
+            "entity_def_id": "organization",
+            "value": "TradeDepot"
+          },
+          {
+            "permalink": "kudi",
+            "image_id": "fucv1d6os0rg2qbnetx2",
+            "uuid": "89d1edc9-4d8a-68cd-3d29-18a7a3543d4e",
+            "entity_def_id": "organization",
+            "value": "Kudi"
+          },
+          {
+            "permalink": "moneyfellows",
+            "image_id": "daatk167vgwxuytn8day",
+            "uuid": "fe044eba-4ea1-c96c-9a10-71b9f64d63e7",
+            "entity_def_id": "organization",
+            "value": "MoneyFellows"
+          },
+          {
+            "permalink": "xeno-investment-management",
+            "image_id": "w7ggr4uskliuf2gcvd7b",
+            "uuid": "046ccb2b-3967-47cd-9056-e4e4ac4a8f70",
+            "entity_def_id": "organization",
+            "value": "XENO"
+          },
+          {
+            "permalink": "naked-insurance",
+            "image_id": "xmwpreral39ozbnysfoo",
+            "uuid": "5d1762d7-a231-44b5-b0c4-f79bedef8f35",
+            "entity_def_id": "organization",
+            "value": "Naked Insurance"
+          },
+          {
+            "permalink": "reliancehealth",
+            "image_id": "n5caltylye27qbgdx7g1",
+            "uuid": "a0bd7366-85cb-41f0-91c5-387e963972bf",
+            "entity_def_id": "organization",
+            "value": "Reliance Health"
+          }
+        ],
+        "org_funding_total": {
+          "value_usd": 643777083,
+          "currency": "USD",
+          "value": 643777083
+        },
+        "org_num_investors": 527
+      },
+      {
+        "org_num": 1895,
+        "queries": {
+          "person": [
+            {
+              "field_id": "rank_person",
+              "operator_id": "lte",
+              "values": [
+                290000
+              ],
+              "type": "predicate"
+            },
+            {
+              "collection_id": "organization.has_primary_organization.forward",
+              "query": [
+                {
+                  "field_id": "facet_ids",
+                  "operator_id": "includes",
+                  "values": [
+                    "company"
+                  ],
+                  "type": "predicate"
+                },
+                {
+                  "field_id": "categories",
+                  "operator_id": "includes",
+                  "values": [
+                    "ae5718dc-8602-c733-e62b-28e6167091ad"
+                  ],
+                  "type": "predicate"
+                },
+                {
+                  "field_id": "funding_stage",
+                  "operator_id": "eq",
+                  "values": [
+                    "seed"
+                  ],
+                  "type": "predicate"
+                },
+                {
+                  "field_id": "operating_status",
+                  "operator_id": "eq",
+                  "values": [
+                    "active"
+                  ],
+                  "type": "predicate"
+                }
+              ],
+              "type": "sub_query"
+            }
+          ],
+          "organization": [
+            {
+              "field_id": "facet_ids",
+              "operator_id": "includes",
+              "values": [
+                "company"
+              ],
+              "type": "predicate"
+            },
+            {
+              "field_id": "categories",
+              "operator_id": "includes",
+              "values": [
+                "ae5718dc-8602-c733-e62b-28e6167091ad"
+              ],
+              "type": "predicate"
+            },
+            {
+              "field_id": "funding_stage",
+              "operator_id": "eq",
+              "values": [
+                "seed"
+              ],
+              "type": "predicate"
+            },
+            {
+              "field_id": "operating_status",
+              "operator_id": "eq",
+              "values": [
+                "active"
+              ],
+              "type": "predicate"
+            }
+          ],
+          "event": [
+            {
+              "field_id": "categories",
+              "operator_id": "includes",
+              "values": [
+                "ae5718dc-8602-c733-e62b-28e6167091ad"
+              ],
+              "type": "predicate"
+            },
+            {
+              "collection_id": "principal.has_event.forward",
+              "query": [
+                {
+                  "field_id": "facet_ids",
+                  "operator_id": "includes",
+                  "values": [
+                    "company"
+                  ],
+                  "type": "predicate"
+                },
+                {
+                  "field_id": "funding_stage",
+                  "operator_id": "eq",
+                  "values": [
+                    "seed"
+                  ],
+                  "type": "predicate"
+                },
+                {
+                  "field_id": "operating_status",
+                  "operator_id": "eq",
+                  "values": [
+                    "active"
+                  ],
+                  "type": "predicate"
+                }
+              ],
+              "type": "sub_query"
+            }
+          ]
+        },
+        "identifier": {
+          "permalink": "finance-companies-seed-funding",
+          "image_id": "v1464695160/xkove7j593gykrgcbuys.png",
+          "uuid": "9d788762-1f6c-4323-9d6a-fe997aa67292",
+          "entity_def_id": "hub",
+          "value": "Finance Companies with Seed Funding"
+        },
+        "org_identifiers": [
+          {
+            "permalink": "venturecatalysts",
+            "image_id": "v1464695160/xkove7j593gykrgcbuys.png",
+            "uuid": "7a4d1a2d-c4e9-8fd5-901f-cd6a95d43fba",
+            "entity_def_id": "organization",
+            "value": "Venture Catalysts"
+          },
+          {
+            "permalink": "strideone",
+            "image_id": "nxcpfy3zxi2tdrpopqaf",
+            "uuid": "d4a86572-92d6-400a-a66b-f751125dd06e",
+            "entity_def_id": "organization",
+            "value": "StrideOne"
+          },
+          {
+            "permalink": "klub",
+            "image_id": "piyrvmqyeok02k0bb2wv",
+            "uuid": "766c2af7-d1af-41fd-8bbe-5c3aedc7ffeb",
+            "entity_def_id": "organization",
+            "value": "Klub"
+          },
+          {
+            "permalink": "request-finance",
+            "image_id": "bkid2fz6xw9ovaar06ay",
+            "uuid": "9ae16bf2-276b-4230-a54a-8955589d5a5c",
+            "entity_def_id": "organization",
+            "value": "Request Finance"
+          },
+          {
+            "permalink": "meta-tenure",
+            "image_id": "ohcgwky6yfq3uxcebpdc",
+            "uuid": "0f6e78b4-1292-40e8-bd64-1eb8e79fc7e2",
+            "entity_def_id": "organization",
+            "value": "Meta Tenure"
+          },
+          {
+            "permalink": "homie-3",
+            "image_id": "v1475851397/ta40ufr97omjff8tyd1o.png",
+            "uuid": "811b4b79-eb2b-80ec-1619-09b9906f5301",
+            "entity_def_id": "organization",
+            "value": "Homie"
+          },
+          {
+            "permalink": "nordigen",
+            "image_id": "edpcfce0c2hesqhznsg7",
+            "uuid": "bf5c222a-3ae1-62bd-1ae3-e57eca2f421f",
+            "entity_def_id": "organization",
+            "value": "Nordigen"
+          },
+          {
+            "permalink": "pigeon-loans",
+            "image_id": "lvchi9ndza6d7vdkpqdp",
+            "uuid": "94085b56-2c80-46c5-af9e-3bca3a1c7e61",
+            "entity_def_id": "organization",
+            "value": "Pigeon Loans"
+          }
+        ],
+        "org_funding_total": {
+          "value_usd": 4044914543,
+          "currency": "USD",
+          "value": 4044914543
+        },
+        "org_num_investors": 4136
+      }
+    ],
+    "org_similarity_org_list": [
+      {
+        "identifier": {
+          "uuid": "cb59de3d-19c6-4945-bee0-90d064011579",
+          "value": "DafriBank Digital LTD",
+          "image_id": "fs10ftcaeo2scb8t1eow",
+          "permalink": "dafribank-digital",
+          "entity_def_id": "organization"
+        }
+      },
+      {
+        "identifier": {
+          "uuid": "79dd1f12-118e-248e-21dd-88148373d77a",
+          "value": "Yethu",
+          "image_id": "v1502977737/c3e2movyn28tzn3k9f8i.png",
+          "permalink": "yethu",
+          "entity_def_id": "organization"
+        }
+      },
+      {
+        "identifier": {
+          "uuid": "e97c1e1d-6cae-448a-99ac-5bb6920f6b4f",
+          "value": "Transfeera",
+          "image_id": "kpuyhg7fmzssyewtdkgw",
+          "permalink": "transfeera",
+          "entity_def_id": "organization"
+        }
+      }
+    ],
+    "investors_summary": {
+      "identifier": {
+        "uuid": "1b86bbf7-e33b-9d0f-4819-102c4b1a7b54",
+        "value": "Piggyvest",
+        "image_id": "dom16mbowz9tquw3ures",
+        "permalink": "piggybank.ng",
+        "entity_def_id": "organization"
+      },
+      "num_investors": 4
+    },
+    "funds_list": [],
+    "key_employee_change_list": [],
+    "alumni_image_list": [],
+    "frequently_asked_questions_total_funding": {
+      "funding_total": {
+        "value": 50000,
+        "currency": "USD",
+        "value_usd": 50000
+      },
+      "identifier": {
+        "uuid": "1b86bbf7-e33b-9d0f-4819-102c4b1a7b54",
+        "value": "Piggyvest",
+        "image_id": "dom16mbowz9tquw3ures",
+        "permalink": "piggybank.ng",
+        "entity_def_id": "organization"
+      }
+    },
+    "exits_summary": {
+      "identifier": {
+        "uuid": "1b86bbf7-e33b-9d0f-4819-102c4b1a7b54",
+        "value": "Piggyvest",
+        "image_id": "dom16mbowz9tquw3ures",
+        "permalink": "piggybank.ng",
+        "entity_def_id": "organization"
+      }
+    },
+    "bombora_surge_list": [],
+    "diversity_spotlight_investments_list": [],
+    "builtwith_tech_used_list": [
+      {
+        "identifier": {
+          "uuid": "983394a8-d4ee-4af3-89ba-ae3a204dc982",
+          "value": "Viewport Meta",
+          "entity_def_id": "builtwith_technology"
+        },
+        "technology_category": [
+          "mobile"
+        ],
+        "num_companies_using": 999971
+      },
+      {
+        "identifier": {
+          "uuid": "2f6cffdd-6438-400e-9512-692a21e184d8",
+          "value": "IPhone / Mobile Compatible",
+          "entity_def_id": "builtwith_technology"
+        },
+        "technology_category": [
+          "mobile"
+        ],
+        "num_companies_using": 989566
+      },
+      {
+        "identifier": {
+          "uuid": "28654445-17a4-4667-8a53-4560f6143e57",
+          "value": "SPF",
+          "entity_def_id": "builtwith_technology"
+        },
+        "technology_category": [
+          "mx"
+        ],
+        "num_companies_using": 850546
+      },
+      {
+        "identifier": {
+          "uuid": "35207635-a977-41c8-ad7e-e1a761e27ee9",
+          "value": "Google Font API",
+          "entity_def_id": "builtwith_technology"
+        },
+        "technology_category": [
+          "widgets"
+        ],
+        "num_companies_using": 609839
+      },
+      {
+        "identifier": {
+          "uuid": "406526b5-ad50-41bc-8a08-e53842442565",
+          "value": "nginx",
+          "entity_def_id": "builtwith_technology"
+        },
+        "technology_category": [
+          "web_server"
+        ],
+        "num_companies_using": 362438
+      },
+      {
+        "identifier": {
+          "uuid": "6ac4c10f-433f-48b4-9197-25bc274925ce",
+          "value": "DigiCert SSL",
+          "entity_def_id": "builtwith_technology"
+        },
+        "technology_category": [
+          "ssl"
+        ],
+        "num_companies_using": 121390
+      },
+      {
+        "identifier": {
+          "uuid": "bf41ad9e-497a-42b5-b6cc-2a4d9ef48ac7",
+          "value": "CloudFront",
+          "entity_def_id": "builtwith_technology"
+        },
+        "technology_category": [
+          "cdn"
+        ],
+        "num_companies_using": 104507
+      },
+      {
+        "identifier": {
+          "uuid": "71db0bef-add4-4a44-874d-b5e2e742a967",
+          "value": "Google Adsense",
+          "entity_def_id": "builtwith_technology"
+        },
+        "technology_category": [
+          "ads"
+        ],
+        "num_companies_using": 54105
+      },
+      {
+        "identifier": {
+          "uuid": "8d807001-f9b8-4814-9c95-0aa8be87b202",
+          "value": "Facebook Like Button",
+          "entity_def_id": "builtwith_technology"
+        },
+        "technology_category": [
+          "widgets"
+        ],
+        "num_companies_using": 33659
+      },
+      {
+        "identifier": {
+          "uuid": "ed46fea7-dffa-465d-bdfc-2e6c48443fee",
+          "value": "AdBlock Acceptable Ads",
+          "entity_def_id": "builtwith_technology"
+        },
+        "technology_category": [
+          "ads"
+        ],
+        "num_companies_using": 33471
+      }
+    ],
+    "funding_rounds_summary": {
+      "identifier": {
+        "uuid": "1b86bbf7-e33b-9d0f-4819-102c4b1a7b54",
+        "value": "Piggyvest",
+        "image_id": "dom16mbowz9tquw3ures",
+        "permalink": "piggybank.ng",
+        "entity_def_id": "organization"
+      },
+      "funding_total": {
+        "value": 50000,
+        "currency": "USD",
+        "value_usd": 50000
+      },
+      "num_funding_rounds": 2,
+      "last_funding_type": "seed",
+      "last_funding_at": "2018-05-31"
+    },
+    "org_similarity_summary": {
+      "identifier": {
+        "uuid": "1b86bbf7-e33b-9d0f-4819-102c4b1a7b54",
+        "value": "Piggyvest",
+        "image_id": "dom16mbowz9tquw3ures",
+        "permalink": "piggybank.ng",
+        "entity_def_id": "organization"
+      }
+    },
+    "org_similarity_list": [
+      {
+        "source": {
+          "uuid": "1b86bbf7-e33b-9d0f-4819-102c4b1a7b54",
+          "value": "Piggyvest",
+          "image_id": "dom16mbowz9tquw3ures",
+          "permalink": "piggybank.ng",
+          "entity_def_id": "organization"
+        },
+        "identifier": {
+          "uuid": "68693596-9394-4605-9a40-71bd763f0737"
+        },
+        "source_locations": [
+          {
+            "uuid": "1913491f-83ef-ae92-2bd5-0adf8c7956cb",
+            "value": "Lagos",
+            "permalink": "lagos-lagos",
+            "entity_def_id": "location",
+            "location_type": "city"
+          },
+          {
+            "uuid": "02eda330-e464-10bd-0bbb-53eb9167f714",
+            "value": "Lagos",
+            "permalink": "lagos-nigeria",
+            "entity_def_id": "location",
+            "location_type": "region"
+          },
+          {
+            "uuid": "4abbf906-6e8c-0c01-e56b-0e41d56bbfca",
+            "value": "Nigeria",
+            "permalink": "nigeria",
+            "entity_def_id": "location",
+            "location_type": "country"
+          },
+          {
+            "uuid": "5b194c3b-3018-b47d-f611-ab142cdfd74c",
+            "value": "Africa",
+            "permalink": "africa",
+            "entity_def_id": "location",
+            "location_type": "continent"
+          }
+        ],
+        "uuid": "68693596-9394-4605-9a40-71bd763f0737",
+        "score": 0.8505977,
+        "target_locations": [
+          {
+            "uuid": "225d21e4-ef1f-cebd-76ba-9c809a0a3e33",
+            "value": "Joinville",
+            "permalink": "joinville-santa-catarina",
+            "entity_def_id": "location",
+            "location_type": "city"
+          },
+          {
+            "uuid": "36d1bab7-67e7-4929-e21a-ae6dcf43f8ad",
+            "value": "Santa Catarina",
+            "permalink": "santa-catarina-brazil",
+            "entity_def_id": "location",
+            "location_type": "region"
+          },
+          {
+            "uuid": "8eb58540-ecb9-b5bb-fae5-3ff82665c717",
+            "value": "Brazil",
+            "permalink": "brazil",
+            "entity_def_id": "location",
+            "location_type": "country"
+          },
+          {
+            "uuid": "dc5ba49f-731c-c510-b669-6a1641aee660",
+            "value": "South America",
+            "permalink": "south-america",
+            "entity_def_id": "location",
+            "location_type": "continent"
+          }
+        ],
+        "target_short_description": "Transfeera is a platform that generates savings with each transfer between banks and also allows its customers to reduce errors.",
+        "target_categories": [
+          {
+            "uuid": "68250c3a-6cf5-86fb-281e-9072ae2d4fe8",
+            "value": "Banking",
+            "permalink": "banking",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+            "value": "Finance",
+            "permalink": "finance",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services",
+            "permalink": "financial-services",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "e06799a9-f789-76e7-49a7-71ee980a70ec",
+            "value": "FinTech",
+            "permalink": "fintech-e067",
+            "entity_def_id": "category"
+          }
+        ],
+        "source_num_employees_enum": "c_00011_00050",
+        "target_location_groups": [
+          {
+            "uuid": "dc8ffe02-9def-4cb3-a14c-5d37458b1507",
+            "value": "Latin America",
+            "permalink": "latin-america",
+            "entity_def_id": "location",
+            "location_type": "group"
+          }
+        ],
+        "source_short_description": "Piggyvest is a platform that helps individuals and businesses manage their finances effectively.",
+        "target": {
+          "uuid": "e97c1e1d-6cae-448a-99ac-5bb6920f6b4f",
+          "value": "Transfeera",
+          "image_id": "kpuyhg7fmzssyewtdkgw",
+          "permalink": "transfeera",
+          "entity_def_id": "organization"
+        },
+        "source_categories": [
+          {
+            "uuid": "68250c3a-6cf5-86fb-281e-9072ae2d4fe8",
+            "value": "Banking",
+            "permalink": "banking",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "bb6b92f9-ccfa-6f9b-a59e-4906ebf75fb9",
+            "value": "Debit Cards",
+            "permalink": "debit-cards",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+            "value": "Finance",
+            "permalink": "finance",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services",
+            "permalink": "financial-services",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "e06799a9-f789-76e7-49a7-71ee980a70ec",
+            "value": "FinTech",
+            "permalink": "fintech-e067",
+            "entity_def_id": "category"
+          }
+        ],
+        "target_num_employees_enum": "c_00001_00010",
+        "reasons": [
+          "category",
+          "funding_stage"
+        ]
+      },
+      {
+        "source": {
+          "uuid": "1b86bbf7-e33b-9d0f-4819-102c4b1a7b54",
+          "value": "Piggyvest",
+          "image_id": "dom16mbowz9tquw3ures",
+          "permalink": "piggybank.ng",
+          "entity_def_id": "organization"
+        },
+        "identifier": {
+          "uuid": "ac5d02f3-1a08-4866-be0e-04c9c23251f2"
+        },
+        "source_locations": [
+          {
+            "uuid": "1913491f-83ef-ae92-2bd5-0adf8c7956cb",
+            "value": "Lagos",
+            "permalink": "lagos-lagos",
+            "entity_def_id": "location",
+            "location_type": "city"
+          },
+          {
+            "uuid": "02eda330-e464-10bd-0bbb-53eb9167f714",
+            "value": "Lagos",
+            "permalink": "lagos-nigeria",
+            "entity_def_id": "location",
+            "location_type": "region"
+          },
+          {
+            "uuid": "4abbf906-6e8c-0c01-e56b-0e41d56bbfca",
+            "value": "Nigeria",
+            "permalink": "nigeria",
+            "entity_def_id": "location",
+            "location_type": "country"
+          },
+          {
+            "uuid": "5b194c3b-3018-b47d-f611-ab142cdfd74c",
+            "value": "Africa",
+            "permalink": "africa",
+            "entity_def_id": "location",
+            "location_type": "continent"
+          }
+        ],
+        "uuid": "ac5d02f3-1a08-4866-be0e-04c9c23251f2",
+        "score": 0.82214856,
+        "target_locations": [
+          {
+            "uuid": "0aee240d-6f05-4b1c-082e-b883d14424f7",
+            "value": "Johannesburg",
+            "permalink": "johannesburg-na---south-africa",
+            "entity_def_id": "location",
+            "location_type": "city"
+          },
+          {
+            "uuid": "2955f27e-2589-2d82-f9fa-ce4aa8e907b7",
+            "value": "NA - South Africa",
+            "permalink": "na---south-africa-south-africa",
+            "entity_def_id": "location",
+            "location_type": "region"
+          },
+          {
+            "uuid": "accdbce5-cd94-ee45-008b-e621218a3e6a",
+            "value": "South Africa",
+            "permalink": "south-africa",
+            "entity_def_id": "location",
+            "location_type": "country"
+          },
+          {
+            "uuid": "5b194c3b-3018-b47d-f611-ab142cdfd74c",
+            "value": "Africa",
+            "permalink": "africa",
+            "entity_def_id": "location",
+            "location_type": "continent"
+          }
+        ],
+        "target_short_description": "DafriBank Digital is a branchless financial technology company providing customized financial services to clients in 180+ countries",
+        "target_categories": [
+          {
+            "uuid": "68250c3a-6cf5-86fb-281e-9072ae2d4fe8",
+            "value": "Banking",
+            "permalink": "banking",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+            "value": "Finance",
+            "permalink": "finance",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services",
+            "permalink": "financial-services",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "e06799a9-f789-76e7-49a7-71ee980a70ec",
+            "value": "FinTech",
+            "permalink": "fintech-e067",
+            "entity_def_id": "category"
+          }
+        ],
+        "source_num_employees_enum": "c_00011_00050",
+        "source_short_description": "Piggyvest is a platform that helps individuals and businesses manage their finances effectively.",
+        "target": {
+          "uuid": "cb59de3d-19c6-4945-bee0-90d064011579",
+          "value": "DafriBank Digital LTD",
+          "image_id": "fs10ftcaeo2scb8t1eow",
+          "permalink": "dafribank-digital",
+          "entity_def_id": "organization"
+        },
+        "source_categories": [
+          {
+            "uuid": "68250c3a-6cf5-86fb-281e-9072ae2d4fe8",
+            "value": "Banking",
+            "permalink": "banking",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "bb6b92f9-ccfa-6f9b-a59e-4906ebf75fb9",
+            "value": "Debit Cards",
+            "permalink": "debit-cards",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+            "value": "Finance",
+            "permalink": "finance",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services",
+            "permalink": "financial-services",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "e06799a9-f789-76e7-49a7-71ee980a70ec",
+            "value": "FinTech",
+            "permalink": "fintech-e067",
+            "entity_def_id": "category"
+          }
+        ],
+        "target_num_employees_enum": "c_00011_00050",
+        "reasons": [
+          "category",
+          "num_employees"
+        ]
+      },
+      {
+        "source": {
+          "uuid": "1b86bbf7-e33b-9d0f-4819-102c4b1a7b54",
+          "value": "Piggyvest",
+          "image_id": "dom16mbowz9tquw3ures",
+          "permalink": "piggybank.ng",
+          "entity_def_id": "organization"
+        },
+        "identifier": {
+          "uuid": "ba5a504b-c51a-49a1-ba68-56222309b992"
+        },
+        "source_locations": [
+          {
+            "uuid": "1913491f-83ef-ae92-2bd5-0adf8c7956cb",
+            "value": "Lagos",
+            "permalink": "lagos-lagos",
+            "entity_def_id": "location",
+            "location_type": "city"
+          },
+          {
+            "uuid": "02eda330-e464-10bd-0bbb-53eb9167f714",
+            "value": "Lagos",
+            "permalink": "lagos-nigeria",
+            "entity_def_id": "location",
+            "location_type": "region"
+          },
+          {
+            "uuid": "4abbf906-6e8c-0c01-e56b-0e41d56bbfca",
+            "value": "Nigeria",
+            "permalink": "nigeria",
+            "entity_def_id": "location",
+            "location_type": "country"
+          },
+          {
+            "uuid": "5b194c3b-3018-b47d-f611-ab142cdfd74c",
+            "value": "Africa",
+            "permalink": "africa",
+            "entity_def_id": "location",
+            "location_type": "continent"
+          }
+        ],
+        "uuid": "ba5a504b-c51a-49a1-ba68-56222309b992",
+        "score": 0.81423926,
+        "target_locations": [
+          {
+            "uuid": "68e6d014-2bd7-ad50-40a0-43b8ccb16092",
+            "value": "Cape Town",
+            "permalink": "cape-town-na---south-africa",
+            "entity_def_id": "location",
+            "location_type": "city"
+          },
+          {
+            "uuid": "2955f27e-2589-2d82-f9fa-ce4aa8e907b7",
+            "value": "NA - South Africa",
+            "permalink": "na---south-africa-south-africa",
+            "entity_def_id": "location",
+            "location_type": "region"
+          },
+          {
+            "uuid": "accdbce5-cd94-ee45-008b-e621218a3e6a",
+            "value": "South Africa",
+            "permalink": "south-africa",
+            "entity_def_id": "location",
+            "location_type": "country"
+          },
+          {
+            "uuid": "5b194c3b-3018-b47d-f611-ab142cdfd74c",
+            "value": "Africa",
+            "permalink": "africa",
+            "entity_def_id": "location",
+            "location_type": "continent"
+          }
+        ],
+        "target_short_description": "Yethu is an online management system platform that helps individual manage their funds.",
+        "target_categories": [
+          {
+            "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+            "value": "Finance",
+            "permalink": "finance",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services",
+            "permalink": "financial-services",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "0caf426c-828c-53ef-473c-b9b5795d9040",
+            "value": "Management Information Systems",
+            "permalink": "management-information-systems",
+            "entity_def_id": "category"
+          }
+        ],
+        "source_num_employees_enum": "c_00011_00050",
+        "source_short_description": "Piggyvest is a platform that helps individuals and businesses manage their finances effectively.",
+        "target": {
+          "uuid": "79dd1f12-118e-248e-21dd-88148373d77a",
+          "value": "Yethu",
+          "image_id": "v1502977737/c3e2movyn28tzn3k9f8i.png",
+          "permalink": "yethu",
+          "entity_def_id": "organization"
+        },
+        "source_categories": [
+          {
+            "uuid": "68250c3a-6cf5-86fb-281e-9072ae2d4fe8",
+            "value": "Banking",
+            "permalink": "banking",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "bb6b92f9-ccfa-6f9b-a59e-4906ebf75fb9",
+            "value": "Debit Cards",
+            "permalink": "debit-cards",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+            "value": "Finance",
+            "permalink": "finance",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services",
+            "permalink": "financial-services",
+            "entity_def_id": "category"
+          },
+          {
+            "uuid": "e06799a9-f789-76e7-49a7-71ee980a70ec",
+            "value": "FinTech",
+            "permalink": "fintech-e067",
+            "entity_def_id": "category"
+          }
+        ],
+        "target_num_employees_enum": "c_00011_00050",
+        "reasons": [
+          "category",
+          "description",
+          "funding_stage",
+          "num_employees"
+        ]
+      }
+    ],
+    "acquisitions_summary": {
+      "identifier": {
+        "uuid": "1b86bbf7-e33b-9d0f-4819-102c4b1a7b54",
+        "value": "Piggyvest",
+        "image_id": "dom16mbowz9tquw3ures",
+        "permalink": "piggybank.ng",
+        "entity_def_id": "organization"
+      },
+      "num_acquisitions": 1
+    },
+    "advisors_summary": {
+      "identifier": {
+        "uuid": "1b86bbf7-e33b-9d0f-4819-102c4b1a7b54",
+        "value": "Piggyvest",
+        "image_id": "dom16mbowz9tquw3ures",
+        "permalink": "piggybank.ng",
+        "entity_def_id": "organization"
+      }
+    },
+    "acquisitions_list": [
+      {
+        "acquiree_identifier": {
+          "role": "acquiree",
+          "uuid": "ed924ea0-2d4b-4dce-b742-86ab36de3388",
+          "value": "Savi.ng",
+          "image_id": "lnm36vwkkidiant75wec",
+          "permalink": "savi-ng",
+          "entity_def_id": "organization"
+        },
+        "announced_on": {
+          "value": "2021-07-27",
+          "precision": "day"
+        },
+        "identifier": {
+          "uuid": "608858c7-a994-460c-b45c-84e41e4c6ffa",
+          "value": "Savi.ng acquired by Piggyvest",
+          "image_id": "lnm36vwkkidiant75wec",
+          "permalink": "piggybank.ng-acquires-savi-ng--608858c7",
+          "entity_def_id": "acquisition"
+        }
+      }
+    ],
+    "alumni_headline": {},
+    "exits_headline": {},
+    "investments_summary": {
+      "identifier": {
+        "uuid": "1b86bbf7-e33b-9d0f-4819-102c4b1a7b54",
+        "value": "Piggyvest",
+        "image_id": "dom16mbowz9tquw3ures",
+        "permalink": "piggybank.ng",
+        "entity_def_id": "organization"
+      }
+    },
+    "acquired_by_fields": {},
+    "sub_organizations_headline": {},
+    "layoff_list": [],
+    "overview_school_fields": {},
+    "bombora_summary": {
+      "identifier": {
+        "uuid": "1b86bbf7-e33b-9d0f-4819-102c4b1a7b54",
+        "value": "Piggyvest",
+        "image_id": "dom16mbowz9tquw3ures",
+        "permalink": "piggybank.ng",
+        "entity_def_id": "organization"
+      }
+    },
+    "semrush_rank_headline": {
+      "semrush_visits_latest_month": 119503,
+      "semrush_visits_mom_pct": -0.665542507220742
+    },
+    "frequently_asked_questions_latest_funding_round": {
+      "identifier": {
+        "uuid": "1b86bbf7-e33b-9d0f-4819-102c4b1a7b54",
+        "value": "Piggyvest",
+        "image_id": "dom16mbowz9tquw3ures",
+        "permalink": "piggybank.ng",
+        "entity_def_id": "organization"
+      },
+      "last_funding_at": "2018-05-31",
+      "last_funding_type": "seed",
+      "num_funding_rounds": 2
+    },
+    "contacts": {},
+    "alumni_summary": {
+      "identifier": {
+        "uuid": "1b86bbf7-e33b-9d0f-4819-102c4b1a7b54",
+        "value": "Piggyvest",
+        "image_id": "dom16mbowz9tquw3ures",
+        "permalink": "piggybank.ng",
+        "entity_def_id": "organization"
+      }
+    },
+    "apptopia_summary": {
+      "identifier": {
+        "uuid": "1b86bbf7-e33b-9d0f-4819-102c4b1a7b54",
+        "value": "Piggyvest",
+        "image_id": "dom16mbowz9tquw3ures",
+        "permalink": "piggybank.ng",
+        "entity_def_id": "organization"
+      }
+    },
+    "diversity_spotlight_investments_summary": {
+      "identifier": {
+        "uuid": "1b86bbf7-e33b-9d0f-4819-102c4b1a7b54",
+        "value": "Piggyvest",
+        "image_id": "dom16mbowz9tquw3ures",
+        "permalink": "piggybank.ng",
+        "entity_def_id": "organization"
+      }
+    },
+    "contact_fields": {
+      "contact_email": "contact@piggyvest.com",
+      "phone_number": "0700 933 933 933"
+    },
+    "social_fields": {
+      "facebook": {
+        "value": "https://www.facebook.com/PiggyBankNG"
+      },
+      "linkedin": {
+        "value": "https://www.linkedin.com/company/piggyvest/"
+      },
+      "twitter": {
+        "value": "https://twitter.com/PiggybankNG"
+      }
+    },
+    "investments_headline": {},
+    "sub_organizations_summary": {
+      "identifier": {
+        "uuid": "1b86bbf7-e33b-9d0f-4819-102c4b1a7b54",
+        "value": "Piggyvest",
+        "image_id": "dom16mbowz9tquw3ures",
+        "permalink": "piggybank.ng",
+        "entity_def_id": "organization"
+      }
+    },
+    "overview_description": {
+      "description": "Piggyvest enables Nigerian debit card holders save little amounts of money frequently with minimal effort. They automate the process of saving tiny amounts daily, weekly, or monthly; and then allowing you to withdraw for free on only set withdrawal dates thereby practically making saving more possible for you by eliminating the temptation to withdraw.\n\nPiggyvest is a platform that helps individuals and businesses manage their finances effectively - save and invest with ease.\n\nAs Piggybank.ng, Piggyvest operated in partnership with 2 Microfinance banks and used their licenses. However, in early 2018, Piggyvest acquired Gold Microfinance bank and its license. Piggyvest is also a registered cooperative- Piggytech Cooperative Multipurpose Society Limited (Registration number, 16555). \n\nAll saved funds are now warehoused with and managed by AIICO Capital, the leading asset management company in Nigeria, registered and licensed by the Securities and Exchange Commission (SEC)."
+    },
+    "current_employees_featured_order_field": [
+      {
+        "person_identifier": {
+          "uuid": "fcf89109-28d4-9cc9-5c05-4ff1847ea8f1",
+          "value": "Nonso Eagle",
+          "image_id": "v1499504593/xfert9kt3kqvazqcqiq5.png",
+          "permalink": "nonso-eagle",
+          "entity_def_id": "person"
+        },
+        "identifier": {
+          "uuid": "5b6ad646-c21c-4a24-a03b-128d54797e6b",
+          "value": "Nonso Eagle Co-Founder and CCO @ Piggyvest",
+          "permalink": "nonso-eagle-executive-piggybank.ng--5b6ad646",
+          "entity_def_id": "job"
+        },
+        "employee_featured_order": 0,
+        "title": "Co-Founder and CCO"
+      },
+      {
+        "person_identifier": {
+          "uuid": "97e29df5-cf80-840e-eb13-a1b243028425",
+          "value": "Joshua Chibueze",
+          "image_id": "v1500993255/xac5j91u9y8yefdcg0dc.png",
+          "permalink": "joshua-chibueze",
+          "entity_def_id": "person"
+        },
+        "identifier": {
+          "uuid": "cff94567-ca37-43e6-ba87-5d26312d8e8e",
+          "value": "Joshua Chibueze Co-Founder @ Piggyvest",
+          "permalink": "joshua-chibueze-executive-piggybank.ng--cff94567",
+          "entity_def_id": "job"
+        },
+        "employee_featured_order": 1,
+        "title": "Co-Founder"
+      },
+      {
+        "person_identifier": {
+          "uuid": "18c78ed7-0690-2f3a-4b33-fba10bceff93",
+          "value": "Odunayo Eweniyi",
+          "image_id": "v1499504780/o8ocfirc7jgkbnnuat68.png",
+          "permalink": "odunayo-eweniyi",
+          "entity_def_id": "person"
+        },
+        "identifier": {
+          "uuid": "806b22aa-e96d-49b9-82e8-f70095b1642e",
+          "value": "Odunayo Eweniyi Co-founder and COO @ Piggyvest",
+          "permalink": "odunayo-eweniyi-executive-piggybank.ng--806b22aa",
+          "entity_def_id": "job"
+        },
+        "employee_featured_order": 2,
+        "title": "Co-founder and COO"
+      },
+      {
+        "person_identifier": {
+          "uuid": "aabc034d-f0ff-d37b-0a36-40526e939060",
+          "value": "Ayo Akinola",
+          "image_id": "v1499504053/cvhvrpicolflhmd1m5sb.png",
+          "permalink": "ayo-akinola",
+          "entity_def_id": "person"
+        },
+        "identifier": {
+          "uuid": "985fa4db-dba2-44a7-b091-f510369c981d",
+          "value": "Ayo Akinola Co-Founder @ Piggyvest",
+          "permalink": "ayo-akinola-executive-piggybank.ng--985fa4db",
+          "entity_def_id": "job"
+        },
+        "started_on": {
+          "value": "2016-01-01",
+          "precision": "month"
+        },
+        "employee_featured_order": 3,
+        "title": "Co-Founder"
+      },
+      {
+        "person_identifier": {
+          "uuid": "786e73e6-4fd5-7e27-192b-fa79f47a8f1f",
+          "value": "Somto Ifezue",
+          "image_id": "v1500993734/v4lvnmjkusjjyw64dups.png",
+          "permalink": "somto-ifezue",
+          "entity_def_id": "person"
+        },
+        "identifier": {
+          "uuid": "ce46a728-ee6d-4003-88ad-884ce6cd984a",
+          "value": "Somto Ifezue Co-founder and Lead Product Engineer @ Piggyvest",
+          "permalink": "somto-ifezue-executive-piggybank.ng--ce46a728",
+          "entity_def_id": "job"
+        },
+        "started_on": {
+          "value": "2016-01-01",
+          "precision": "month"
+        },
+        "employee_featured_order": 4,
+        "title": "Co-founder and Lead Product Engineer"
+      },
+      {
+        "person_identifier": {
+          "uuid": "c8053f75-eda4-ffd1-d34c-45c587790735",
+          "value": "Terry Kanu",
+          "image_id": "v1499504999/dnmyt8tin1whrkbqzhag.png",
+          "permalink": "terry-kanu",
+          "entity_def_id": "person"
+        },
+        "identifier": {
+          "uuid": "a3667074-6683-4996-a1b3-c7b3198dc574",
+          "value": "Terry Kanu Chief of Partnerships @ Piggyvest",
+          "permalink": "terry-kanu-executive-piggybank.ng--a3667074",
+          "entity_def_id": "job"
+        },
+        "started_on": {
+          "value": "2016-01-01",
+          "precision": "year"
+        },
+        "title": "Chief of Partnerships"
+      }
+    ],
+    "company_about_fields2": {
+      "website": {
+        "value": "https://www.piggyvest.com/"
+      },
+      "ipo_status": "private",
+      "num_employees_enum": "c_00011_00050",
+      "last_funding_type": "seed",
+      "location_identifiers": [
+        {
+          "uuid": "1913491f-83ef-ae92-2bd5-0adf8c7956cb",
+          "value": "Lagos",
+          "permalink": "lagos-lagos",
+          "entity_def_id": "location",
+          "location_type": "city"
+        },
+        {
+          "uuid": "02eda330-e464-10bd-0bbb-53eb9167f714",
+          "value": "Lagos",
+          "permalink": "lagos-nigeria",
+          "entity_def_id": "location",
+          "location_type": "region"
+        },
+        {
+          "uuid": "4abbf906-6e8c-0c01-e56b-0e41d56bbfca",
+          "value": "Nigeria",
+          "permalink": "nigeria",
+          "entity_def_id": "location",
+          "location_type": "country"
+        },
+        {
+          "uuid": "5b194c3b-3018-b47d-f611-ab142cdfd74c",
+          "value": "Africa",
+          "permalink": "africa",
+          "entity_def_id": "location",
+          "location_type": "continent"
+        }
+      ],
+      "rank_org_company": 253446
+    },
+    "sub_organizations_image_list": [],
+    "frequently_asked_questions_headquarters_location": {
+      "identifier": {
+        "uuid": "1b86bbf7-e33b-9d0f-4819-102c4b1a7b54",
+        "value": "Piggyvest",
+        "image_id": "dom16mbowz9tquw3ures",
+        "permalink": "piggybank.ng",
+        "entity_def_id": "organization"
+      },
+      "location_identifiers": [
+        {
+          "uuid": "1913491f-83ef-ae92-2bd5-0adf8c7956cb",
+          "value": "Lagos",
+          "permalink": "lagos-lagos",
+          "entity_def_id": "location",
+          "location_type": "city"
+        },
+        {
+          "uuid": "02eda330-e464-10bd-0bbb-53eb9167f714",
+          "value": "Lagos",
+          "permalink": "lagos-nigeria",
+          "entity_def_id": "location",
+          "location_type": "region"
+        },
+        {
+          "uuid": "4abbf906-6e8c-0c01-e56b-0e41d56bbfca",
+          "value": "Nigeria",
+          "permalink": "nigeria",
+          "entity_def_id": "location",
+          "location_type": "country"
+        },
+        {
+          "uuid": "5b194c3b-3018-b47d-f611-ab142cdfd74c",
+          "value": "Africa",
+          "permalink": "africa",
+          "entity_def_id": "location",
+          "location_type": "continent"
+        }
+      ]
+    },
+    "investors_headline": {
+      "num_investors": 4,
+      "num_lead_investors": 2
+    },
+    "ipo_summary": {
+      "identifier": {
+        "uuid": "1b86bbf7-e33b-9d0f-4819-102c4b1a7b54",
+        "value": "Piggyvest",
+        "image_id": "dom16mbowz9tquw3ures",
+        "permalink": "piggybank.ng",
+        "entity_def_id": "organization"
+      }
+    },
+    "ipqwery_summary": {
+      "identifier": {
+        "uuid": "1b86bbf7-e33b-9d0f-4819-102c4b1a7b54",
+        "value": "Piggyvest",
+        "image_id": "dom16mbowz9tquw3ures",
+        "permalink": "piggybank.ng",
+        "entity_def_id": "organization"
+      }
+    },
+    "siftery_product_list": [
+      {
+        "product_identifier": {
+          "uuid": "44fbb3b4-e7da-4a08-b981-83f46b8b2f01",
+          "value": "HTML5",
+          "image_id": "siftery/siftery_logo_prNc7nA_qm8_k5",
+          "entity_def_id": "siftery_product"
+        },
+        "identifier": {
+          "uuid": "7c5b3582-7ba1-486b-8aab-05825c660e3a"
+        },
+        "uuid": "7c5b3582-7ba1-486b-8aab-05825c660e3a",
+        "product_num_customers": 382762,
+        "status": "using"
+      },
+      {
+        "product_identifier": {
+          "uuid": "77840218-830a-466c-a035-7c3c7676ebd9",
+          "value": "Google Analytics",
+          "image_id": "siftery/siftery_logo_prchiZeMpgVrUy",
+          "entity_def_id": "siftery_product"
+        },
+        "identifier": {
+          "uuid": "85f5a5c0-e069-4a6d-9074-e5ab5c7a62b3"
+        },
+        "uuid": "85f5a5c0-e069-4a6d-9074-e5ab5c7a62b3",
+        "product_num_customers": 323423,
+        "status": "using"
+      },
+      {
+        "product_identifier": {
+          "uuid": "805f03a3-ee62-4c9e-8457-1a5f564b8239",
+          "value": "jQuery",
+          "image_id": "siftery/siftery_logo_prViuoE4t3fDhh",
+          "entity_def_id": "siftery_product"
+        },
+        "identifier": {
+          "uuid": "58f4986f-6824-49e7-901b-773676efd42f"
+        },
+        "uuid": "58f4986f-6824-49e7-901b-773676efd42f",
+        "product_num_customers": 322391,
+        "status": "not_using"
+      },
+      {
+        "product_identifier": {
+          "uuid": "d50e90bf-6165-4df9-aa0d-c87ef00f9002",
+          "value": "Google Fonts",
+          "image_id": "siftery/siftery_logo_preFJ8BUpXArcN",
+          "entity_def_id": "siftery_product"
+        },
+        "identifier": {
+          "uuid": "93dc07eb-672b-4612-9ea1-13bb9b586da9"
+        },
+        "uuid": "93dc07eb-672b-4612-9ea1-13bb9b586da9",
+        "product_num_customers": 294264,
+        "status": "not_using"
+      },
+      {
+        "product_identifier": {
+          "uuid": "344a4034-da0b-4918-9c6b-11fd9b1e48b8",
+          "value": "Vimeo",
+          "image_id": "siftery/siftery_logo_prTux9uLV9SFjw",
+          "entity_def_id": "siftery_product"
+        },
+        "identifier": {
+          "uuid": "1098d177-3a85-4265-a2a9-6ebc7cea29ac"
+        },
+        "uuid": "1098d177-3a85-4265-a2a9-6ebc7cea29ac",
+        "product_num_customers": 264570,
+        "status": "using"
+      },
+      {
+        "product_identifier": {
+          "uuid": "74cd291b-ac7e-45f7-b4c8-ebef4606fca5",
+          "value": "Wordpress",
+          "entity_def_id": "siftery_product"
+        },
+        "identifier": {
+          "uuid": "c15b05e6-c74f-493b-a671-8ece96e3f43c"
+        },
+        "uuid": "c15b05e6-c74f-493b-a671-8ece96e3f43c",
+        "product_num_customers": 242140,
+        "status": "using"
+      },
+      {
+        "product_identifier": {
+          "uuid": "028b4d09-aae9-4895-8634-0961ab7fe255",
+          "value": "Google Tag Manager",
+          "image_id": "siftery/siftery_logo_prUAreEBebQ9vF",
+          "entity_def_id": "siftery_product"
+        },
+        "identifier": {
+          "uuid": "f802e526-4e96-42b5-a6c8-d1593e145065"
+        },
+        "uuid": "f802e526-4e96-42b5-a6c8-d1593e145065",
+        "product_num_customers": 175033,
+        "status": "not_using"
+      },
+      {
+        "product_identifier": {
+          "uuid": "a4cae353-b206-4eb3-8719-e8713534dd72",
+          "value": "Google Workspace",
+          "image_id": "siftery/siftery_logo_prle2szvkL3j4g",
+          "entity_def_id": "siftery_product"
+        },
+        "identifier": {
+          "uuid": "ec2dc3f6-f8be-4700-90e8-b5c0f77534a5"
+        },
+        "uuid": "ec2dc3f6-f8be-4700-90e8-b5c0f77534a5",
+        "product_num_customers": 159951,
+        "status": "using"
+      },
+      {
+        "product_identifier": {
+          "uuid": "f1ed96f5-ca47-4923-8d30-c55e8bbdbd24",
+          "value": "PHP",
+          "image_id": "siftery/siftery_logo_prKZCdw9FMjTzR",
+          "entity_def_id": "siftery_product"
+        },
+        "identifier": {
+          "uuid": "d3574eb7-2d23-43c9-aeed-e07607ec3edc"
+        },
+        "uuid": "d3574eb7-2d23-43c9-aeed-e07607ec3edc",
+        "product_num_customers": 145637,
+        "status": "not_using"
+      },
+      {
+        "product_identifier": {
+          "uuid": "22c2c612-300d-478a-8d66-467baee16af7",
+          "value": "Adobe Fonts",
+          "image_id": "siftery/siftery_logo_prv3_hFekgmrNr",
+          "entity_def_id": "siftery_product"
+        },
+        "identifier": {
+          "uuid": "a47e5037-aac5-42e5-a139-be4662420e9f"
+        },
+        "uuid": "a47e5037-aac5-42e5-a139-be4662420e9f",
+        "product_num_customers": 96869,
+        "status": "using"
+      }
+    ],
+    "overview_fields_extended": {
+      "aliases": [
+        "Piggybank",
+        "Piggybank.ng"
+      ],
+      "founded_on": {
+        "value": "2016-02-15",
+        "precision": "day"
+      },
+      "founder_identifiers": [
+        {
+          "uuid": "aabc034d-f0ff-d37b-0a36-40526e939060",
+          "value": "Ayo Akinola",
+          "image_id": "v1499504053/cvhvrpicolflhmd1m5sb.png",
+          "permalink": "ayo-akinola",
+          "entity_def_id": "person"
+        },
+        {
+          "uuid": "97e29df5-cf80-840e-eb13-a1b243028425",
+          "value": "Joshua Chibueze",
+          "image_id": "v1500993255/xac5j91u9y8yefdcg0dc.png",
+          "permalink": "joshua-chibueze",
+          "entity_def_id": "person"
+        },
+        {
+          "uuid": "fcf89109-28d4-9cc9-5c05-4ff1847ea8f1",
+          "value": "Nonso Eagle",
+          "image_id": "v1499504593/xfert9kt3kqvazqcqiq5.png",
+          "permalink": "nonso-eagle",
+          "entity_def_id": "person"
+        },
+        {
+          "uuid": "18c78ed7-0690-2f3a-4b33-fba10bceff93",
+          "value": "Odunayo Eweniyi",
+          "image_id": "v1499504780/o8ocfirc7jgkbnnuat68.png",
+          "permalink": "odunayo-eweniyi",
+          "entity_def_id": "person"
+        },
+        {
+          "uuid": "786e73e6-4fd5-7e27-192b-fa79f47a8f1f",
+          "value": "Somto Ifezue",
+          "image_id": "v1500993734/v4lvnmjkusjjyw64dups.png",
+          "permalink": "somto-ifezue",
+          "entity_def_id": "person"
+        }
+      ],
+      "operating_status": "active",
+      "last_funding_type": "seed",
+      "categories": [
+        {
+          "uuid": "68250c3a-6cf5-86fb-281e-9072ae2d4fe8",
+          "value": "Banking",
+          "permalink": "banking",
+          "entity_def_id": "category"
+        },
+        {
+          "uuid": "bb6b92f9-ccfa-6f9b-a59e-4906ebf75fb9",
+          "value": "Debit Cards",
+          "permalink": "debit-cards",
+          "entity_def_id": "category"
+        },
+        {
+          "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+          "value": "Finance",
+          "permalink": "finance",
+          "entity_def_id": "category"
+        },
+        {
+          "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+          "value": "Financial Services",
+          "permalink": "financial-services",
+          "entity_def_id": "category"
+        },
+        {
+          "uuid": "e06799a9-f789-76e7-49a7-71ee980a70ec",
+          "value": "FinTech",
+          "permalink": "fintech-e067",
+          "entity_def_id": "category"
+        }
+      ],
+      "legal_name": "PiggyTech Global Limited"
+    },
+    "bombora_attribution": {},
+    "semrush_location_list": [
+      {
+        "identifier": {
+          "uuid": "6348c547-defa-4ea8-8329-02bde7e98ad2"
+        },
+        "visits_mom_pct": -0.596530362013434,
+        "uuid": "6348c547-defa-4ea8-8329-02bde7e98ad2",
+        "rank": 2234,
+        "rank_mom_pct": 0.794377510040161,
+        "location_identifiers": [
+          {
+            "uuid": "4abbf906-6e8c-0c01-e56b-0e41d56bbfca",
+            "value": "Nigeria",
+            "permalink": "nigeria",
+            "entity_def_id": "location"
+          },
+          {
+            "uuid": "5b194c3b-3018-b47d-f611-ab142cdfd74c",
+            "value": "Africa",
+            "permalink": "africa",
+            "entity_def_id": "location"
+          }
+        ],
+        "visits_pct": 0.944470013305105
+      },
+      {
+        "identifier": {
+          "uuid": "397fa85d-1806-45ba-a98e-17d476918c8f"
+        },
+        "uuid": "397fa85d-1806-45ba-a98e-17d476918c8f",
+        "rank": 192205,
+        "location_identifiers": [
+          {
+            "uuid": "9dd7a8c5-7b7f-7785-90f4-fed17fa5a6ff",
+            "value": "Italy",
+            "permalink": "italy",
+            "entity_def_id": "location"
+          },
+          {
+            "uuid": "6106f5dc-823e-5da8-40d7-51612c0b2c4e",
+            "value": "Europe",
+            "permalink": "europe",
+            "entity_def_id": "location"
+          }
+        ],
+        "visits_pct": 0.0143260001840958
+      },
+      {
+        "identifier": {
+          "uuid": "83a16a27-6bae-40c6-80c4-5086c5b55a05"
+        },
+        "visits_mom_pct": -0.972152337989069,
+        "uuid": "83a16a27-6bae-40c6-80c4-5086c5b55a05",
+        "rank": 2191312,
+        "rank_mom_pct": 8.10024626552656,
+        "location_identifiers": [
+          {
+            "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+            "value": "United States",
+            "permalink": "united-states",
+            "entity_def_id": "location"
+          },
+          {
+            "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+            "value": "North America",
+            "permalink": "north-america",
+            "entity_def_id": "location"
+          }
+        ],
+        "visits_pct": 0.0134306251725898
+      },
+      {
+        "identifier": {
+          "uuid": "5af3b71f-4ab3-4657-bc2c-e171ee997d96"
+        },
+        "visits_mom_pct": -0.944164659513904,
+        "uuid": "5af3b71f-4ab3-4657-bc2c-e171ee997d96",
+        "rank": 400912,
+        "rank_mom_pct": 3.25357283057303,
+        "location_identifiers": [
+          {
+            "uuid": "6085b4bf-b18a-1763-a04e-fdde3f6aba94",
+            "value": "Germany",
+            "permalink": "germany",
+            "entity_def_id": "location"
+          },
+          {
+            "uuid": "6106f5dc-823e-5da8-40d7-51612c0b2c4e",
+            "value": "Europe",
+            "permalink": "europe",
+            "entity_def_id": "location"
+          }
+        ],
+        "visits_pct": 0.00853535057697296
+      },
+      {
+        "identifier": {
+          "uuid": "c0616891-747d-4767-9ef0-c3dee7a46b57"
+        },
+        "uuid": "c0616891-747d-4767-9ef0-c3dee7a46b57",
+        "rank": 239900,
+        "location_identifiers": [
+          {
+            "uuid": "3f66b02a-78e2-aca0-2da4-e7e1eed94671",
+            "value": "Spain",
+            "permalink": "spain",
+            "entity_def_id": "location"
+          },
+          {
+            "uuid": "6106f5dc-823e-5da8-40d7-51612c0b2c4e",
+            "value": "Europe",
+            "permalink": "europe",
+            "entity_def_id": "location"
+          }
+        ],
+        "visits_pct": 0.00347271616612135
+      }
+    ],
+    "overview_investor_fields": {},
+    "investors_list": [
+      {
+        "identifier": {
+          "uuid": "46fd93c7-0814-4615-8e1e-03d88856523a",
+          "value": "Village Capital investment in Seed Round - Piggyvest",
+          "permalink": "village-capital-invested-in-piggybank.ng-seed--531cb70b--46fd93c7",
+          "entity_def_id": "investment"
+        },
+        "funding_round_identifier": {
+          "uuid": "531cb70b-0b6e-4157-93b6-010815d1f465",
+          "value": "Seed Round - Piggyvest",
+          "image_id": "dom16mbowz9tquw3ures",
+          "permalink": "piggybank.ng-seed--531cb70b",
+          "entity_def_id": "funding_round"
+        },
+        "investor_identifier": {
+          "uuid": "01e00179-026f-0725-2530-fb93e449587d",
+          "value": "Village Capital",
+          "image_id": "mpo9ymvi0hhixqvynqjn",
+          "permalink": "village-capital",
+          "entity_def_id": "organization"
+        }
+      },
+      {
+        "is_lead_investor": true,
+        "identifier": {
+          "uuid": "8e25db97-fcea-4708-819f-885fa95f3a71",
+          "value": "Leadpath Nigeria investment in Seed Round - Piggyvest",
+          "permalink": "leadpath-nigeria-invested-in-piggybank.ng-seed--531cb70b--8e25db97",
+          "entity_def_id": "investment"
+        },
+        "partner_identifiers": [
+          {
+            "uuid": "6952f0e5-4d53-fb4b-4d8b-7e6338a11c45",
+            "value": "Olumide Soyombo",
+            "image_id": "kvn5y3iz5mebmualn88v",
+            "permalink": "olumide-soyombo",
+            "entity_def_id": "person"
+          }
+        ],
+        "funding_round_identifier": {
+          "uuid": "531cb70b-0b6e-4157-93b6-010815d1f465",
+          "value": "Seed Round - Piggyvest",
+          "image_id": "dom16mbowz9tquw3ures",
+          "permalink": "piggybank.ng-seed--531cb70b",
+          "entity_def_id": "funding_round"
+        },
+        "investor_identifier": {
+          "uuid": "53cad671-fc17-4338-9842-e5d2cd783bca",
+          "value": "Leadpath Nigeria",
+          "image_id": "v1397179218/a03d8386019bfe1432d23a579e728e2c.png",
+          "permalink": "leadpath-nigeria",
+          "entity_def_id": "organization"
+        }
+      },
+      {
+        "identifier": {
+          "uuid": "bf50dc3f-141d-47e5-8329-13d5d32ecbe5",
+          "value": "Ventures Platform investment in Seed Round - Piggyvest",
+          "permalink": "ventures-platform-invested-in-piggybank.ng-seed--531cb70b--bf50dc3f",
+          "entity_def_id": "investment"
+        },
+        "partner_identifiers": [
+          {
+            "uuid": "ed83a448-9f03-4228-a15a-660dcfda3e7a",
+            "value": "Kola Aina",
+            "image_id": "sh1hdeqtgrdk8xsny1f3",
+            "permalink": "kola-aina",
+            "entity_def_id": "person"
+          }
+        ],
+        "funding_round_identifier": {
+          "uuid": "531cb70b-0b6e-4157-93b6-010815d1f465",
+          "value": "Seed Round - Piggyvest",
+          "image_id": "dom16mbowz9tquw3ures",
+          "permalink": "piggybank.ng-seed--531cb70b",
+          "entity_def_id": "funding_round"
+        },
+        "investor_identifier": {
+          "uuid": "68d9920a-de28-248b-2e60-ea7c2a1d641c",
+          "value": "Ventures Platform",
+          "image_id": "efibstazbucp0kj1izhq",
+          "permalink": "ventures-platform",
+          "entity_def_id": "organization"
+        }
+      },
+      {
+        "is_lead_investor": true,
+        "identifier": {
+          "uuid": "05947fa4-73d9-4417-f944-a8eba4e02d3f",
+          "value": "VilCap Investments investment in Seed Round - Piggyvest",
+          "permalink": "vilcap-investments-invested-in-piggybank.ng-seed--c7acec1f--05947fa4",
+          "entity_def_id": "investment"
+        },
+        "funding_round_identifier": {
+          "uuid": "c7acec1f-7042-6a83-de44-ade607b0ea1a",
+          "value": "Seed Round - Piggyvest",
+          "image_id": "dom16mbowz9tquw3ures",
+          "permalink": "piggybank.ng-seed--c7acec1f",
+          "entity_def_id": "funding_round"
+        },
+        "investor_identifier": {
+          "uuid": "0d87900a-3c97-3c03-7e2d-85f8cb956bf3",
+          "value": "VilCap Investments",
+          "image_id": "v1461011305/m6anf0qtdcd4tgsof3mv.jpg",
+          "permalink": "vilcap-investments",
+          "entity_def_id": "organization"
+        }
+      }
+    ],
+    "siftery_summary": {
+      "identifier": {
+        "uuid": "1b86bbf7-e33b-9d0f-4819-102c4b1a7b54",
+        "value": "Piggyvest",
+        "image_id": "dom16mbowz9tquw3ures",
+        "permalink": "piggybank.ng",
+        "entity_def_id": "organization"
+      },
+      "siftery_num_products": 12
+    },
+    "acquired_by_summary": {
+      "identifier": {
+        "uuid": "1b86bbf7-e33b-9d0f-4819-102c4b1a7b54",
+        "value": "Piggyvest",
+        "image_id": "dom16mbowz9tquw3ures",
+        "permalink": "piggybank.ng",
+        "entity_def_id": "organization"
+      }
+    },
+    "ipo_fields": {},
+    "apptopia_app_overview_list_public": [],
+    "trading_view": {},
+    "news_headline": {
+      "num_articles": 13
+    },
+    "current_employees_image_list": [
+      {
+        "identifier": {
+          "uuid": "5b6ad646-c21c-4a24-a03b-128d54797e6b",
+          "value": "Nonso Eagle Co-Founder and CCO @ Piggyvest",
+          "permalink": "nonso-eagle-executive-piggybank.ng--5b6ad646",
+          "entity_def_id": "job"
+        },
+        "person_identifier": {
+          "uuid": "fcf89109-28d4-9cc9-5c05-4ff1847ea8f1",
+          "value": "Nonso Eagle",
+          "image_id": "v1499504593/xfert9kt3kqvazqcqiq5.png",
+          "permalink": "nonso-eagle",
+          "entity_def_id": "person"
+        },
+        "title": "Co-Founder and CCO"
+      },
+      {
+        "identifier": {
+          "uuid": "cff94567-ca37-43e6-ba87-5d26312d8e8e",
+          "value": "Joshua Chibueze Co-Founder @ Piggyvest",
+          "permalink": "joshua-chibueze-executive-piggybank.ng--cff94567",
+          "entity_def_id": "job"
+        },
+        "person_identifier": {
+          "uuid": "97e29df5-cf80-840e-eb13-a1b243028425",
+          "value": "Joshua Chibueze",
+          "image_id": "v1500993255/xac5j91u9y8yefdcg0dc.png",
+          "permalink": "joshua-chibueze",
+          "entity_def_id": "person"
+        },
+        "title": "Co-Founder"
+      },
+      {
+        "identifier": {
+          "uuid": "806b22aa-e96d-49b9-82e8-f70095b1642e",
+          "value": "Odunayo Eweniyi Co-founder and COO @ Piggyvest",
+          "permalink": "odunayo-eweniyi-executive-piggybank.ng--806b22aa",
+          "entity_def_id": "job"
+        },
+        "person_identifier": {
+          "uuid": "18c78ed7-0690-2f3a-4b33-fba10bceff93",
+          "value": "Odunayo Eweniyi",
+          "image_id": "v1499504780/o8ocfirc7jgkbnnuat68.png",
+          "permalink": "odunayo-eweniyi",
+          "entity_def_id": "person"
+        },
+        "title": "Co-founder and COO"
+      },
+      {
+        "identifier": {
+          "uuid": "985fa4db-dba2-44a7-b091-f510369c981d",
+          "value": "Ayo Akinola Co-Founder @ Piggyvest",
+          "permalink": "ayo-akinola-executive-piggybank.ng--985fa4db",
+          "entity_def_id": "job"
+        },
+        "person_identifier": {
+          "uuid": "aabc034d-f0ff-d37b-0a36-40526e939060",
+          "value": "Ayo Akinola",
+          "image_id": "v1499504053/cvhvrpicolflhmd1m5sb.png",
+          "permalink": "ayo-akinola",
+          "entity_def_id": "person"
+        },
+        "title": "Co-Founder"
+      },
+      {
+        "identifier": {
+          "uuid": "ce46a728-ee6d-4003-88ad-884ce6cd984a",
+          "value": "Somto Ifezue Co-founder and Lead Product Engineer @ Piggyvest",
+          "permalink": "somto-ifezue-executive-piggybank.ng--ce46a728",
+          "entity_def_id": "job"
+        },
+        "person_identifier": {
+          "uuid": "786e73e6-4fd5-7e27-192b-fa79f47a8f1f",
+          "value": "Somto Ifezue",
+          "image_id": "v1500993734/v4lvnmjkusjjyw64dups.png",
+          "permalink": "somto-ifezue",
+          "entity_def_id": "person"
+        },
+        "title": "Co-founder and Lead Product Engineer"
+      },
+      {
+        "identifier": {
+          "uuid": "a3667074-6683-4996-a1b3-c7b3198dc574",
+          "value": "Terry Kanu Chief of Partnerships @ Piggyvest",
+          "permalink": "terry-kanu-executive-piggybank.ng--a3667074",
+          "entity_def_id": "job"
+        },
+        "person_identifier": {
+          "uuid": "c8053f75-eda4-ffd1-d34c-45c587790735",
+          "value": "Terry Kanu",
+          "image_id": "v1499504999/dnmyt8tin1whrkbqzhag.png",
+          "permalink": "terry-kanu",
+          "entity_def_id": "person"
+        },
+        "title": "Chief of Partnerships"
+      }
+    ],
+    "privco_summary_public": {
+      "identifier": {
+        "uuid": "1b86bbf7-e33b-9d0f-4819-102c4b1a7b54",
+        "value": "Piggyvest",
+        "image_id": "dom16mbowz9tquw3ures",
+        "permalink": "piggybank.ng",
+        "entity_def_id": "organization"
+      }
+    },
+    "event_appearances_summary": {
+      "identifier": {
+        "uuid": "1b86bbf7-e33b-9d0f-4819-102c4b1a7b54",
+        "value": "Piggyvest",
+        "image_id": "dom16mbowz9tquw3ures",
+        "permalink": "piggybank.ng",
+        "entity_def_id": "organization"
+      }
+    },
+    "diversity_spotlight_investments_headline": {},
+    "frequently_asked_questions_investors": {
+      "identifier": {
+        "uuid": "1b86bbf7-e33b-9d0f-4819-102c4b1a7b54",
+        "value": "Piggyvest",
+        "image_id": "dom16mbowz9tquw3ures",
+        "permalink": "piggybank.ng",
+        "entity_def_id": "organization"
+      },
+      "num_investors": 4
+    },
+    "funding_rounds_list": [
+      {
+        "identifier": {
+          "uuid": "531cb70b-0b6e-4157-93b6-010815d1f465",
+          "value": "Seed Round - Piggyvest",
+          "image_id": "dom16mbowz9tquw3ures",
+          "permalink": "piggybank.ng-seed--531cb70b",
+          "entity_def_id": "funding_round"
+        },
+        "announced_on": "2018-05-31",
+        "num_investors": 3,
+        "lead_investor_identifiers": [
+          {
+            "uuid": "53cad671-fc17-4338-9842-e5d2cd783bca",
+            "value": "Leadpath Nigeria",
+            "image_id": "v1397179218/a03d8386019bfe1432d23a579e728e2c.png",
+            "permalink": "leadpath-nigeria",
+            "entity_def_id": "organization"
+          }
+        ]
+      },
+      {
+        "identifier": {
+          "uuid": "c7acec1f-7042-6a83-de44-ade607b0ea1a",
+          "value": "Seed Round - Piggyvest",
+          "image_id": "dom16mbowz9tquw3ures",
+          "permalink": "piggybank.ng-seed--c7acec1f",
+          "entity_def_id": "funding_round"
+        },
+        "announced_on": "2017-04-28",
+        "money_raised": {
+          "value": 50000,
+          "currency": "USD",
+          "value_usd": 50000
+        },
+        "num_investors": 1,
+        "lead_investor_identifiers": [
+          {
+            "uuid": "0d87900a-3c97-3c03-7e2d-85f8cb956bf3",
+            "value": "VilCap Investments",
+            "image_id": "v1461011305/m6anf0qtdcd4tgsof3mv.jpg",
+            "permalink": "vilcap-investments",
+            "entity_def_id": "organization"
+          }
+        ]
+      }
+    ],
+    "technology_highlights": {
+      "builtwith_num_technologies_used": 17,
+      "semrush_visits_latest_month": 119503,
+      "semrush_visits_mom_pct": -0.665542507220742,
+      "siftery_num_products": 12
+    },
+    "funding_rounds_headline": {
+      "funding_total": {
+        "value": 50000,
+        "currency": "USD",
+        "value_usd": 50000
+      },
+      "num_funding_rounds": 2
+    },
+    "investments_list": [],
+    "exits_image_list": [],
+    "funds_headline": {},
+    "people_highlights": {
+      "num_current_positions": 6
+    },
+    "current_employees_headline": {
+      "num_current_positions": 6
+    },
+    "semrush_attribution": {
+      "semrush_last_updated": "2022-06-10"
+    },
+    "event_appearances_list": [],
+    "current_employees_summary": {
+      "identifier": {
+        "uuid": "1b86bbf7-e33b-9d0f-4819-102c4b1a7b54",
+        "value": "Piggyvest",
+        "image_id": "dom16mbowz9tquw3ures",
+        "permalink": "piggybank.ng",
+        "entity_def_id": "organization"
+      },
+      "num_current_positions": 6
+    },
+    "funds_summary": {
+      "identifier": {
+        "uuid": "1b86bbf7-e33b-9d0f-4819-102c4b1a7b54",
+        "value": "Piggyvest",
+        "image_id": "dom16mbowz9tquw3ures",
+        "permalink": "piggybank.ng",
+        "entity_def_id": "organization"
+      }
+    },
+    "aberdeen_summary": {
+      "identifier": {
+        "uuid": "1b86bbf7-e33b-9d0f-4819-102c4b1a7b54",
+        "value": "Piggyvest",
+        "image_id": "dom16mbowz9tquw3ures",
+        "permalink": "piggybank.ng",
+        "entity_def_id": "organization"
+      }
+    },
+    "overview_timeline": {
+      "count": 16,
+      "entities": [
+        {
+          "uuid": "5984c1db-8f61-471f-a6ad-de0aa91902c4",
+          "properties": {
+            "identifier": {
+              "entity_def_id": "press_reference",
+              "uuid": "5984c1db-8f61-471f-a6ad-de0aa91902c4",
+              "value": "#FoundersConnect: Odun Eweniyi, Co-Founder of Piggyvest, Africa's Top Savings App"
+            },
+            "activity_properties": {
+              "publisher": "hackernoon.com",
+              "title": "#FoundersConnect: Odun Eweniyi, Co-Founder of Piggyvest, Africa's Top Savings App",
+              "thumbnail_url": "https://hackernoon.com/_next/image?url=https%3A%2F%2Fcdn.hackernoon.com%2Fimages%2F14jwr5qGazancUxcRU4AXRFZ97F3-cld3km3.jpeg&w=3840&q=75",
+              "url": {
+                "value": "https://hackernoon.com/foundersconnect-odun-eweniyi-co-founder-of-piggyvest-africas-top-savings-app"
+              }
+            },
+            "activity_date": "2022-06-12",
+            "entity_def_id": "press_reference",
+            "activity_entities": [
+              {
+                "permalink": "piggybank.ng",
+                "image_id": "dom16mbowz9tquw3ures",
+                "uuid": "1b86bbf7-e33b-9d0f-4819-102c4b1a7b54",
+                "entity_def_id": "organization",
+                "value": "Piggyvest"
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "20e5c9ed-f878-4e6d-9563-db9560a1299f",
+          "properties": {
+            "identifier": {
+              "entity_def_id": "press_reference",
+              "uuid": "20e5c9ed-f878-4e6d-9563-db9560a1299f",
+              "value": "How to Change Your Piggyvest Withdrawal Bank Account"
+            },
+            "activity_properties": {
+              "author": "Winner Ajibola",
+              "url": {
+                "value": "https://www.dignited.com/94895/piggyvest-withdrawal-account/"
+              },
+              "publisher": "Dignited",
+              "thumbnail_url": "https://www.dignited.com/wp-content/uploads/2019/10/piggyvest.jpg",
+              "title": "How to Change Your Piggyvest Withdrawal Bank Account"
+            },
+            "activity_date": "2022-05-05",
+            "entity_def_id": "press_reference",
+            "activity_entities": [
+              {
+                "permalink": "piggybank.ng",
+                "image_id": "dom16mbowz9tquw3ures",
+                "uuid": "1b86bbf7-e33b-9d0f-4819-102c4b1a7b54",
+                "entity_def_id": "organization",
+                "value": "Piggyvest"
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "2f387506-426d-4f28-aa0e-1493b2505eda",
+          "properties": {
+            "identifier": {
+              "entity_def_id": "press_reference",
+              "uuid": "2f387506-426d-4f28-aa0e-1493b2505eda",
+              "value": "How to Process Withdrawals From Your Piggyvest Flex Naira Account"
+            },
+            "activity_properties": {
+              "author": "Winner Ajibola",
+              "url": {
+                "value": "https://www.dignited.com/90964/how-to-process-withdrawals-from-your-piggyvest-flex-naira-account/"
+              },
+              "publisher": "Dignited",
+              "thumbnail_url": "https://www.dignited.com/wp-content/uploads/2022/02/piggyvest-website-1024x522-1.jpg",
+              "title": "How to Process Withdrawals From Your Piggyvest Flex Naira Account"
+            },
+            "activity_date": "2022-02-10",
+            "entity_def_id": "press_reference",
+            "activity_entities": [
+              {
+                "permalink": "piggybank.ng",
+                "image_id": "dom16mbowz9tquw3ures",
+                "uuid": "1b86bbf7-e33b-9d0f-4819-102c4b1a7b54",
+                "entity_def_id": "organization",
+                "value": "Piggyvest"
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "71982c63-fb45-4e25-ac90-d4c3ff87e0b2",
+          "properties": {
+            "identifier": {
+              "entity_def_id": "press_reference",
+              "uuid": "71982c63-fb45-4e25-ac90-d4c3ff87e0b2",
+              "value": "Nigerian fintech startup Piggyvest acquires counterpart Savi.ng"
+            },
+            "activity_properties": {
+              "author": "Tom Jackson",
+              "url": {
+                "value": "https://disrupt-africa.com/2021/07/30/nigerian-fintech-startup-piggyvest-acquires-counterpart-savi-ng/"
+              },
+              "publisher": "Disrupt Africa",
+              "thumbnail_url": "https://disrupt-africa.com/wp-content/uploads/2021/07/Piggyvest.jpg",
+              "title": "Nigerian fintech startup Piggyvest acquires counterpart Savi.ng"
+            },
+            "activity_date": "2021-07-30",
+            "entity_def_id": "press_reference",
+            "activity_entities": [
+              {
+                "permalink": "piggybank.ng",
+                "image_id": "dom16mbowz9tquw3ures",
+                "uuid": "1b86bbf7-e33b-9d0f-4819-102c4b1a7b54",
+                "entity_def_id": "organization",
+                "value": "Piggyvest"
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "86524cea-3300-4d55-9782-d1e7f2e22bf9",
+          "properties": {
+            "identifier": {
+              "entity_def_id": "press_reference",
+              "uuid": "86524cea-3300-4d55-9782-d1e7f2e22bf9",
+              "value": "Piggyvest Acquires Savi.ng; Here’s What to Know"
+            },
+            "activity_properties": {
+              "author": "Doris Ukaonu",
+              "url": {
+                "value": "https://zpr.io/z8Wpj7NDUrfD"
+              },
+              "publisher": "TechCity",
+              "thumbnail_url": "https://h2g6j3q2.rocketcdn.me/wp-content/uploads/2021/07/1_1VzDZx9lIvWczXhItveeNA.jpeg",
+              "title": "Piggyvest Acquires Savi.ng; Here’s What to Know"
+            },
+            "activity_date": "2021-07-28",
+            "entity_def_id": "press_reference",
+            "activity_entities": [
+              {
+                "permalink": "piggybank.ng",
+                "image_id": "dom16mbowz9tquw3ures",
+                "uuid": "1b86bbf7-e33b-9d0f-4819-102c4b1a7b54",
+                "entity_def_id": "organization",
+                "value": "Piggyvest"
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "608858c7-a994-460c-b45c-84e41e4c6ffa",
+          "properties": {
+            "identifier": {
+              "permalink": "piggybank.ng-acquires-savi-ng--608858c7",
+              "image_id": "lnm36vwkkidiant75wec",
+              "uuid": "608858c7-a994-460c-b45c-84e41e4c6ffa",
+              "entity_def_id": "acquisition",
+              "value": "Savi.ng acquired by Piggyvest"
+            },
+            "activity_date": "2021-07-27",
+            "entity_def_id": "acquisition",
+            "activity_entities": [
+              {
+                "permalink": "piggybank.ng",
+                "role": "acquirer",
+                "image_id": "dom16mbowz9tquw3ures",
+                "uuid": "1b86bbf7-e33b-9d0f-4819-102c4b1a7b54",
+                "entity_def_id": "organization",
+                "value": "Piggyvest"
+              },
+              {
+                "permalink": "savi-ng",
+                "role": "acquiree",
+                "image_id": "lnm36vwkkidiant75wec",
+                "uuid": "ed924ea0-2d4b-4dce-b742-86ab36de3388",
+                "entity_def_id": "organization",
+                "value": "Savi.ng"
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "e0ebb747-25cd-4f65-b2c6-1beead2bd2fd",
+          "properties": {
+            "identifier": {
+              "entity_def_id": "press_reference",
+              "uuid": "e0ebb747-25cd-4f65-b2c6-1beead2bd2fd",
+              "value": "Here’s why PiggyVest acquired VFD-owned Savi"
+            },
+            "activity_properties": {
+              "author": "Michael Ajifowoke",
+              "url": {
+                "value": "https://techcabal.com/2021/07/27/piggyvest-acquires-savi-ng/"
+              },
+              "publisher": "TechCabal",
+              "thumbnail_url": "https://x7d4c5z5.stackpathcdn.com/wp-content/uploads/tc/2018/06/piggypank01424.jpg",
+              "title": "Here’s why PiggyVest acquired VFD-owned Savi"
+            },
+            "activity_date": "2021-07-27",
+            "entity_def_id": "press_reference",
+            "activity_entities": [
+              {
+                "permalink": "piggybank.ng",
+                "image_id": "dom16mbowz9tquw3ures",
+                "uuid": "1b86bbf7-e33b-9d0f-4819-102c4b1a7b54",
+                "entity_def_id": "organization",
+                "value": "Piggyvest"
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "db972f95-f2ca-4d29-9df1-111b86f4beb7",
+          "properties": {
+            "identifier": {
+              "entity_def_id": "press_reference",
+              "uuid": "db972f95-f2ca-4d29-9df1-111b86f4beb7",
+              "value": "Tech in Africa"
+            },
+            "activity_properties": {
+              "author": "Hayden Simmons",
+              "url": {
+                "value": "https://www.readthegeneralist.com/briefing/africa"
+              },
+              "publisher": "readthegeneralist.com",
+              "thumbnail_url": "https://uploads-ssl.webflow.com/5f73bbd13fa8b95aedaf300b/60cf8ce9dee7a66476e985c9_africa.png",
+              "title": "Tech in Africa"
+            },
+            "activity_date": "2021-06-20",
+            "entity_def_id": "press_reference",
+            "activity_entities": [
+              {
+                "permalink": "piggybank.ng",
+                "image_id": "dom16mbowz9tquw3ures",
+                "uuid": "1b86bbf7-e33b-9d0f-4819-102c4b1a7b54",
+                "entity_def_id": "organization",
+                "value": "Piggyvest"
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "4a293b81-1108-4321-aaf7-98e07ec78898",
+          "properties": {
+            "identifier": {
+              "entity_def_id": "press_reference",
+              "uuid": "4a293b81-1108-4321-aaf7-98e07ec78898",
+              "value": "PiggyVest and uduX present PopRev, a platform that lets music fans invest in artistes"
+            },
+            "activity_properties": {
+              "author": "Edwin Madu",
+              "url": {
+                "value": "https://techcabal.com/2021/04/15/piggyvest-and-udux-present-poprev/"
+              },
+              "publisher": "TechCabal",
+              "thumbnail_url": "https://x7d4c5z5.stackpathcdn.com/wp-content/uploads/tc/2021/04/Piggyvest-x-Udux.jpg",
+              "title": "PiggyVest and uduX present PopRev, a platform that lets music fans invest in artistes"
+            },
+            "activity_date": "2021-04-15",
+            "entity_def_id": "press_reference",
+            "activity_entities": [
+              {
+                "permalink": "piggybank.ng",
+                "image_id": "dom16mbowz9tquw3ures",
+                "uuid": "1b86bbf7-e33b-9d0f-4819-102c4b1a7b54",
+                "entity_def_id": "organization",
+                "value": "Piggyvest"
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "b9a87f08-d3b9-432e-b61e-187375bfdb12",
+          "properties": {
+            "identifier": {
+              "entity_def_id": "press_reference",
+              "uuid": "b9a87f08-d3b9-432e-b61e-187375bfdb12",
+              "value": "Nigerian streaming platform, uduX, partners PiggyVest to help you invest in your favourite artistes"
+            },
+            "activity_properties": {
+              "author": "Oluwanifemi Kolawole",
+              "url": {
+                "value": "https://ift.tt/3uVi40W"
+              },
+              "publisher": "Techpoint Africa",
+              "thumbnail_url": "https://techpoint.africa/wp-content/uploads/2021/04/Press-Photo-BW-2048x1211.jpg",
+              "title": "Nigerian streaming platform, uduX, partners PiggyVest to help you invest in your favourite artistes"
+            },
+            "activity_date": "2021-04-15",
+            "entity_def_id": "press_reference",
+            "activity_entities": [
+              {
+                "permalink": "piggybank.ng",
+                "image_id": "dom16mbowz9tquw3ures",
+                "uuid": "1b86bbf7-e33b-9d0f-4819-102c4b1a7b54",
+                "entity_def_id": "organization",
+                "value": "Piggyvest"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "company_financials_highlights": {
+      "funding_total": {
+        "value": 50000,
+        "currency": "USD",
+        "value_usd": 50000
+      },
+      "num_funding_rounds": 2,
+      "num_investors": 4,
+      "num_lead_investors": 2
+    },
+    "overview_company_fields": {
+      "company_type": "for_profit"
+    },
+    "acquisitions_headline": {
+      "num_acquisitions": 1
+    },
+    "builtwith_summary": {
+      "builtwith_num_technologies_used": 17,
+      "identifier": {
+        "uuid": "1b86bbf7-e33b-9d0f-4819-102c4b1a7b54",
+        "value": "Piggyvest",
+        "image_id": "dom16mbowz9tquw3ures",
+        "permalink": "piggybank.ng",
+        "entity_def_id": "organization"
+      }
+    },
+    "advisors_headline": {},
+    "about_short_description": {
+      "short_description": "Piggyvest is a platform that helps individuals and businesses manage their finances effectively."
+    },
+    "contacts_summary": {
+      "lookup": [
+        {
+          "name": "Joshua Chibueze",
+          "identifier": {
+            "uuid": "e1038960-02c1-4c83-85d5-fde805d8845d",
+            "value": "Joshua Chibueze",
+            "entity_def_id": "contact"
+          },
+          "linkedin": "jchibueze"
+        }
+      ],
+      "properties": {},
+      "data": [
+        {
+          "name": "Joshua Chibueze",
+          "identifier": {
+            "uuid": "e1038960-02c1-4c83-85d5-fde805d8845d",
+            "value": "Joshua Chibueze",
+            "entity_def_id": "contact"
+          },
+          "linkedin": "jchibueze"
+        }
+      ]
+    },
+    "event_appearances_headline": {},
+    "apptopia_app_headline": {},
+    "company_overview_highlights": {
+      "num_org_similarities": 3,
+      "num_current_positions": 6,
+      "num_investors": 4,
+      "num_acquisitions": 1,
+      "funding_total": {
+        "value": 50000,
+        "currency": "USD",
+        "value_usd": 50000
+      }
+    }
+  }
+}]

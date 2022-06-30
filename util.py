@@ -1,8 +1,7 @@
-from setup import API_KEY
+from settings import API_KEY
 from serpapi import GoogleSearch
 
-def get_results(query):
-    
+def get_results(query):    
     params = {
       "q": query,
       "location": "Lagos, Lagos, Nigeria",

@@ -1,14 +1,25 @@
+import sys
+from streamlit import cli as stcli
+from settings import *
 
-#Serp API Key
-API_KEY = "7f7342e8d4bfe676ef4d77880ef14d70e2d7cad3c9059ec57ab8e62baf1c5123"
 
-# import companies 
-from dummy_db import flw
+if __name__ == '__main__':
+    try : 
+        sub_comm = sys.argv[1:][0]
 
-COMPANIES = [flw.Flutterwave]
+        if (sub_comm == "create-db") : 
+            # Create Tables
+            dbms.create_db_tables()
+        elif (sub_comm == "run-client"):
+            sys.argv = ["streamlit", "run", "main.py"]
+            sys.exit(stcli.main())
+        elif (sub_comm == "run-admin"):
+            sys.argv = ["streamlit", "run", "admin.py"]
+            sys.exit(stcli.main())
+        else : 
+            print("create-db    Create new database")
+            print("runserver    Run main streamlit app")
+    except : 
+        print("run 'python setupy.py help'")
 
-PAYMENTS = [comp for comp in COMPANIES if comp.sub_industry == "Payment"]
-
-SUB_INDUSTRIES = {
-    'Payment' : PAYMENTS,
-}
+    
