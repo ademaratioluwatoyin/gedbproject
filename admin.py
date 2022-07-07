@@ -56,6 +56,8 @@ if len(metrics) > 0 :
             st.session_state.metrics = metrics
             st.experimental_rerun()
         
+st.write('\n')
+doc = st.file_uploader(label = 'Additional Document')
 
 st.write("\n\n\n\n")
 add_to_db = st.button("Add to databank")

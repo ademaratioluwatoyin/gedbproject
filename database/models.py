@@ -13,4 +13,5 @@ company = Table(COMPANIES, metadata, Column("id", Integer, primary_key=True),
                 Column('name', String(32)),
                 Column('subindustry', String(32)),
                 Column('overview', String()),
+                #Column('document', String()),
                 Column('info', String()))

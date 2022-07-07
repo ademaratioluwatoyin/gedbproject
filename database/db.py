@@ -113,13 +113,12 @@ class MyDatabase:
         query = "DELETE FROM {} WHERE id=3".format(COMPANIES)
         self.execute_query(query)
         self.print_all_data(COMPANIES)
-
+        
+    def refresh(self):
         # Delete All Data
-        '''
         query = "DELETE FROM {}".format(COMPANIES)
         self.execute_query(query)
         self.print_all_data(COMPANIES)
-        '''
 
     def sample_insert(self):
         # Insert Data
