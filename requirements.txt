@@ -19,7 +19,7 @@ async-timeout==4.0.1
 atomicwrites==1.4.0
 attrs==21.4.0
 Automat==20.2.0
-autopep8==1.6.0
+autopep8
 Babel==2.9.1
 backcall==0.2.0
 backports.functools-lru-cache==1.6.4
@@ -72,7 +72,7 @@ et-xmlfile==1.1.0
 executing==0.8.3
 fastjsonschema==2.15.1
 filelock==3.6.0
-flake8==3.9.2
+flake8
 Flask==1.1.2
 fonttools==4.25.0
 frozenlist==1.2.0
@@ -198,6 +198,7 @@ py==1.11.0
 pyarrow==8.0.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
+pycodestyle
 pycosat==0.6.3
 pycparser==2.21
 pyct==0.4.6
