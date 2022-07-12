@@ -280,7 +280,6 @@ stack-data==0.2.0
 statsmodels==0.13.2
 streamlit==1.10.0
 sympy==1.10.1
-tables==3.6.1
 tabulate==0.8.9
 TBB==0.2
 tblib==1.7.0
